@@ -1,43 +1,43 @@
 # Invara Labs Playbook
 
-The **Invara Labs Playbook** is the single source of truth for how Invara Labs thinks, operates, builds software, serves clients, and grows.
+The **Invara Labs Playbook** is the single source of truth for how Invara Labs thinks, decides, builds, delivers, and grows.
 
-## North Star
+Invara Labs is an **engineering-first, AI-enabled, business-focused technology solutions company**. We exist to solve real business problems for startups and established organisations through exceptional engineering, reliable delivery, intelligent automation, and long-term partnerships.
 
-> To build engineering systems that enable teams to consistently create exceptional digital products.
+## Current Status
 
-## Core Philosophy
+| Area | Status |
+|---|---|
+| Chapter 01 — Founder Vision | Approved |
+| Chapter 02 — Mission Statement | Approved |
+| Chapter 03 — Vision Statement | Approved |
+| Foundation phase | Active |
 
-> Software development should never depend on individual heroes. It should be powered by strong engineering systems, intelligent automation, and collaborative teams that consistently deliver exceptional products.
+## Start Here
+
+1. Read [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
+2. Read [`AI_GUIDE.md`](AI_GUIDE.md).
+3. Review approved foundation chapters in [`docs/01-foundation/`](docs/01-foundation/).
+4. Review accepted decisions in [`decisions/`](decisions/).
+5. Continue from the next item in [`ROADMAP.md`](ROADMAP.md).
+
+## Core Positioning
+
+> **Engineering First. AI Enabled. Business Focused.**
 
 ## Core Belief
 
 > Technology should solve business problems—not create technical complexity.
 
-## Structure
+## Knowledge Layers
 
-- `00-company/` — Overview, roadmap, and milestones
-- `01-foundation/` — Founder vision, mission, values, culture, and principles
-- `02-business/` — Services, clients, pricing, and engagement models
-- `03-engineering/` — Architecture, standards, security, and quality
-- `04-ai-platform/` — AI strategy, agents, automation, and delivery platform
-- `05-design/` — UX, UI, product design, and accessibility
-- `06-sales/` — Positioning, discovery, proposals, and sales process
-- `07-operations/` — Hiring, onboarding, communication, and delivery operations
-- `08-finance/` — Budgeting, revenue, and financial models
-- `09-marketing/` — Brand, content, SEO, and go-to-market
-- `10-products/` — SaaS, internal tools, and product initiatives
-- `decisions/` — Important company and architecture decisions
-- `assets/` — Templates, logos, diagrams, and presentations
+- **Playbook** — approved company knowledge and operating standards.
+- **Decision Records** — why important strategic choices were made.
+- **Founder Journal** — the evolution of the founder's thinking.
+- **Templates** — repeatable structures for future work.
+- **Project Context** — current status and next actions for humans and AI agents.
 
-## Current Progress
+## Repository Principle
 
-| Document | Version | Status |
-|---|---:|---|
-| Founder Vision | 1.0.0 | Approved |
-| Mission Statement | 0.1.0 | Draft |
-| Vision Statement | 0.1.0 | Draft |
-| Core Values | 0.1.0 | Draft |
-| Engineering Philosophy | 0.1.0 | Draft |
-
-Founder and initial owner: **Madhukumar Rajanala**
+The conversation is the workshop.  
+The repository is the source of truth.

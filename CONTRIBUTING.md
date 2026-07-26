@@ -2,16 +2,30 @@
 
 ## Principles
 
-1. Write for future team members, not only today's founder.
-2. Prefer clear language over corporate jargon.
-3. Record why a decision was made, not only what was decided.
-4. Keep foundational principles independent of specific technologies.
-5. Every meaningful update should strengthen the company system.
+Contributions must:
+
+- Preserve founder intent.
+- Align with approved chapters.
+- Improve clarity or operational usefulness.
+- Avoid unnecessary complexity.
+- Record important strategic decisions.
+- Keep documentation internally consistent.
 
 ## Workflow
 
-1. Create or update a document.
-2. Mark it `Review` when ready for discussion.
-3. Record major decisions in `decisions/`.
-4. Mark it `Approved` after founder review.
-5. Update `CHANGELOG.md` for meaningful changes.
+1. Create or update a focused branch.
+2. Modify the smallest necessary set of files.
+3. Update document versions where required.
+4. Update `CHANGELOG.md`.
+5. Update `PROJECT_CONTEXT.md`.
+6. Add an ADR for strategic decisions.
+7. Add a Founder Journal entry for meaningful sessions.
+8. Commit with a descriptive message.
+
+## Suggested Commit Convention
+
+- `feat(playbook): add Vision Statement v1.0.0`
+- `docs(context): update current foundation status`
+- `decision: accept business-problems-first positioning`
+- `journal: record 27 July 2026 founder session`
+- `fix(docs): correct mission wording`
