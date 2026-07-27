@@ -1,7 +1,7 @@
 # Invara Labs — Company Overview
 
 **Version:** 0.1.0  
-**Status:** Draft  
+**Status:** Approved  
 **Owner:** Founder  
 **Updated:** 27 July 2026
 
