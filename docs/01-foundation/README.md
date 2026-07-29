@@ -1,74 +1,49 @@
-# Invara Labs Operating System
-
 # Foundation
 
 ## Purpose
 
-The Foundation defines why Invara Labs exists and the principles that guide every decision we make.
-
-It establishes our purpose, beliefs, values, and long-term direction.
-
-Everything built within the organisation—including products, engineering practices, business decisions, and leadership—should align with the Foundation.
+Define why Invara Labs exists and the enduring principles guiding every decision.
 
 ---
 
-## Scope
+## Contents
 
-This section defines:
-
-- Founder Vision
-- Mission
-- Vision
-- Core Values
-- Company Manifesto
-- Founder Principles
-
-These documents represent the enduring identity of Invara Labs and are expected to evolve only when there is a fundamental change in the organisation's direction.
+Founder Vision, Mission, Vision, Core Values, Company Manifesto, and Founder Principles.
 
 ---
 
 ## Reading Order
 
-1. Founder Vision
-2. Mission
-3. Vision
-4. Core Values
-5. Company Manifesto
-6. Founder Principles
+1. [Founder Vision](01-founder-vision.md)
+2. [Mission](02-mission.md)
+3. [Vision](03-vision.md)
+4. [Core Values](04-core-values.md)
+5. [Company Manifesto](05-company-manifesto.md)
+6. [Founder Principles](06-founder-principles.md)
 
 ---
 
-## Documents
+## Relationships
 
-| Document | Purpose |
-|----------|---------|
-| 01-founder-vision.md | Explains why Invara Labs was founded and the long-term aspiration behind the organisation. |
-| 02-mission.md | Defines the organisation's purpose and the value it delivers. |
-| 03-vision.md | Describes the future Invara Labs is working to create. |
-| 04-core-values.md | The principles that guide behaviour and decision-making across the organisation. |
-| 05-company-manifesto.md | A declaration of what Invara Labs believes and stands for. |
-| 06-founder-principles.md | Personal leadership principles established by the founder. |
+The foundation governs every company and domain document.
 
 ---
 
-## Foundation Philosophy
+## Navigation
 
-The Foundation is intentionally stable.
-
-Processes, technologies, and products will evolve over time.
-
-Our mission, values, and principles should remain consistent and provide continuity as the organisation grows.
-
----
-
-## Guiding Principle
-
-> **Strong organisations are built on enduring principles, not changing technologies.**
+- [Company](../00-company/README.md)
+- [Business](../02-business/README.md)
+- [Engineering](../03-engineering/README.md)
+- [Repository home](../../README.md)
 
 ---
 
-## Related Sections
+## Status
 
-- Company
-- Business
-- Engineering
+🟡 In Progress
+
+---
+
+## Future Work
+
+Complete and approve the remaining foundation chapters.

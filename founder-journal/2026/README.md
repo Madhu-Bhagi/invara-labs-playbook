@@ -1,5 +1,43 @@
 # Founder Journal — 2026
 
-The Founder Journal captures discussions, evolving ideas, trade-offs, open questions, and session outcomes.
+## Purpose
 
-Journal entries are not automatically official policy. Approved policy belongs in the playbook, and accepted strategic choices belong in ADRs.
+Index founder discussions, trade-offs, and session outcomes recorded during 2026.
+
+---
+
+## Contents
+
+- [Foundation session — 27 July](2026-07-27-foundation-session.md)
+- [Information architecture — 29 July](2026-07-29-information-architecture.md)
+
+---
+
+## Reading Order
+
+Read entries chronologically.
+
+---
+
+## Relationships
+
+Journal entries provide context; approved policy belongs in `docs/` and accepted decisions in `decisions/adr/`.
+
+---
+
+## Navigation
+
+- [Founder Journal](../README.md)
+- [Repository home](../../README.md)
+
+---
+
+## Status
+
+🟡 In Progress
+
+---
+
+## Future Work
+
+Add an entry after each substantive founder session.

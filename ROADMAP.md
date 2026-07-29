@@ -1,5 +1,16 @@
 # Invara Labs Playbook Roadmap
 
+## Repository Architecture
+
+| Area | Status |
+|---|---|
+| Information architecture v1.0 | Stable |
+| Standard README structure | Stable |
+| Engineering principles | Stable |
+| Requirements Playbook | Planned |
+| Remaining engineering playbooks | Planned |
+| Engineering standards | Planned |
+
 ## Phase 1 — Foundation
 
 **Goal:** Establish clarity about why Invara Labs exists, what it does, what it aims to become, and how it behaves.

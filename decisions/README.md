@@ -1,13 +1,43 @@
 # Decision Records
 
-Decision records preserve why important strategic choices were made.
+## Purpose
 
-## Accepted Decisions
+Preserve why important strategic and structural choices were made.
 
-| ID | Decision | Status |
-|---|---|---|
-| ADR-001 | Engineering First, AI Enabled | Accepted |
-| ADR-002 | Systems over Heroes | Accepted |
-| ADR-003 | Technology Solutions Company | Accepted |
-| ADR-004 | Business Problems First | Accepted |
-| ADR-005 | Repository as Source of Truth | Accepted |
+---
+
+## Contents
+
+Accepted and proposed Architecture Decision Records in [`adr/`](adr/).
+
+---
+
+## Reading Order
+
+Read ADRs numerically; use related documents when reviewing a specific decision.
+
+---
+
+## Relationships
+
+ADRs govern durable choices reflected across documentation, workflows, and repository structure.
+
+---
+
+## Navigation
+
+- [ADR folder](adr/)
+- [ADR template](../templates/governance/adr-template.md)
+- [Repository home](../README.md)
+
+---
+
+## Status
+
+🟢 Stable
+
+---
+
+## Future Work
+
+Record future structural changes here before implementation.

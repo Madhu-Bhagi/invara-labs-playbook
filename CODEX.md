@@ -13,7 +13,8 @@ Continue building the Invara Labs Playbook from Chapter 04 — Core Values.
 - Preserve the positioning: **Engineering First. AI Enabled. Business Focused.**
 - Invara Labs exists to solve real business problems through technology.
 - Trust, credibility, quality delivery, client happiness, and long-term partnerships are central.
-- Record strategic decisions in `decisions/`.
+- Record strategic decisions in `decisions/adr/`.
+- Preserve information architecture v1.0 unless a new ADR approves a structural change.
 - Record session outcomes in `founder-journal/`.
 - Keep all context in the repository, not only in chat.
 

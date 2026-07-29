@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Foundation  
-**Repository Version:** 1.3.0  
-**Last Updated:** 27 July 2026
+**Repository Version:** 1.4.0
+**Last Updated:** 29 July 2026
 
 ## Purpose
 
@@ -62,6 +62,7 @@ Chapter 04 — Core Values
 - Business problems come before tools and frameworks.
 - The repository is the permanent source of truth.
 - Approved chapters, decisions, and session notes must be version-controlled.
+- Information architecture v1.0 is stable; future structural changes require an ADR.
 
 ## Open Work
 
@@ -70,6 +71,7 @@ Chapter 04 — Core Values
 - Define Chapter 06 — Company Manifesto.
 - Define Chapter 07 — Founder Principles.
 - Refine market positioning and service packaging after the foundation phase.
+- Author the Requirements Playbook when engineering delivery content is prioritised.
 
 ## Working Method
 

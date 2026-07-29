@@ -9,7 +9,7 @@ Before making changes:
 1. Read `PROJECT_CONTEXT.md`.
 2. Read `README.md`.
 3. Read all approved documents relevant to the task.
-4. Read related ADRs in `decisions/`.
+4. Read related ADRs in `decisions/adr/`.
 5. Read the latest Founder Journal entry.
 6. Check `ROADMAP.md` and `CHANGELOG.md`.
 
@@ -40,6 +40,7 @@ Do not behave like a generic copywriter or motivational startup coach.
 10. Keep the company engineering-first, AI-enabled, and business-focused.
 11. Recommend an ADR whenever a strategic or difficult-to-reverse decision is made.
 12. Update context, changelog, roadmap, and journal when substantive work is completed.
+13. Treat information architecture v1.0 as stable; record structural changes as ADRs before implementation.
 
 ## Document Lifecycle
 

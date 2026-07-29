@@ -1,60 +1,45 @@
-# Invara Labs Operating System
-
 # Company
 
 ## Purpose
 
-This section provides a high-level understanding of Invara Labs as an organisation.
-
-It explains who we are, what we do, how the company is organised, and the common language used throughout the Operating System.
-
-Every team member should begin here to understand the organisation before exploring specific business or engineering practices.
+Provide a high-level understanding of Invara Labs, its organisation, and shared language.
 
 ---
 
-## Scope
+## Contents
 
-This section covers:
-
-- Company overview
-- Organisational structure
-- Business domains
-- Shared terminology
-- Company-wide references
-
-This section intentionally avoids detailed engineering, business, or operational processes, which are documented in their respective domains.
+Company overview and future organisation-wide references.
 
 ---
 
 ## Reading Order
 
-1. Company Overview
-2. Organisation Structure
-3. Glossary
+1. [Company Overview](company-overview.md)
+2. Organisation structure when added
+3. Company glossary when added
 
 ---
 
-## Documents
+## Relationships
 
-| Document | Purpose |
-|----------|---------|
-| company-overview.md | Introduction to Invara Labs, its purpose, and business model. |
-| organisation-structure.md | High-level organisational structure and functional areas. |
-| glossary.md | Common terminology used across the Operating System. |
+Foundation defines identity; domain sections define how each function operates.
 
 ---
 
-## Guiding Principle
+## Navigation
 
-> **Understand the organisation before optimising individual functions.**
-
-Every decision should support the mission and long-term direction of Invara Labs.
+- [Documentation](../README.md)
+- [Foundation](../01-foundation/README.md)
+- [Repository home](../../README.md)
 
 ---
 
-## Related Sections
+## Status
 
-- Foundation
-- Business
-- Engineering
-- Operations
+🟡 In Progress
+
+---
+
+## Future Work
+
+Add organisation structure and shared glossary when needed.

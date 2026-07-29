@@ -2,6 +2,23 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.4.0] — 29 July 2026
+
+### Added
+
+- Stable information architecture v1.0.
+- ADR-007 — Stable Information Architecture.
+- Standard README structure and maturity model.
+- Engineering playbook, standards, reference, and examples structure.
+- Planned engineering playbook and standard documents.
+
+### Changed
+
+- Moved ADRs to `decisions/adr/`.
+- Consolidated reusable templates under domain folders.
+- Standardised domain numbering with Marketing at 08 and Finance at 09.
+- Updated navigation, AI instructions, context, roadmap, and Founder Journal.
+
 ## [1.3.0] — 27 July 2026
 
 ### Added

@@ -1,43 +1,68 @@
 # Invara Labs Playbook
 
-The **Invara Labs Playbook** is the single source of truth for how Invara Labs thinks, decides, builds, delivers, and grows.
+## Purpose
 
-Invara Labs is an **engineering-first, AI-enabled, business-focused technology solutions company**. We exist to solve real business problems for startups and established organisations through exceptional engineering, reliable delivery, intelligent automation, and long-term partnerships.
+The Invara Labs Playbook is the source of truth for how Invara Labs thinks, decides, builds, delivers, and grows.
 
-## Current Status
+Invara Labs is an **engineering-first, AI-enabled, business-focused technology solutions company**.
 
-| Area | Status |
-|---|---|
-| Chapter 01 — Founder Vision | Approved |
-| Chapter 02 — Mission Statement | Approved |
-| Chapter 03 — Vision Statement | Approved |
-| Foundation phase | Active |
+---
 
-## Start Here
+## Contents
+
+- Company and foundation
+- Business and functional domains
+- Engineering principles, playbooks, standards, references, and examples
+- Decisions, founder journals, meeting notes, prompts, and templates
+- Project context, roadmap, and change history
+
+---
+
+## Reading Order
 
 1. Read [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
 2. Read [`AI_GUIDE.md`](AI_GUIDE.md).
-3. Review approved foundation chapters in [`docs/01-foundation/`](docs/01-foundation/).
-4. Review accepted decisions in [`decisions/`](decisions/).
-5. Continue from the next item in [`ROADMAP.md`](ROADMAP.md).
+3. Open the [`Documentation index`](docs/index.md).
+4. Review relevant ADRs in [`decisions/adr/`](decisions/adr/).
+5. Continue from [`ROADMAP.md`](ROADMAP.md).
 
-## Core Positioning
+---
+
+## Relationships
 
 > **Engineering First. AI Enabled. Business Focused.**
 
-## Core Belief
+The conversation is the workshop; the repository is the source of truth.
 
-> Technology should solve business problems—not create technical complexity.
+---
 
-## Knowledge Layers
+## Navigation
 
-- **Playbook** — approved company knowledge and operating standards.
-- **Decision Records** — why important strategic choices were made.
-- **Founder Journal** — the evolution of the founder's thinking.
-- **Templates** — repeatable structures for future work.
-- **Project Context** — current status and next actions for humans and AI agents.
+- [Documentation](docs/README.md)
+- [Decisions](decisions/README.md)
+- [Founder Journal](founder-journal/README.md)
+- [Meeting Notes](meeting-notes/README.md)
+- [Prompts](prompts/README.md)
+- [Templates](templates/README.md)
 
-## Repository Principle
+---
 
-The conversation is the workshop.  
-The repository is the source of truth.
+## Status
+
+🟡 In Progress
+
+| Area | Maturity |
+|---|---|
+| Chapters 01–03 | 🟢 Stable |
+| Foundation phase | 🟡 In Progress |
+| Information architecture v1.0 | 🟢 Stable |
+| Engineering principles | 🟢 Stable |
+| Engineering playbooks and standards | 🔴 Planned |
+
+---
+
+## Future Work
+
+- Complete Chapter 04 — Core Values.
+- Author the Requirements Playbook when engineering delivery content is prioritised.
+- Avoid further restructuring unless a new ADR establishes a compelling reason.
