@@ -1,5 +1,36 @@
 # Requirements Playbook
 
+---
+title: Requirements Engineering Playbook
+id: PB-REQ
+version: 1.0.0
+status: Approved
+owner: Engineering Governance
+classification: Internal
+review_cycle: Annual
+created: 2026-07-30
+last_updated: 2026-07-30
+approved_by: Engineering Governance Board
+authors:
+  - Madhukumar Rajanala
+
+tags:
+  - requirements
+  - engineering
+  - playbook
+
+related:
+  principles:
+    - EP-001
+  standards:
+    - DOC-STYLE
+    - PB-AUTHORING
+  playbooks: []
+
+supersedes: null
+superseded_by: null
+---
+
 > *"The cost of misunderstanding a problem is always greater than the cost of understanding it."*
 
 ---
