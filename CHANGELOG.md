@@ -2,6 +2,30 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.8.0] — 30 July 2026
+
+### Changed
+
+- Expanded ILOS Roadmap into the Engineering Operating System master backlog.
+- Added reconciled document statuses, delivery phases, progress totals, dependencies, priorities, and success criteria.
+- Published ILOS Roadmap v1.1.0 and ILOS control layer v1.3.0.
+
+## [1.7.0] — 30 July 2026
+
+### Changed
+
+- Expanded ILOS Architecture into the Engineering Operating System constitution.
+- Added the canonical visual model, architectural goals, design principles, document relationships, constraints, and evolution rules.
+- Published ILOS Architecture v1.1.0 and ILOS control layer v1.2.0.
+
+## [1.6.0] — 30 July 2026
+
+### Changed
+
+- Expanded the ILOS README into the Engineering Operating System landing page.
+- Added ILOS vision, objectives, principles, documentation model, lifecycle, governance, AI guidance, and contributor navigation.
+- Retained `ilos/` to avoid ambiguity with the existing company foundation domain.
+
 ## [1.5.0] — 30 July 2026
 
 ### Added

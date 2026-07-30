@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Foundation  
-**Repository Version:** 1.5.0
-**ILOS Version:** 1.0.0
+**Repository Version:** 1.8.0
+**ILOS Version:** 1.3.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -65,6 +65,9 @@ Chapter 04 — Core Values
 - Approved chapters, decisions, and session notes must be version-controlled.
 - Information architecture v1.0 is stable; future structural changes require an ADR.
 - The dedicated `ilos/` control layer governs repository architecture, governance, roadmap, and document lifecycle.
+- The ILOS README is the entry point for the Engineering Operating System and its documentation model.
+- ILOS Architecture is the stable constitution for engineering document structure, relationships, governance, and evolution.
+- ILOS Roadmap is the master backlog and reports status from actual document metadata and content.
 
 ## Open Work
 
