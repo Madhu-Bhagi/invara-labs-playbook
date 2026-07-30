@@ -1,7 +1,7 @@
 ---
 title: Maintenance Playbook
 id: PB-MAINTENANCE
-version: 1.0.3
+version: 1.0.4
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -27,6 +27,7 @@ related:
   - PB-PLATFORM-ENGINEERING
   - PB-SECURITY-ENGINEERING
   - PB-DATA-ENGINEERING
+  - PB-API-MANAGEMENT
   - PB-AUTHORING
   - STD-TRACEABILITY
   - STD-METADATA
@@ -900,6 +901,7 @@ The team verifies consumers, archives required data, removes credentials, schedu
 - [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) governs platform-product sustainment, evolution, and retirement context.
 - [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) governs security risk, vulnerability, patch, credential, and control context.
 - [Data Engineering Playbook](PB-DATA-ENGINEERING.md) governs data-product contract, quality, lineage, retention, and consumer context.
+- [API Management Playbook](PB-API-MANAGEMENT.md) governs API-product contract, consumer, compatibility, and deprecation context.
 
 ## 34. Metrics
 
@@ -1031,6 +1033,7 @@ Track effectiveness, not only completion.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.4 | 2026-07-30 | Invara Labs Engineering | Draft | Linked API-product sustainment and retirement to `PB-API-MANAGEMENT` |
 | 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked data-product sustainment and retirement to `PB-DATA-ENGINEERING` |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked security sustainment and vulnerability context to `PB-SECURITY-ENGINEERING` |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked platform sustainment and retirement to `PB-PLATFORM-ENGINEERING` |

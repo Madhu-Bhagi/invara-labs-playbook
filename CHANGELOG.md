@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.35.0] — 30 July 2026
+
+### Added
+
+- Draft API Management Playbook (`PB-API-MANAGEMENT`) v1.0.0 as the fourth Enterprise Engineering Capability.
+- An eight-phase API-product workflow from consumer need and contract design through publication, operation, evolution, deprecation, and retirement.
+- API governance, security, consumer management, compatibility, observability, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked AI Engineering, Platform Engineering, Security Engineering, Data Engineering, and Maintenance to governed API Management.
+- Preserved API Standards as the separate home for future protocol-specific rules.
+- Published ILOS control layer v1.30.0.
+
 ## [1.34.0] — 30 July 2026
 
 ### Added

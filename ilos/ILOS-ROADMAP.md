@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.26.0
+version: 1.27.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -176,6 +176,7 @@ Introduce governed capabilities for:
 | [Maintenance Playbook (`PB-MAINTENANCE`)](../docs/03-engineering/02-playbooks/PB-MAINTENANCE.md) | 🟡 In Progress |
 | [Platform Engineering Playbook (`PB-PLATFORM-ENGINEERING`)](../docs/03-engineering/02-playbooks/PB-PLATFORM-ENGINEERING.md) | 🟡 In Progress |
 | [Data Engineering Playbook (`PB-DATA-ENGINEERING`)](../docs/03-engineering/02-playbooks/PB-DATA-ENGINEERING.md) | 🟡 In Progress |
+| [API Management Playbook (`PB-API-MANAGEMENT`)](../docs/03-engineering/02-playbooks/PB-API-MANAGEMENT.md) | 🟡 In Progress |
 
 ### Standards
 
@@ -225,11 +226,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 14 | 4 |
+| Playbooks | 1 | 15 | 4 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **27** | **19** |
+| **Total** | **13** | **28** | **19** |
 
 ## 8. Immediate Priorities
 
@@ -258,6 +259,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 23. Review and approve `PB-PLATFORM-ENGINEERING` as the first Enterprise Engineering Capability.
 24. Review and approve `PB-SECURITY-ENGINEERING` as the cross-cutting Security Engineering capability.
 25. Review and approve `PB-DATA-ENGINEERING` as the governed data-product capability.
+26. Review and approve `PB-API-MANAGEMENT` as the governed API-product capability.
 
 ## 9. Dependencies
 

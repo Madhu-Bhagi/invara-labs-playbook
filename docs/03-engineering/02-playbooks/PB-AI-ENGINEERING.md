@@ -1,7 +1,7 @@
 ---
 title: AI Engineering Playbook
 id: PB-AI-ENGINEERING
-version: 1.3.11
+version: 1.3.12
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -43,6 +43,7 @@ related:
   - PB-PLATFORM-ENGINEERING
   - PB-SECURITY-ENGINEERING
   - PB-DATA-ENGINEERING
+  - PB-API-MANAGEMENT
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1208,6 +1209,7 @@ The AI output remains analysis input. `PB-ARCH` governs the decision and approva
 - [`PB-MAINTENANCE`](PB-MAINTENANCE.md) governs AI-assisted sustainment and human lifecycle authority.
 - [`PB-PLATFORM-ENGINEERING`](PB-PLATFORM-ENGINEERING.md) governs AI-assisted platform-product work and human platform authority.
 - [`PB-DATA-ENGINEERING`](PB-DATA-ENGINEERING.md) governs AI-assisted data-product work and human data authority.
+- [`PB-API-MANAGEMENT`](PB-API-MANAGEMENT.md) governs AI-assisted API-product work and human API authority.
 - [Documentation Playbook](14-documentation-playbook.md) will govern accepted documentation.
 
 ## 31. Metrics
@@ -1407,6 +1409,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.3.12 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted API work to governed `PB-API-MANAGEMENT` human authority |
 | 1.3.11 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted data work to governed `PB-DATA-ENGINEERING` human authority |
 | 1.3.10 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted security work to governed `PB-SECURITY-ENGINEERING` human authority |
 | 1.3.9 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted platform work to governed `PB-PLATFORM-ENGINEERING` human authority |

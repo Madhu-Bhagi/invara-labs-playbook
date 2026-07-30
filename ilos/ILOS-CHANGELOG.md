@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.30.0] — 30 July 2026
+
+### Added
+
+- API Management Playbook (`PB-API-MANAGEMENT`) v1.0.0 as a governed Draft.
+- Eight-phase API-product workflow, governance, publication, security, consumers, compatibility, observability, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Established API Management as the fourth Enterprise Engineering Capability.
+- Kept API lifecycle governance separate from future protocol-specific API Standards.
+
 ## [1.29.0] — 30 July 2026
 
 ### Added

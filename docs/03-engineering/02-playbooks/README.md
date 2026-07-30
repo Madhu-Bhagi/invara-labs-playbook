@@ -135,6 +135,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 17 | [Maintenance Playbook](PB-MAINTENANCE.md) | Sustain software through preventive, corrective, adaptive, perfective, and lifecycle work. | 🟡 In Progress |
 | 18 | [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) | Build and operate shared engineering capabilities as secure, observable, self-service internal products. | 🟡 In Progress |
 | 19 | [Data Engineering Playbook](PB-DATA-ENGINEERING.md) | Engineer governed, reliable, discoverable, and reusable data products throughout their lifecycle. | 🟡 In Progress |
+| 20 | [API Management Playbook](PB-API-MANAGEMENT.md) | Govern APIs as secure, observable, supported, and evolvable engineering products. | 🟡 In Progress |
 
 ---
 

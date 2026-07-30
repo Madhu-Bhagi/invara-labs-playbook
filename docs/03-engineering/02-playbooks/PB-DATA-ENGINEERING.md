@@ -1,7 +1,7 @@
 ---
 title: Data Engineering Playbook
 id: PB-DATA-ENGINEERING
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -33,6 +33,7 @@ related:
   - PB-MAINTENANCE
   - PB-PLATFORM-ENGINEERING
   - PB-SECURITY-ENGINEERING
+  - PB-API-MANAGEMENT
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -878,6 +879,7 @@ Data-product, catalogue, lineage, quality, contract, modelling, and lifecycle re
 - [Maintenance Playbook](PB-MAINTENANCE.md) governs data sustainment and retirement.
 - [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) supplies governed data-platform capabilities.
 - [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) governs data security and privacy engineering controls.
+- [API Management Playbook](PB-API-MANAGEMENT.md) governs APIs exposing or integrating data products.
 
 ## 34. Metrics
 
@@ -1034,6 +1036,7 @@ Actions, owners, dates, approval, and next review:
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked API-exposed data products to `PB-API-MANAGEMENT` |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Data Engineering Playbook with nine-phase data-product workflow, architecture, modelling, integration, quality, lineage, governance, privacy, platform operations, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 37. Summary
