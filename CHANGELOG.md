@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.10.0] — 30 July 2026
+
+### Added
+
+- Draft Engineering Metadata Standard v1.0.0.
+- Mandatory metadata fields, controlled values, validation, governance, AI-assistance rules, and incremental adoption guidance.
+
+### Changed
+
+- Updated the Engineering Standards index and ILOS Roadmap.
+- Identified `STD-VERSIONING` as the next planned governance standard.
+- Published ILOS control layer v1.5.0.
+
 ## [1.9.0] — 30 July 2026
 
 ### Added

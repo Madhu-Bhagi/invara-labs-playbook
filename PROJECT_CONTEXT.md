@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Foundation  
-**Repository Version:** 1.9.0
-**ILOS Version:** 1.4.0
+**Repository Version:** 1.10.0
+**ILOS Version:** 1.5.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -68,7 +68,7 @@ Chapter 04 — Core Values
 - The ILOS README is the entry point for the Engineering Operating System and its documentation model.
 - ILOS Architecture is the stable constitution for engineering document structure, relationships, governance, and evolution.
 - ILOS Roadmap is the master backlog and reports status from actual document metadata and content.
-- `STD-TRACEABILITY` v1.0.0 is Draft; `STD-METADATA` is its next planned dependency.
+- `STD-TRACEABILITY` and `STD-METADATA` v1.0.0 are Draft; `STD-VERSIONING` is the next planned governance standard.
 
 ## Open Work
 

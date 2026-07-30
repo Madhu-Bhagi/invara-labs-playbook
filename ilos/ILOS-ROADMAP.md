@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.2.0
+version: 1.3.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -182,7 +182,7 @@ Introduce governed capabilities for:
 | [Terminology Standard (`TERM-STANDARD`)](../docs/03-engineering/03-standards/TERM-STANDARD.md) | 🟡 In Progress |
 | [Engineering Review Standard (`STD-REVIEW`)](../docs/03-engineering/03-standards/STD-REVIEW.md) | 🟡 In Progress |
 | [Engineering Traceability Standard (`STD-TRACEABILITY`)](../docs/03-engineering/03-standards/STD-TRACEABILITY.md) | 🟡 In Progress |
-| Metadata Standard (`STD-METADATA`) | ⬜ Planned |
+| [Engineering Metadata Standard (`STD-METADATA`)](../docs/03-engineering/03-standards/STD-METADATA.md) | 🟡 In Progress |
 | Documentation Governance (`DOC-GOVERNANCE`) | ⬜ Planned |
 | [Coding Standards](../docs/03-engineering/03-standards/coding-standards.md) | ⬜ Planned |
 | [API Standards](../docs/03-engineering/03-standards/api-standards.md) | ⬜ Planned |
@@ -220,10 +220,10 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
 | Playbooks | 1 | 0 | 14 |
-| Standards | 1 | 4 | 8 |
+| Standards | 1 | 5 | 7 |
 | References | 0 | 0 | 5 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **8** | **32** |
+| **Total** | **13** | **9** | **31** |
 
 ## 8. Immediate Priorities
 
@@ -231,10 +231,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 2. Review and approve `TERM-STANDARD`.
 3. Review and approve `STD-REVIEW`.
 4. Review and approve `STD-TRACEABILITY`.
-5. Draft `STD-METADATA` after traceability relationships are reviewed.
-6. Add explicit metadata and status to Observability Principles.
-7. Review the draft Coding, Testing, and Security Principles.
-8. Begin the Architecture Playbook after governance prerequisites are stable.
+5. Review and approve `STD-METADATA`.
+6. Draft `STD-VERSIONING` after metadata and lifecycle rules are reconciled.
+7. Add explicit metadata and status to Observability Principles.
+8. Review the draft Coding, Testing, and Security Principles.
+9. Begin the Architecture Playbook after governance prerequisites are stable.
 
 ## 9. Dependencies
 

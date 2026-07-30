@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.5.0] — 30 July 2026
+
+### Added
+
+- Engineering Metadata Standard (`STD-METADATA`) v1.0.0 as a governed Draft.
+- Mandatory YAML metadata model, controlled lifecycle values, validation rules, governance responsibilities, and incremental adoption guidance.
+
+### Changed
+
+- Updated the ILOS Roadmap catalogue and progress dashboard.
+- Identified `STD-VERSIONING` as the next planned governance standard.
+
 ## [1.4.0] — 30 July 2026
 
 ### Added
