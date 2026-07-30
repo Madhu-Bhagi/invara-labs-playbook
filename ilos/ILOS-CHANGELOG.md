@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.23.0] — 30 July 2026
+
+### Added
+
+- Observability Playbook (`PB-OBSERVABILITY`) v1.0.0 as a governed Draft and first Operations Engineering playbook.
+- Seven-phase operational workflow, telemetry, alerting, SLO, security, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Connected delivery and engineering guidance to governed operational assurance.
+- Moved Observability from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.22.0] — 30 July 2026
 
 ### Added

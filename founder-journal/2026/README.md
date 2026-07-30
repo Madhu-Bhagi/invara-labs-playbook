@@ -27,6 +27,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Code Review Playbook — 30 July](2026-07-30-code-review-playbook.md)
 - [Testing Playbook — 30 July](2026-07-30-testing-playbook.md)
 - [Deployment Playbook — 30 July](2026-07-30-deployment-playbook.md)
+- [Observability Playbook — 30 July](2026-07-30-observability-playbook.md)
 
 ---
 

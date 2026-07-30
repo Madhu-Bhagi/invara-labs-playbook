@@ -1,7 +1,7 @@
 ---
 title: Technical Design Playbook
 id: PB-TECH-DESIGN
-version: 1.0.6
+version: 1.0.7
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -34,6 +34,7 @@ related:
   - PB-CODE-REVIEW
   - PB-TESTING
   - PB-DEPLOYMENT
+  - PB-OBSERVABILITY
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1036,7 +1037,7 @@ This is not a local technical-design detail. It changes deployment, ownership, f
 - [`PB-CODE-REVIEW`](PB-CODE-REVIEW.md) verifies implementation against the approved design.
 - [`PB-TESTING`](PB-TESTING.md) verifies implementation against requirements, design, and quality attributes.
 - [`PB-DEPLOYMENT`](PB-DEPLOYMENT.md) executes approved rollout and recovery controls.
-- [Observability Playbook](10-observability-playbook.md) will operationalise the design signals.
+- [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) operationalises the design signals.
 - [Technical Decision Playbook](15-technical-decision-playbook.md) will govern detailed decision practice.
 
 ## 26. Metrics
@@ -1246,6 +1247,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.7 | 2026-07-30 | Invara Labs Engineering | Linked the governed `PB-OBSERVABILITY` operational evidence stage |
 | 1.0.6 | 2026-07-30 | Invara Labs Engineering | Linked the governed `PB-DEPLOYMENT` release stage |
 | 1.0.5 | 2026-07-30 | Invara Labs Engineering | Linked the governed `PB-TESTING` verification stage |
 | 1.0.4 | 2026-07-30 | Invara Labs Engineering | Linked the governed `PB-CODE-REVIEW` verification stage |

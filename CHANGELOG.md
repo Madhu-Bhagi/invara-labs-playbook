@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.28.0] — 30 July 2026
+
+### Added
+
+- Draft Observability Playbook (`PB-OBSERVABILITY`) v1.0.0 as the first governed Operations Engineering SOP.
+- A seven-phase workflow covering instrumentation, telemetry governance, observation, detection, notification, investigation support, and improvement.
+- Monitoring, alerting, logs, metrics, traces, SLI/SLO and error-budget management, security, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked architecture, design, AI, coding, testing, and deployment guidance to governed operational evidence.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.23.0.
+
 ## [1.27.0] — 30 July 2026
 
 ### Added

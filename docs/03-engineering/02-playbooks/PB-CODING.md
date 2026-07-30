@@ -1,7 +1,7 @@
 ---
 title: Coding Playbook
 id: PB-CODING
-version: 1.1.3
+version: 1.1.4
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -32,6 +32,7 @@ related:
   - PB-CODE-REVIEW
   - PB-TESTING
   - PB-DEPLOYMENT
+  - PB-OBSERVABILITY
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1054,7 +1055,7 @@ The engineer separates the change into expand, backfill, switch, and contract st
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic diagnosis.
 - [Security Playbook](09-security-playbook.md) governs security activities.
 - [`PB-DEPLOYMENT`](PB-DEPLOYMENT.md) governs release.
-- [Observability Playbook](10-observability-playbook.md) governs operational evidence.
+- [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) governs operational evidence.
 
 ## 31. Metrics
 
@@ -1213,6 +1214,7 @@ Coding does not approve production deployment, but implementation must not block
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.1.4 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` operational evidence stage |
 | 1.1.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-DEPLOYMENT` release stage |
 | 1.1.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-TESTING` verification stage |
 | 1.1.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CODE-REVIEW` handoff |

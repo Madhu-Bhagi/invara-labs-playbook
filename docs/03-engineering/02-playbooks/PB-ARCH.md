@@ -1,7 +1,7 @@
 ---
 title: Architecture Playbook
 id: PB-ARCH
-version: 1.2.3
+version: 1.2.4
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -32,6 +32,7 @@ related:
   - PB-REQ
   - PB-TECH-DESIGN
   - PB-AI-ENGINEERING
+  - PB-OBSERVABILITY
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -878,7 +879,7 @@ Use the approved [ADR template](../../../templates/governance/adr-template.md) f
 - [`PB-TECH-DESIGN`](PB-TECH-DESIGN.md) — Converts the approved architecture into implementation-ready design.
 - [`PB-AI-ENGINEERING`](PB-AI-ENGINEERING.md) — Governs responsible AI assistance during architecture and the wider lifecycle.
 - [Security Playbook](09-security-playbook.md) — Applies the security workflow to architecture and delivery.
-- [Observability Playbook](10-observability-playbook.md) — Defines operational signals and diagnostic capability.
+- [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) — Defines operational signals and diagnostic capability.
 - [Performance Playbook](11-performance-playbook.md) — Validates performance and efficiency.
 - [Technical Decision Playbook](15-technical-decision-playbook.md) — Governs broader technical decisions.
 
@@ -1188,6 +1189,7 @@ Before `PB-ARCH` becomes Approved and serves as the reusable playbook pattern, r
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.2.4 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` operational assurance stage |
 | 1.2.3 | 2026-07-30 | Invara Labs Engineering | Draft | Updated the AI control-layer identity to `PB-AI-ENGINEERING` |
 | 1.2.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the cross-lifecycle `PB-AI-DEVELOPMENT` control layer |
 | 1.2.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the new `PB-TECH-DESIGN` downstream playbook and added its traceability identifier |

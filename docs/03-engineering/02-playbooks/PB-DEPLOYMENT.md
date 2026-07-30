@@ -1,7 +1,7 @@
 ---
 title: Deployment Playbook
 id: PB-DEPLOYMENT
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -20,6 +20,7 @@ tags:
   - playbook
 related:
   - PB-TESTING
+  - PB-OBSERVABILITY
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -860,7 +861,7 @@ A security exposure requires urgent configuration. The emergency authority appro
 - [Technical Design Playbook](PB-TECH-DESIGN.md) supplies deployment, configuration, data, and recovery design.
 - [Coding Playbook](PB-CODING.md) supplies executable artefacts and infrastructure definitions.
 - [Code Review Playbook](PB-CODE-REVIEW.md) supplies reviewed implementation evidence.
-- [Observability Playbook](10-observability-playbook.md) will govern ongoing operational assurance.
+- [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) governs ongoing operational assurance.
 - [Incident Response Playbook](13-incident-response-playbook.md) governs production incident response.
 - [Security Playbook](09-security-playbook.md) will govern broader security activity.
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic diagnosis.
@@ -995,6 +996,7 @@ Do not use deployment count, frequency, speed, or automation percentage alone as
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` operational handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Deployment Playbook with seven-phase release workflow, deployment governance, strategy selection, recovery, environment, change, security, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 36. Summary

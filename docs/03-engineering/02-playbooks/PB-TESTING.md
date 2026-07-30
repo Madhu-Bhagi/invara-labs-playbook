@@ -1,7 +1,7 @@
 ---
 title: Testing Playbook
 id: PB-TESTING
-version: 1.0.1
+version: 1.0.2
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -23,6 +23,7 @@ related:
   - PB-CODING
   - PB-AI-ENGINEERING
   - PB-DEPLOYMENT
+  - PB-OBSERVABILITY
   - PB-AUTHORING
   - STD-TRACEABILITY
   - STD-METADATA
@@ -954,7 +955,7 @@ The Test Owner records affected users, workaround, evidence, owner, target relea
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic defect diagnosis.
 - [Security Playbook](09-security-playbook.md) will govern broader security assessment.
 - [`PB-DEPLOYMENT`](PB-DEPLOYMENT.md) consumes the test recommendation and governs release.
-- [Observability Playbook](10-observability-playbook.md) will govern operational evidence.
+- [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) governs production operational evidence.
 
 ## 31. Metrics
 
@@ -1102,6 +1103,7 @@ Automation requires an owner, diagnostic failures, maintainability, and retireme
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` production evidence stage |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-DEPLOYMENT` release handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Testing Playbook with eight-phase verification workflow, risk-based scope, test and defect governance, five quality gates, AI controls, metrics, and twelve enterprise appendices |
 

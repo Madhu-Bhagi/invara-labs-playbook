@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.19.0
+version: 1.20.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -166,7 +166,7 @@ Introduce governed capabilities for:
 | [Testing Playbook (`PB-TESTING`)](../docs/03-engineering/02-playbooks/PB-TESTING.md) | 🟡 In Progress |
 | [Debugging Playbook](../docs/03-engineering/02-playbooks/08-debugging-playbook.md) | ⬜ Planned |
 | [Security Playbook](../docs/03-engineering/02-playbooks/09-security-playbook.md) | ⬜ Planned |
-| [Observability Playbook](../docs/03-engineering/02-playbooks/10-observability-playbook.md) | ⬜ Planned |
+| [Observability Playbook (`PB-OBSERVABILITY`)](../docs/03-engineering/02-playbooks/PB-OBSERVABILITY.md) | 🟡 In Progress |
 | [Performance Playbook](../docs/03-engineering/02-playbooks/11-performance-playbook.md) | ⬜ Planned |
 | [Deployment Playbook (`PB-DEPLOYMENT`)](../docs/03-engineering/02-playbooks/PB-DEPLOYMENT.md) | 🟡 In Progress |
 | [Incident Response Playbook](../docs/03-engineering/02-playbooks/13-incident-response-playbook.md) | ⬜ Planned |
@@ -221,11 +221,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 7 | 7 |
+| Playbooks | 1 | 8 | 6 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **20** | **22** |
+| **Total** | **13** | **21** | **21** |
 
 ## 8. Immediate Priorities
 
@@ -247,6 +247,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 16. Review and approve `PB-CODE-REVIEW` as the independent verification and integration-readiness playbook.
 17. Review and approve `PB-TESTING` as the risk-based verification, validation, and release-readiness playbook.
 18. Review and approve `PB-DEPLOYMENT` as the governed release-engineering and production-promotion playbook.
+19. Review and approve `PB-OBSERVABILITY` as the first Operations Engineering playbook.
 
 ## 9. Dependencies
 
