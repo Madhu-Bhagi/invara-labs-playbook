@@ -1,7 +1,7 @@
 ---
 title: Engineering Metadata Standard
 id: STD-METADATA
-version: 1.0.1
+version: 1.0.2
 status: Draft
 owner: Invara Labs
 classification: Engineering Standard
@@ -350,7 +350,7 @@ Exceptions shall be documented through ILOS Governance.
 ### References
 
 - `REF-IDENTIFIERS` — Draft
-- `REF-TERMINOLOGY` — Planned
+- [`REF-TERMINOLOGY`](../04-reference/REF-TERMINOLOGY.md) — Draft
 - `REF-METADATA` — Planned
 
 ## 17. External References
@@ -366,6 +366,7 @@ These references inform the standard; ILOS governance remains authoritative for 
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.2 | 2026-07-30 | Invara Labs Engineering | Linked the terminology reference and updated its status |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the identifier registry and updated related artefact status |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial draft |
 

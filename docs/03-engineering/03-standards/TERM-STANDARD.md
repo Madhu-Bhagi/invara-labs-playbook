@@ -1,7 +1,7 @@
 ---
 title: Engineering Terminology Standard
 id: TERM-STANDARD
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs
 classification: Engineering Standard
@@ -20,6 +20,7 @@ related:
   - DOC-STYLE
   - PB-AUTHORING
   - PB-REQ
+  - REF-TERMINOLOGY
 supersedes: null
 superseded_by: null
 ---
@@ -3669,6 +3670,7 @@ Examples:
 
 | Version | Date | Author(s) | Approved By | Summary of Changes |
 |---------|------|-----------|-------------|--------------------|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | TBD | Linked the authoritative Engineering Terminology Reference. |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | TBD | Initial release of the Engineering Terminology Standard establishing terminology governance for the Engineering Operating System. |
 
 Future revisions should append new entries to this table while preserving previous records.
@@ -3850,4 +3852,3 @@ The success of this standard depends upon continuous participation from the engi
 Ultimately, the Engineering Terminology Standard ensures that engineering knowledge remains understandable, discoverable, reusable, and sustainable over time. It establishes a common engineering language that strengthens collaboration, preserves organisational knowledge, supports scalable engineering governance, and enables the long-term evolution of the Invara Labs Engineering Operating System.
 
 As ILOS continues to grow, this standard will remain the authoritative foundation for engineering terminology governance, ensuring that every engineering artefact communicates with precision, consistency, and shared understanding.
-

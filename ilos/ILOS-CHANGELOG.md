@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.8.0] — 30 July 2026
+
+### Added
+
+- Engineering Terminology Reference (`REF-TERMINOLOGY`) v1.0.0 as a governed Draft.
+- Controlled definitions for core documentation, governance, architecture, delivery, quality, operations, and AI-assisted engineering terms.
+
+### Changed
+
+- Linked the terminology reference from its governing standard and related governance artefacts.
+- Updated the ILOS Roadmap and Engineering Reference index.
+
 ## [1.7.0] — 30 July 2026
 
 ### Added

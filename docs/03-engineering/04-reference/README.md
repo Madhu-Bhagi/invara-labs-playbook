@@ -139,7 +139,7 @@ Together, these resources create a comprehensive engineering knowledge system th
 | Reference | Status |
 |---|---|
 | [Engineering Identifier Reference](REF-IDENTIFIERS.md) | Draft |
-| Engineering Terminology Reference | Planned |
+| [Engineering Terminology Reference](REF-TERMINOLOGY.md) | Draft |
 | Engineering Acronym Reference | Planned |
 
 ---

@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.13.0] — 30 July 2026
+
+### Added
+
+- Draft Engineering Terminology Reference v1.0.0.
+- Authoritative definitions for core ILOS and engineering terms.
+
+### Changed
+
+- Linked the glossary from related standards and references.
+- Updated the Engineering Reference index and ILOS Roadmap.
+- Published ILOS control layer v1.8.0.
+
 ## [1.12.0] — 30 July 2026
 
 ### Added
