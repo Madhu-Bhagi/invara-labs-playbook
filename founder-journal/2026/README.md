@@ -33,6 +33,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Maintenance Playbook — 30 July](2026-07-30-maintenance-playbook.md)
 - [Platform Engineering Playbook — 30 July](2026-07-30-platform-engineering-playbook.md)
 - [Security Engineering Playbook — 30 July](2026-07-30-security-engineering-playbook.md)
+- [Data Engineering Playbook — 30 July](2026-07-30-data-engineering-playbook.md)
 
 ---
 

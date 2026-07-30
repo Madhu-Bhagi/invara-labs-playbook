@@ -58,7 +58,7 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
-| ILOS control layer v1.28 | 🟢 Stable |
+| ILOS control layer v1.29 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
 | Engineering playbooks and standards | 🟡 In Progress |
 
@@ -70,4 +70,5 @@ The conversation is the workshop; the repository is the source of truth.
 - Review and approve the authored core lifecycle Playbooks, including Maintenance.
 - Review and approve `PB-PLATFORM-ENGINEERING` as the first Enterprise Engineering Capability.
 - Review and approve `PB-SECURITY-ENGINEERING` as the second Enterprise Engineering Capability.
+- Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
 - Improve ILOS only when operating experience reveals a concrete need.

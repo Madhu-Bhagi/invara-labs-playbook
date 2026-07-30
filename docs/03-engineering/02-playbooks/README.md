@@ -134,6 +134,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 16 | [Change Management Playbook](PB-CHANGE-MANAGEMENT.md) | Enable operational change through risk-proportionate assessment, approval, implementation, and learning. | 🟡 In Progress |
 | 17 | [Maintenance Playbook](PB-MAINTENANCE.md) | Sustain software through preventive, corrective, adaptive, perfective, and lifecycle work. | 🟡 In Progress |
 | 18 | [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) | Build and operate shared engineering capabilities as secure, observable, self-service internal products. | 🟡 In Progress |
+| 19 | [Data Engineering Playbook](PB-DATA-ENGINEERING.md) | Engineer governed, reliable, discoverable, and reusable data products throughout their lifecycle. | 🟡 In Progress |
 
 ---
 

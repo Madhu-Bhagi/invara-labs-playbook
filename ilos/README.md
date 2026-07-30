@@ -204,7 +204,7 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 
 🟢 Stable
 
-**ILOS Version:** 1.28.0
+**ILOS Version:** 1.29.0
 
 ---
 
@@ -213,6 +213,7 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 - Review and approve the authored core lifecycle Playbooks, including Maintenance.
 - Review and approve `PB-PLATFORM-ENGINEERING` as the first Enterprise Engineering Capability.
 - Review and approve `PB-SECURITY-ENGINEERING` as the second Enterprise Engineering Capability.
+- Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
 - Introduce automated metadata and link validation only when manual checks become burdensome.
 - Improve ILOS when operating experience reveals a concrete governance or navigation gap.
 

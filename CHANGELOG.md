@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.34.0] — 30 July 2026
+
+### Added
+
+- Draft Data Engineering Playbook (`PB-DATA-ENGINEERING`) v1.0.0 as the third Enterprise Engineering Capability.
+- A nine-phase data-product workflow from consumer need and source discovery through publication, operation, evolution, and retirement.
+- Data contracts, architecture, modelling, integration, quality, lineage, governance, privacy, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked AI Engineering, Platform Engineering, Security Engineering, and Maintenance to governed Data Engineering.
+- Added Data Engineering to the Playbooks index and ILOS Roadmap as In Progress.
+- Published ILOS control layer v1.29.0.
+
 ## [1.33.0] — 30 July 2026
 
 ### Added
