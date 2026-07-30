@@ -1,7 +1,7 @@
 ---
 title: Engineering Acronym Reference
 id: REF-ACRONYMS
-version: 1.0.0
+version: 1.1.0
 status: Draft
 owner: Invara Labs
 classification: Engineering Reference
@@ -75,18 +75,24 @@ Architecture Decision Record (ADR)
 | API | Application Programming Interface | A contract through which software components expose functionality or data. |
 | CLI | Command-Line Interface | A text-based interface used to operate software through commands. |
 | CRUD | Create, Read, Update, Delete | The fundamental operations performed on persistent data. |
+| GUI | Graphical User Interface | A visual interface through which a user interacts with software. |
 | SDK | Software Development Kit | Tools, libraries, and guidance used to build against a platform. |
 | UI | User Interface | The means through which a user interacts with a system. |
 | UX | User Experience | A user's overall experience of interacting with a product or service. |
+| XML | Extensible Markup Language | A markup language for structured data and documents. |
 
 ## 6. Architecture Acronyms
 
 | Acronym | Expanded Form | Description |
 |---|---|---|
 | ADR | Architecture Decision Record | A durable record of a significant architectural decision and its rationale. |
+| DDD | Domain-Driven Design | A design approach that models software around business domains. |
 | MFE | Micro Frontend | An architectural approach using independently developed frontend modules. |
+| MVC | Model-View-Controller | A pattern separating data, presentation, and interaction responsibilities. |
 | REST | Representational State Transfer | An architectural style for networked applications and web APIs. |
 | RFC | Request for Comments | A proposal circulated for structured review before adoption. |
+| SOA | Service-Oriented Architecture | An architectural approach built around interoperable services. |
+| SPA | Single-Page Application | A web application that dynamically updates one loaded page. |
 | SSR | Server-Side Rendering | Rendering a user interface on a server before sending it to a client. |
 
 ## 7. Development Acronyms
@@ -97,15 +103,21 @@ Architecture Decision Record (ADR)
 | JSON | JavaScript Object Notation | A text format for structured data interchange. |
 | NFR | Non-Functional Requirement | A requirement describing a quality attribute or constraint rather than functional behaviour. |
 | SQL | Structured Query Language | A language used to define, query, and manipulate relational data. |
+| VCS | Version Control System | A system that records and manages changes to files over time. |
 | YAML | YAML Ain't Markup Language | A human-readable data-serialisation language used by repository metadata. |
+
+`LTS` is not assigned a repository-wide expansion because vendors define long-term support policies differently. Expand the phrase and identify the applicable product policy when it matters.
 
 ## 8. Quality and Testing Acronyms
 
 | Acronym | Expanded Form | Description |
 |---|---|---|
+| BDD | Behaviour-Driven Development | A collaborative approach that expresses expected behaviour through concrete examples. |
 | E2E | End-to-End | Testing across a complete user or system workflow. |
 | QA | Quality Assurance | Systematic activities used to build confidence in process and product quality. |
+| QC | Quality Control | Product-focused activities used to detect defects and verify outputs. |
 | SUT | System Under Test | The system or component being evaluated by a test. |
+| TDD | Test-Driven Development | A development practice that uses a failing test to guide implementation. |
 | UAT | User Acceptance Testing | Validation by users or authorised stakeholders that a solution meets intended needs. |
 
 ## 9. Operations and DevOps Acronyms
@@ -114,6 +126,7 @@ Architecture Decision Record (ADR)
 |---|---|---|
 | CD | Continuous Delivery | Keeping software in a releasable state through automated delivery practices. |
 | CI | Continuous Integration | Frequently integrating changes and validating them through automation. |
+| DR | Disaster Recovery | Practices for restoring systems and data after a major disruption. |
 | IaC | Infrastructure as Code | Defining and managing infrastructure through version-controlled code. |
 | KPI | Key Performance Indicator | A metric used to evaluate progress toward an objective. |
 | MTTR | Mean Time to Restore | The average time required to restore service after disruption. |
@@ -128,18 +141,29 @@ Within ILOS, `CD` means **Continuous Delivery**. Write **Continuous Deployment**
 
 Within ILOS, `MTTR` means **Mean Time to Restore**. Write alternative measures such as mean time to repair or recover in full unless a future approved acronym is assigned.
 
-## 10. Documentation and Governance Acronyms
+## 10. Security Acronyms
 
 | Acronym | Expanded Form | Description |
 |---|---|---|
-| ADR | Architecture Decision Record | A governed architecture decision artefact. |
+| JWT | JSON Web Token | A compact format for transmitting signed claims between parties. |
+| MFA | Multi-Factor Authentication | Authentication requiring factors from more than one category. |
+| OAuth | OAuth | An authorisation framework for delegated access; OAuth is the protocol's proper name, not an ILOS expansion. |
+| RBAC | Role-Based Access Control | An authorisation model in which permissions are assigned through roles. |
+| SSO | Single Sign-On | Authentication that enables access to multiple systems through one sign-in flow. |
+| TLS | Transport Layer Security | A protocol that protects data exchanged over a network. |
+
+## 11. Documentation and Governance Acronyms
+
+| Acronym | Expanded Form | Description |
+|---|---|---|
 | ILOS | Invara Labs Engineering Operating System | The system governing Invara Labs engineering knowledge and documentation. |
-| RFC | Request for Comments | A governed proposal submitted for structured review. |
 | SSOT | Single Source of Truth | The designated authoritative location for a category of information. |
 
-`ADR` and `RFC` appear here because they are both architectural concepts and governed document types; their expansion and meaning remain identical.
+`ADR` and `RFC` are governed document types catalogued once under Architecture Acronyms.
 
-## 11. AI and Automation Acronyms
+Artefact prefixes such as `PB`, `STD`, `REF`, and `EX` are identifier namespaces governed by `REF-IDENTIFIERS`, not standalone acronyms. `PR` is not approved as a universal Principle prefix.
+
+## 12. AI and Automation Acronyms
 
 | Acronym | Expanded Form | Description |
 |---|---|---|
@@ -150,7 +174,7 @@ Within ILOS, `MTTR` means **Mean Time to Restore**. Write alternative measures s
 | NLP | Natural Language Processing | Computational methods for processing and generating human language. |
 | RAG | Retrieval-Augmented Generation | Generating model output using information retrieved from an external knowledge source. |
 
-## 12. Usage Guidelines
+## 13. Usage Guidelines
 
 Correct:
 
@@ -167,7 +191,7 @@ The ADR explains the decision.  # Acronym not introduced
 
 Headings, tables, diagrams, and metadata may use an acronym without local expansion when the expanded form is adjacent or the document is the acronym's dedicated reference.
 
-## 13. Adding New Acronyms
+## 14. Adding New Acronyms
 
 Before adding an acronym:
 
@@ -180,7 +204,7 @@ Before adding an acronym:
 
 New entries require a version update and revision-history entry.
 
-## 14. Deprecated Acronyms
+## 15. Deprecated Acronyms
 
 No acronyms are currently deprecated.
 
@@ -193,7 +217,7 @@ When an acronym is deprecated, retain:
 
 Deprecated acronyms should not be removed from historical documents solely to modernise language.
 
-## 15. Related Artefacts
+## 16. Related Artefacts
 
 ### Standards
 
@@ -205,20 +229,24 @@ Deprecated acronyms should not be removed from historical documents solely to mo
 - [`REF-TERMINOLOGY`](REF-TERMINOLOGY.md) — Defines engineering terms.
 - [`REF-IDENTIFIERS`](REF-IDENTIFIERS.md) — Defines artefact identifiers and prefixes.
 
-## 16. References
+## 17. References
 
 - ISO/IEC/IEEE 24765 — Systems and software engineering vocabulary
 - ISO 704 — Terminology work, principles and methods
+- ISO/IEC/IEEE 29148 — Requirements engineering
+- ISO/IEC/IEEE 42010 — Architecture description
+- Semantic Versioning 2.0.0
 
 These references inform the catalogue; approved ILOS governance remains authoritative within the repository.
 
-## 17. Revision History
+## 18. Revision History
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.1.0 | 2026-07-30 | Invara Labs Engineering | Expanded architecture, development, testing, operations, and security coverage |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial acronym reference draft |
 
-## 18. Summary
+## 19. Summary
 
 The Engineering Acronym Reference gives ILOS one governed expansion and meaning for each shared abbreviation.
 

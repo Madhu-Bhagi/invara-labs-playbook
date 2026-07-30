@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.7.0
+version: 1.8.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap

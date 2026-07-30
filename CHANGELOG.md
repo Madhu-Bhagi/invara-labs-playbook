@@ -2,6 +2,15 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.15.0] — 30 July 2026
+
+### Changed
+
+- Expanded the Draft Engineering Acronym Reference to v1.1.0.
+- Added architecture, development, testing, operations, and security acronym coverage.
+- Kept identifier prefixes and Principle naming aligned with `REF-IDENTIFIERS`.
+- Published ILOS control layer v1.10.0.
+
 ## [1.14.0] — 30 July 2026
 
 ### Added

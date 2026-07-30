@@ -2,6 +2,14 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.10.0] — 30 July 2026
+
+### Changed
+
+- Expanded `REF-ACRONYMS` to v1.1.0 with additional architecture, development, testing, operations, and security entries.
+- Kept artefact prefixes in `REF-IDENTIFIERS` and rejected `PR` as a universal Principle prefix.
+- Preserved one ILOS meaning for ambiguous acronyms.
+
 ## [1.9.0] — 30 July 2026
 
 ### Added

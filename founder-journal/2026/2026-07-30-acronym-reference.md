@@ -16,6 +16,8 @@
 - Defined `CD` as Continuous Delivery within ILOS.
 - Defined `MTTR` as Mean Time to Restore within ILOS.
 - Required alternative meanings to be written in full.
+- Expanded the catalogue across architecture, testing, operations, and security.
+- Kept `PB`, `STD`, `REF`, and `EX` in the identifier registry rather than duplicating them as acronyms.
 - Retained the existing discipline-specific Principle structure instead of introducing a conflicting `PR-ENGINEERING` identifier.
 
 ## Files Updated

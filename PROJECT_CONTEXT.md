@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Foundation  
-**Repository Version:** 1.14.0
-**ILOS Version:** 1.9.0
+**Repository Version:** 1.15.0
+**ILOS Version:** 1.10.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -69,7 +69,7 @@ Chapter 04 — Core Values
 - ILOS Architecture is the stable constitution for engineering document structure, relationships, governance, and evolution.
 - ILOS Roadmap is the master backlog and reports status from actual document metadata and content.
 - `STD-TRACEABILITY`, `STD-METADATA`, and `STD-VERSIONING` remain Draft and now reference the identifier registry.
-- `REF-IDENTIFIERS`, `REF-TERMINOLOGY`, and `REF-ACRONYMS` form the Draft engineering vocabulary foundation.
+- `REF-IDENTIFIERS`, `REF-TERMINOLOGY`, and `REF-ACRONYMS` form the Draft engineering vocabulary foundation and require formal review before approval.
 
 ## Open Work
 
