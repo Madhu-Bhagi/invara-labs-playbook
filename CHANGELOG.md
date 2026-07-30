@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.26.0] — 30 July 2026
+
+### Added
+
+- Draft Testing Playbook (`PB-TESTING`) v1.0.0 as the governed verification, validation, and release-readiness SOP.
+- An eight-phase workflow covering planning, test design, environment and data preparation, execution, defect triage, fix verification, regression, and test exit.
+- Risk-based scope, test and defect governance, five quality gates, AI controls, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked Technical Design, AI Engineering, Coding, and Code Review to the governed Testing stage.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.21.0.
+
 ## [1.25.0] — 30 July 2026
 
 ### Added

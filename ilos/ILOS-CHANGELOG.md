@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.21.0] — 30 July 2026
+
+### Added
+
+- Testing Playbook (`PB-TESTING`) v1.0.0 as a governed Draft.
+- Eight-phase risk-based testing workflow, test and defect governance, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Connected Technical Design, AI Engineering, Coding, and Code Review to the governed Testing stage.
+- Moved Testing from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.20.0] — 30 July 2026
 
 ### Added

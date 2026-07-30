@@ -1,7 +1,7 @@
 ---
 title: AI Engineering Playbook
 id: PB-AI-ENGINEERING
-version: 1.3.2
+version: 1.3.3
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -34,6 +34,7 @@ related:
   - PB-TECH-DESIGN
   - PB-CODING
   - PB-CODE-REVIEW
+  - PB-TESTING
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1189,7 +1190,7 @@ The AI output remains analysis input. `PB-ARCH` governs the decision and approva
 - [Technical Design Playbook](PB-TECH-DESIGN.md) governs AI-assisted implementation design.
 - [`PB-CODING`](PB-CODING.md) governs accepted AI-assisted code.
 - [`PB-CODE-REVIEW`](PB-CODE-REVIEW.md) governs independent review and integration readiness for AI-assisted code.
-- [Testing Playbook](07-testing-playbook.md) will govern verification evidence.
+- [`PB-TESTING`](PB-TESTING.md) governs AI-assisted test design, execution, and verification evidence.
 - [Debugging Playbook](08-debugging-playbook.md) will govern AI-assisted diagnosis.
 - [Security Playbook](09-security-playbook.md) will govern security activities and risk treatment.
 - [Deployment Playbook](12-deployment-playbook.md) will govern release authority.
@@ -1393,6 +1394,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.3.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-TESTING` verification stage |
 | 1.3.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CODE-REVIEW` verification stage |
 | 1.3.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the new `PB-CODING` execution playbook |
 | 1.3.0 | 2026-07-30 | Invara Labs Engineering | Draft | Elevated the document to an enterprise AI operating procedure with SDLC-wide guidance, dedicated risk management, IP controls, human accountability, capability governance, and twelve flagship appendices |

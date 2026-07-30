@@ -122,7 +122,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 04 | [AI Engineering Playbook](PB-AI-ENGINEERING.md) | Responsibly and effectively govern AI across the engineering lifecycle. | 🟡 In Progress |
 | 05 | [Coding Playbook](PB-CODING.md) | Implement approved technical designs as review-ready software. | 🟡 In Progress |
 | 06 | [Code Review Playbook](PB-CODE-REVIEW.md) | Independently verify software changes and determine integration readiness. | 🟡 In Progress |
-| 07 | Testing Playbook | Verify correctness, reliability, and confidence before release. | ⚪ Planned |
+| 07 | [Testing Playbook](PB-TESTING.md) | Verify requirements, quality attributes, risk, and release readiness through objective evidence. | 🟡 In Progress |
 | 08 | Debugging Playbook | Systematically investigate, diagnose, and resolve issues. | ⚪ Planned |
 | 09 | Security Playbook | Integrate security throughout the engineering lifecycle. | ⚪ Planned |
 | 10 | Observability Playbook | Build systems that are measurable, understandable, and operable. | ⚪ Planned |
