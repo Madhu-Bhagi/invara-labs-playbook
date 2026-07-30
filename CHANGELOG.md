@@ -2,6 +2,62 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.22.0] — 30 July 2026
+
+### Changed
+
+- Elevated Draft `PB-AI-ENGINEERING` to v1.3.0 as the enterprise Engineering AI Operating Procedure.
+- Expanded the flagship structure to 34 sections.
+- Added first-class SDLC-wide AI assistance, AI risk management, intellectual-property controls, human accountability, and approved-capability governance.
+- Rebuilt the enterprise appendices into twelve reusable suitability, risk, review, validation, approval, traceability, maturity, evaluation, governance, deliverables, and approval-readiness controls.
+- Published ILOS control layer v1.17.0.
+
+## [1.21.0] — 30 July 2026
+
+### Changed
+
+- Refined Draft `PB-AI-ENGINEERING` to v1.2.0 as an engineering SOP rather than an AI tools or prompting guide.
+- Aligned the playbook to a 32-section structure and corrected enterprise appendix numbering.
+- Replaced the embedded tool catalogue with governed Approved AI Usage.
+- Kept human verification as the acceptance boundary for every AI-generated engineering output.
+
+### Added
+
+- Planned `REF-AI-TOOLS` for the changeable approved capability catalogue.
+- Planned `REF-PROMPT-PATTERNS` for reusable, tool-neutral engineering prompting practices.
+- Published ILOS control layer v1.16.0.
+
+## [1.20.0] — 30 July 2026
+
+### Added
+
+- Draft AI Engineering Playbook (`PB-AI-ENGINEERING`) v1.1.0.
+- A nine-phase workflow for task definition, safe context, approved tool selection, generation, independent verification, security review, engineering validation, human disposition, and traceability.
+- Cross-lifecycle guidance for requirements, architecture, technical design, coding, review, testing, deployment, operations, debugging, and incidents.
+- Enterprise AI risk, tool approval, code review, testing, incident response, metrics, and maturity controls.
+
+### Changed
+
+- Renamed the playbook from the narrower Draft `PB-AI-DEVELOPMENT` identity and expanded it to 33 sections with dedicated governance, security and privacy, approved-tools, prompt-engineering, and human-verification guidance.
+- Linked `PB-ARCH` v1.2.3 and `PB-TECH-DESIGN` v1.0.2 to the common AI control layer.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.15.0.
+
+## [1.19.0] — 30 July 2026
+
+### Added
+
+- Draft Technical Design Playbook (`PB-TECH-DESIGN`) v1.0.0.
+- A nine-phase workflow from approved architecture through coding-ready handover.
+- Implementation-focused component, contract, data, security, operational, validation, review, and approval guidance.
+- Reusable TDD templates, quality gates, checklists, traceability controls, AI boundaries, and enterprise appendices.
+
+### Changed
+
+- Linked `PB-ARCH` v1.2.1 directly to its technical-design consumer.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.14.0.
+
 ## [1.18.0] — 30 July 2026
 
 ### Changed

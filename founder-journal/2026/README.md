@@ -21,6 +21,8 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Engineering Terminology Reference — 30 July](2026-07-30-terminology-reference.md)
 - [Engineering Acronym Reference — 30 July](2026-07-30-acronym-reference.md)
 - [Architecture Playbook — 30 July](2026-07-30-architecture-playbook.md)
+- [Technical Design Playbook — 30 July](2026-07-30-technical-design-playbook.md)
+- [AI Engineering Playbook — 30 July](2026-07-30-ai-engineering-playbook.md)
 
 ---
 

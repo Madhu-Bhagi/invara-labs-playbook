@@ -118,8 +118,8 @@ Following this sequence helps engineering teams move from understanding the prob
 |---|----------|---------|--------|
 | 01 | [Requirements Playbook](PB-REQ.md) | Discover, validate, and document engineering requirements. | 🟢 Stable |
 | 02 | [Architecture Playbook](PB-ARCH.md) | Perform architecture work from problem analysis through approval and handover. | 🟡 In Progress |
-| 03 | Technical Design Playbook | Translate architecture into detailed implementation designs. | ⚪ Planned |
-| 04 | AI-Assisted Development Playbook | Effectively and responsibly use AI throughout software development. | ⚪ Planned |
+| 03 | [Technical Design Playbook](PB-TECH-DESIGN.md) | Translate architecture into detailed implementation designs. | 🟡 In Progress |
+| 04 | [AI Engineering Playbook](PB-AI-ENGINEERING.md) | Responsibly and effectively govern AI across the engineering lifecycle. | 🟡 In Progress |
 | 05 | Coding Playbook | Build high-quality software using consistent engineering practices. | ⚪ Planned |
 | 06 | Code Review Playbook | Improve quality through collaborative engineering reviews. | ⚪ Planned |
 | 07 | Testing Playbook | Verify correctness, reliability, and confidence before release. | ⚪ Planned |

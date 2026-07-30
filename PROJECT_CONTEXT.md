@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.18.0
-**ILOS Version:** 1.13.0
+**Repository Version:** 1.22.0
+**ILOS Version:** 1.17.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -71,8 +71,10 @@ Chapter 04 — Core Values
 - `STD-TRACEABILITY`, `STD-METADATA`, and `STD-VERSIONING` remain Draft and now reference the identifier registry.
 - `REF-IDENTIFIERS`, `REF-TERMINOLOGY`, and `REF-ACRONYMS` form the Draft engineering vocabulary foundation and require formal review before approval.
 - Repository design is paused; substantive work proceeds one playbook at a time.
-- `PB-ARCH` v1.2.0 is the Draft reference implementation for future playbooks and is awaiting gold-standard review.
+- `PB-ARCH` v1.2.3 is the Draft reference implementation for future playbooks and is awaiting gold-standard review.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
+- `PB-TECH-DESIGN` v1.0.2 is the second Draft flagship playbook; it directly consumes the `PB-ARCH` baseline and provides the reference pattern for execution-ready delivery guidance.
+- `PB-AI-ENGINEERING` v1.3.0 is the Draft enterprise Engineering AI Operating Procedure with SDLC-wide guidance, explicit risk management, human accountability, capability governance, and flagship appendices.
 
 ## Open Work
 
@@ -82,7 +84,11 @@ Chapter 04 — Core Values
 - Define Chapter 07 — Founder Principles.
 - Refine market positioning and service packaging after the foundation phase.
 - Review and approve `PB-ARCH`.
-- Author the Technical Design Playbook after `PB-ARCH` is stable.
+- Review and approve `PB-TECH-DESIGN` after `PB-ARCH` reaches a stable baseline.
+- Review and approve `PB-AI-ENGINEERING`.
+- Establish ownership and approval authority before populating `REF-AI-TOOLS`.
+- Author `REF-PROMPT-PATTERNS` only from reviewed, reusable engineering practice.
+- Author the Coding Playbook after the three foundational Draft playbooks are stable.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method

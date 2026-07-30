@@ -58,14 +58,14 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
-| ILOS control layer v1.13 | 🟢 Stable |
+| ILOS control layer v1.17 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
-| Engineering playbooks and standards | 🔴 Planned |
+| Engineering playbooks and standards | 🟡 In Progress |
 
 ---
 
 ## Future Work
 
 - Complete Chapter 04 — Core Values.
-- Author the Requirements Playbook when engineering delivery content is prioritised.
+- Review and approve the Architecture, Technical Design, and AI Engineering Playbooks.
 - Improve ILOS only when operating experience reveals a concrete need.

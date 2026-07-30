@@ -141,6 +141,8 @@ Together, these resources create a comprehensive engineering knowledge system th
 | [Engineering Identifier Reference](REF-IDENTIFIERS.md) | Draft |
 | [Engineering Terminology Reference](REF-TERMINOLOGY.md) | Draft |
 | [Engineering Acronym Reference](REF-ACRONYMS.md) | Draft |
+| [AI Tools Reference](REF-AI-TOOLS.md) | Planned |
+| [Engineering Prompt Patterns Reference](REF-PROMPT-PATTERNS.md) | Planned |
 
 ---
 

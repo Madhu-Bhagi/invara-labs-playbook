@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.10.0
+version: 1.14.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -159,8 +159,8 @@ Introduce governed capabilities for:
 |---|---|
 | [Requirements Playbook (`PB-REQ`)](../docs/03-engineering/02-playbooks/PB-REQ.md) | ✅ Complete |
 | [Architecture Playbook (`PB-ARCH`)](../docs/03-engineering/02-playbooks/PB-ARCH.md) | 🟡 In Progress |
-| [Technical Design Playbook](../docs/03-engineering/02-playbooks/03-technical-design-playbook.md) | ⬜ Planned |
-| [AI-Assisted Development Playbook](../docs/03-engineering/02-playbooks/04-ai-assisted-development-playbook.md) | ⬜ Planned |
+| [Technical Design Playbook (`PB-TECH-DESIGN`)](../docs/03-engineering/02-playbooks/PB-TECH-DESIGN.md) | 🟡 In Progress |
+| [AI Engineering Playbook (`PB-AI-ENGINEERING`)](../docs/03-engineering/02-playbooks/PB-AI-ENGINEERING.md) | 🟡 In Progress |
 | [Coding Playbook](../docs/03-engineering/02-playbooks/05-coding-playbook.md) | ⬜ Planned |
 | [Code Review Playbook](../docs/03-engineering/02-playbooks/06-code-review-playbook.md) | ⬜ Planned |
 | [Testing Playbook](../docs/03-engineering/02-playbooks/07-testing-playbook.md) | ⬜ Planned |
@@ -200,6 +200,8 @@ Introduce governed capabilities for:
 | [REF-ACRONYMS](../docs/03-engineering/04-reference/REF-ACRONYMS.md) | Approved acronym catalogue | 🟡 In Progress |
 | REF-METADATA | Metadata field reference | ⬜ Planned |
 | REF-TEMPLATES | Approved template catalogue | ⬜ Planned |
+| [REF-AI-TOOLS](../docs/03-engineering/04-reference/REF-AI-TOOLS.md) | Approved AI capabilities, use cases, data rules, and restrictions | ⬜ Planned |
+| [REF-PROMPT-PATTERNS](../docs/03-engineering/04-reference/REF-PROMPT-PATTERNS.md) | Reusable tool-neutral engineering prompt patterns | ⬜ Planned |
 
 Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-reference/README.md) should be reconciled with these IDs before substantive authoring.
 
@@ -219,11 +221,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 1 | 13 |
+| Playbooks | 1 | 3 | 11 |
 | Standards | 1 | 6 | 6 |
-| References | 0 | 3 | 2 |
+| References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **14** | **26** |
+| **Total** | **13** | **16** | **26** |
 
 ## 8. Immediate Priorities
 
@@ -239,7 +241,8 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 10. Add explicit metadata and status to Observability Principles.
 11. Review the draft Coding, Testing, and Security Principles.
 12. Review and approve `PB-ARCH`.
-13. Author the Technical Design Playbook after `PB-ARCH` is stable.
+13. Review and approve `PB-TECH-DESIGN` after `PB-ARCH` reaches a stable baseline.
+14. Review and approve `PB-AI-ENGINEERING` as the cross-lifecycle AI control layer.
 
 ## 9. Dependencies
 

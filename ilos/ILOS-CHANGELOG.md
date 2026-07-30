@@ -2,6 +2,52 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.17.0] — 30 July 2026
+
+### Changed
+
+- Elevated `PB-AI-ENGINEERING` to v1.3.0 as a vendor-neutral enterprise AI operating procedure.
+- Added dedicated SDLC, AI risk, intellectual-property, human-accountability, and approved-capability sections.
+- Added twelve enterprise appendices aligned with the flagship playbook quality model.
+
+## [1.16.0] — 30 July 2026
+
+### Changed
+
+- Refined `PB-AI-ENGINEERING` to v1.2.0 around process, governance, approved usage, and human verification.
+- Removed embedded changeable tool and prompt guidance from the playbook.
+- Aligned the flagship document to 32 sections and corrected appendix numbering.
+
+### Added
+
+- Planned AI Tools Reference (`REF-AI-TOOLS`).
+- Planned Engineering Prompt Patterns Reference (`REF-PROMPT-PATTERNS`).
+
+## [1.15.0] — 30 July 2026
+
+### Added
+
+- AI Engineering Playbook (`PB-AI-ENGINEERING`) v1.1.0 as a governed Draft and foundational cross-lifecycle playbook.
+- Common controls for approved tools, safe context, prompt task briefs, independent verification, security and privacy, human acceptance, and AI contribution traceability.
+
+### Changed
+
+- Renamed the narrower Draft `PB-AI-DEVELOPMENT` identity and expanded the SOP to 33 sections.
+- Linked `PB-ARCH` v1.2.3 and `PB-TECH-DESIGN` v1.0.2 to the AI control layer.
+- Moved AI Engineering from Planned to In Progress in the ILOS Roadmap.
+
+## [1.14.0] — 30 July 2026
+
+### Added
+
+- Technical Design Playbook (`PB-TECH-DESIGN`) v1.0.0 as a governed Draft.
+- Nine-phase technical-design workflow, five quality gates, implementation deliverables, templates, AI controls, and enterprise review appendices.
+
+### Changed
+
+- Connected the approved-architecture output of `PB-ARCH` v1.2.1 to the implementation-readiness input of `PB-TECH-DESIGN`.
+- Moved Technical Design from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.13.0] — 30 July 2026
 
 ### Changed
