@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.26.0
-**ILOS Version:** 1.21.0
+**Repository Version:** 1.27.0
+**ILOS Version:** 1.22.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -73,11 +73,12 @@ Chapter 04 — Core Values
 - Repository design is paused; substantive work proceeds one playbook at a time.
 - `PB-ARCH` v1.2.3 is the Draft reference implementation for future playbooks and is awaiting gold-standard review.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
-- `PB-TECH-DESIGN` v1.0.5 is the second Draft flagship playbook; it directly consumes the `PB-ARCH` baseline and connects implementation-ready design to governed Code Review and Testing.
-- `PB-AI-ENGINEERING` v1.3.3 is the Draft enterprise Engineering AI Operating Procedure with SDLC-wide guidance, explicit risk management, human accountability, capability governance, and governed Code Review and Testing stages.
-- `PB-CODING` v1.1.2 is the Draft first Execution Layer playbook with explicit governance, risk, secure coding, accountability, Standards integration, production-readiness controls, and governed Code Review and Testing handoffs.
-- `PB-CODE-REVIEW` v1.0.1 is the Draft independent verification SOP with eight review phases, explicit findings governance, human approval authority, and a governed Testing handoff.
-- `PB-TESTING` v1.0.0 is the Draft verification and validation SOP with eight testing phases, risk-based scope, defect governance, five quality gates, and twelve enterprise appendices.
+- `PB-TECH-DESIGN` v1.0.6 is the second Draft flagship playbook and connects implementation-ready design through governed Code Review, Testing, and Deployment.
+- `PB-AI-ENGINEERING` v1.3.4 is the Draft enterprise Engineering AI Operating Procedure with SDLC-wide governance through Deployment and explicit human release authority.
+- `PB-CODING` v1.1.3 is the Draft first Execution Layer playbook with governed Code Review, Testing, and Deployment relationships.
+- `PB-CODE-REVIEW` v1.0.2 is the Draft independent verification SOP linked through Testing to governed Deployment.
+- `PB-TESTING` v1.0.1 is the Draft verification and validation SOP with a governed Deployment handoff.
+- `PB-DEPLOYMENT` v1.0.0 is the Draft release-engineering SOP with seven deployment phases, explicit release authority, recovery governance, five quality gates, and twelve enterprise appendices.
 
 ## Open Work
 
@@ -94,7 +95,8 @@ Chapter 04 — Core Values
 - Review and approve `PB-CODING`.
 - Review and approve `PB-CODE-REVIEW`.
 - Review and approve `PB-TESTING`.
-- Author `PB-DEPLOYMENT` after the Testing workflow is stable.
+- Review and approve `PB-DEPLOYMENT`.
+- Author `PB-OBSERVABILITY` after the Deployment workflow is stable.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method

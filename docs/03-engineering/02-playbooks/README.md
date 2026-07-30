@@ -127,7 +127,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 09 | Security Playbook | Integrate security throughout the engineering lifecycle. | ⚪ Planned |
 | 10 | Observability Playbook | Build systems that are measurable, understandable, and operable. | ⚪ Planned |
 | 11 | Performance Playbook | Continuously optimise software performance and efficiency. | ⚪ Planned |
-| 12 | Deployment Playbook | Deliver software safely, predictably, and reliably. | ⚪ Planned |
+| 12 | [Deployment Playbook](PB-DEPLOYMENT.md) | Promote verified software safely with explicit authority, evidence, and recovery. | 🟡 In Progress |
 | 13 | Incident Response Playbook | Respond to production incidents and continuously improve operations. | ⚪ Planned |
 | 14 | Documentation Playbook | Produce clear, maintainable, and valuable engineering documentation. | ⚪ Planned |
 | 15 | Technical Decision Playbook | Make, document, and communicate important engineering decisions. | ⚪ Planned |

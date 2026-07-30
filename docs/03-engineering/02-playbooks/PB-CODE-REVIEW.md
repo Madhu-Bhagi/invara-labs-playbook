@@ -1,7 +1,7 @@
 ---
 title: Code Review Playbook
 id: PB-CODE-REVIEW
-version: 1.0.1
+version: 1.0.2
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -21,6 +21,7 @@ tags:
 related:
   - PB-CODING
   - PB-TESTING
+  - PB-DEPLOYMENT
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-REVIEW
@@ -966,7 +967,7 @@ A dependency update changes authentication token validation. The general reviewe
 - [`PB-TESTING`](PB-TESTING.md) consumes the reviewed change and review conditions.
 - [Security Playbook](09-security-playbook.md) governs broader security activity.
 - [Debugging Playbook](08-debugging-playbook.md) governs defect diagnosis.
-- [Deployment Playbook](12-deployment-playbook.md) governs production release.
+- [`PB-DEPLOYMENT`](PB-DEPLOYMENT.md) governs production release.
 
 ## 32. Metrics
 
@@ -1104,6 +1105,7 @@ Failure of any exit criterion prevents approval.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-DEPLOYMENT` release stage |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-TESTING` verification handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Code Review Playbook with eight-phase verification workflow, findings classification, governance, risk, security, accountability, metrics, and twelve enterprise appendices |
 

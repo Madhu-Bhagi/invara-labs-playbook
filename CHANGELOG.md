@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.27.0] — 30 July 2026
+
+### Added
+
+- Draft Deployment Playbook (`PB-DEPLOYMENT`) v1.0.0 as the governed release-engineering and production-promotion SOP.
+- A seven-phase workflow covering planning, environment preparation, readiness, execution, verification, observation, and operational handoff.
+- Release authority, strategy selection, rollback and recovery, environment, change, security, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked Technical Design, AI Engineering, Coding, Code Review, and Testing to the governed Deployment stage.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.22.0.
+
 ## [1.26.0] — 30 July 2026
 
 ### Added

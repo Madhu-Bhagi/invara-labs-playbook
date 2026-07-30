@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.22.0] — 30 July 2026
+
+### Added
+
+- Deployment Playbook (`PB-DEPLOYMENT`) v1.0.0 as a governed Draft.
+- Seven-phase release workflow, release authority, recovery, environment and change controls, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Connected upstream engineering playbooks to the governed Deployment stage.
+- Moved Deployment from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.21.0] — 30 July 2026
 
 ### Added
