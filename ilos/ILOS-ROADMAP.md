@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.3.0
+version: 1.4.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -188,7 +188,7 @@ Introduce governed capabilities for:
 | [API Standards](../docs/03-engineering/03-standards/api-standards.md) | ⬜ Planned |
 | [Logging Standards](../docs/03-engineering/03-standards/logging-standards.md) | ⬜ Planned |
 | [Git Standards](../docs/03-engineering/03-standards/git-standards.md) | ⬜ Planned |
-| [Versioning Standards](../docs/03-engineering/03-standards/versioning-standards.md) | ⬜ Planned |
+| [Engineering Versioning Standard (`STD-VERSIONING`)](../docs/03-engineering/03-standards/STD-VERSIONING.md) | 🟡 In Progress |
 | [Documentation Standards](../docs/03-engineering/03-standards/documentation-standards.md) | ⬜ Planned |
 
 ### References Backlog
@@ -220,10 +220,10 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
 | Playbooks | 1 | 0 | 14 |
-| Standards | 1 | 5 | 7 |
+| Standards | 1 | 6 | 6 |
 | References | 0 | 0 | 5 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **9** | **31** |
+| **Total** | **13** | **10** | **30** |
 
 ## 8. Immediate Priorities
 
@@ -232,10 +232,13 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 3. Review and approve `STD-REVIEW`.
 4. Review and approve `STD-TRACEABILITY`.
 5. Review and approve `STD-METADATA`.
-6. Draft `STD-VERSIONING` after metadata and lifecycle rules are reconciled.
-7. Add explicit metadata and status to Observability Principles.
-8. Review the draft Coding, Testing, and Security Principles.
-9. Begin the Architecture Playbook after governance prerequisites are stable.
+6. Review and approve `STD-VERSIONING`.
+7. Create `REF-IDENTIFIERS`.
+8. Create `REF-TERMINOLOGY`.
+9. Create `REF-ACRONYMS`.
+10. Add explicit metadata and status to Observability Principles.
+11. Review the draft Coding, Testing, and Security Principles.
+12. Begin the Architecture Playbook after governance prerequisites are stable.
 
 ## 9. Dependencies
 

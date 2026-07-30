@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.11.0] — 30 July 2026
+
+### Added
+
+- Draft Engineering Versioning Standard v1.0.0.
+- Semantic versioning, revision-history, compatibility, supersession, governance, and AI-assistance rules.
+
+### Changed
+
+- Replaced the planned versioning placeholder with canonical `STD-VERSIONING.md`.
+- Updated the Engineering Standards index and ILOS Roadmap.
+- Shifted the next planned work to identifier, terminology, and acronym references.
+- Published ILOS control layer v1.6.0.
+
 ## [1.10.0] — 30 July 2026
 
 ### Added

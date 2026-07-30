@@ -175,6 +175,7 @@ Together, these resources establish a shared engineering culture built on consis
 | [Engineering Review Standard](STD-REVIEW.md) | Draft |
 | [Engineering Traceability Standard](STD-TRACEABILITY.md) | Draft |
 | [Engineering Metadata Standard](STD-METADATA.md) | Draft |
+| [Engineering Versioning Standard](STD-VERSIONING.md) | Draft |
 
 ---
 

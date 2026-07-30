@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.6.0] — 30 July 2026
+
+### Added
+
+- Engineering Versioning Standard (`STD-VERSIONING`) v1.0.0 as a governed Draft.
+- Semantic versioning rules, lifecycle/version separation, revision-history requirements, compatibility guidance, and supersession governance.
+
+### Changed
+
+- Replaced the generic versioning placeholder with the canonical standard.
+- Updated the ILOS Roadmap and shifted the next planned work to engineering references.
+
 ## [1.5.0] — 30 July 2026
 
 ### Added
