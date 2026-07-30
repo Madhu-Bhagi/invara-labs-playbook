@@ -1,7 +1,7 @@
 ---
 title: Observability Playbook
 id: PB-OBSERVABILITY
-version: 1.0.2
+version: 1.0.3
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -23,6 +23,7 @@ related:
   - PB-DEPLOYMENT
   - PB-INCIDENT-MANAGEMENT
   - PB-CHANGE-MANAGEMENT
+  - PB-MAINTENANCE
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -852,6 +853,7 @@ The team moves per-user investigation to controlled logs and traces, retains bou
 - [Testing Playbook](PB-TESTING.md) verifies telemetry and operational requirements before release.
 - [`PB-INCIDENT-MANAGEMENT`](PB-INCIDENT-MANAGEMENT.md) governs coordinated incident response.
 - [`PB-CHANGE-MANAGEMENT`](PB-CHANGE-MANAGEMENT.md) governs operational changes arising from evidence and learning.
+- [`PB-MAINTENANCE`](PB-MAINTENANCE.md) consumes health, lifecycle, capacity, and trend evidence for long-term stewardship.
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic technical diagnosis.
 - [Security Playbook](09-security-playbook.md) will govern broader security activity.
 
@@ -983,6 +985,7 @@ Organisation-specific thresholds remain subject to an approved future reference.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked operational evidence to governed `PB-MAINTENANCE` stewardship |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` improvement path |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-INCIDENT-MANAGEMENT` escalation handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Observability Playbook with seven-phase operational workflow, telemetry, monitoring, alerting, signals, SLO, dashboard, security, five quality gates, metrics, and twelve enterprise appendices |

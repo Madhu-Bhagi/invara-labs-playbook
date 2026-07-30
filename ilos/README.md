@@ -204,14 +204,13 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 
 🟢 Stable
 
-**ILOS Version:** 1.25.0
+**ILOS Version:** 1.26.0
 
 ---
 
 ## Future Work
 
-- Review and approve the authored Playbooks, including Change Management.
-- Author `PB-MAINTENANCE` as the final core lifecycle playbook.
+- Review and approve the authored core lifecycle Playbooks, including Maintenance.
 - Introduce automated metadata and link validation only when manual checks become burdensome.
 - Improve ILOS when operating experience reveals a concrete governance or navigation gap.
 

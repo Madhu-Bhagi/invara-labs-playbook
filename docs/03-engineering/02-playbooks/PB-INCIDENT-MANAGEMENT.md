@@ -1,7 +1,7 @@
 ---
 title: Incident Management Playbook
 id: PB-INCIDENT-MANAGEMENT
-version: 1.0.1
+version: 1.0.2
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -22,6 +22,7 @@ related:
   - PB-OBSERVABILITY
   - PB-DEPLOYMENT
   - PB-CHANGE-MANAGEMENT
+  - PB-MAINTENANCE
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -920,7 +921,7 @@ The team records a near miss, fixes routing and ownership, adds expiry SLOs and 
 - [Security Playbook](09-security-playbook.md) will govern broader security response.
 - [Testing Playbook](PB-TESTING.md) consumes escaped defects as regression learning.
 - [`PB-CHANGE-MANAGEMENT`](PB-CHANGE-MANAGEMENT.md) governs operational implementation of incident follow-up changes.
-- Maintenance is planned as the final core playbook and will govern long-term stewardship.
+- [`PB-MAINTENANCE`](PB-MAINTENANCE.md) governs long-term stewardship and lifecycle work arising from incidents.
 
 ## 35. Metrics
 
@@ -1052,6 +1053,7 @@ Use one authoritative clock and distinguish observed time from recorded time.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-MAINTENANCE` long-term stewardship handoff |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` improvement handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Incident Management Playbook with ten-phase response workflow, incident command, classification, communication, RCA, CAPA, security, five quality gates, metrics, and twelve enterprise appendices |
 

@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.26.0] — 30 July 2026
+
+### Added
+
+- Maintenance Playbook (`PB-MAINTENANCE`) v1.0.0 as a governed Draft.
+- Ten-phase sustainment workflow, lifecycle management, dependency, debt, deprecation, EOL, security, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Connected operational evidence, incidents, changes, and AI-assisted work to governed long-term stewardship.
+- Completed core lifecycle Draft coverage and moved Maintenance from Planned to In Progress.
+
 ## [1.25.0] — 30 July 2026
 
 ### Added

@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.30.0
-**ILOS Version:** 1.25.0
+**Repository Version:** 1.31.0
+**ILOS Version:** 1.26.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -74,14 +74,16 @@ Chapter 04 — Core Values
 - `PB-ARCH` v1.2.4 is the Draft reference implementation for future playbooks and is linked to governed operational assurance.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
 - `PB-TECH-DESIGN` v1.0.7 is the second Draft flagship playbook and connects implementation-ready design through delivery into operational evidence.
-- `PB-AI-ENGINEERING` v1.3.7 is the Draft enterprise Engineering AI Operating Procedure with governed human authority through Change Management.
+- `PB-AI-ENGINEERING` v1.3.8 is the Draft enterprise Engineering AI Operating Procedure with governed human authority through Maintenance.
 - `PB-CODING` v1.1.4 is the Draft first Execution Layer playbook linked through delivery to operational evidence.
 - `PB-CODE-REVIEW` v1.0.2 is the Draft independent verification SOP linked through Testing to governed Deployment.
 - `PB-TESTING` v1.0.2 is the Draft verification and validation SOP linked to production operational evidence.
 - `PB-DEPLOYMENT` v1.0.3 is the Draft release-engineering SOP integrated with governed Change Management.
-- `PB-OBSERVABILITY` v1.0.2 is the Draft first Operations Engineering SOP linked to incident response and governed improvement changes.
-- `PB-INCIDENT-MANAGEMENT` v1.0.1 is the Draft coordinated response SOP with a governed Change Management improvement handoff.
-- `PB-CHANGE-MANAGEMENT` v1.0.0 is the Draft safe-change-enablement SOP with nine phases, risk-proportionate classification and approval, five quality gates, and twelve enterprise appendices.
+- `PB-OBSERVABILITY` v1.0.3 is the Draft first Operations Engineering SOP linked to incident response, maintenance, and governed improvement changes.
+- `PB-INCIDENT-MANAGEMENT` v1.0.2 is the Draft coordinated response SOP with governed Change Management and Maintenance handoffs.
+- `PB-CHANGE-MANAGEMENT` v1.0.1 is the Draft safe-change-enablement SOP linked to long-term Maintenance.
+- `PB-MAINTENANCE` v1.0.0 is the Draft final core lifecycle SOP with ten sustainment phases, five quality gates, and twelve enterprise appendices.
+- Core lifecycle Draft coverage is complete; formal review and approval remain required.
 
 ## Open Work
 
@@ -102,7 +104,7 @@ Chapter 04 — Core Values
 - Review and approve `PB-OBSERVABILITY`.
 - Review and approve `PB-INCIDENT-MANAGEMENT`.
 - Review and approve `PB-CHANGE-MANAGEMENT`.
-- Author `PB-MAINTENANCE` as the final core Engineering Operating System playbook.
+- Review and approve `PB-MAINTENANCE` as the final core Engineering Operating System playbook.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method

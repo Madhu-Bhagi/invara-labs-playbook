@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.22.0
+version: 1.23.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -173,7 +173,7 @@ Introduce governed capabilities for:
 | [Documentation Playbook](../docs/03-engineering/02-playbooks/14-documentation-playbook.md) | ⬜ Planned |
 | [Technical Decision Playbook](../docs/03-engineering/02-playbooks/15-technical-decision-playbook.md) | ⬜ Planned |
 | [Change Management Playbook (`PB-CHANGE-MANAGEMENT`)](../docs/03-engineering/02-playbooks/PB-CHANGE-MANAGEMENT.md) | 🟡 In Progress |
-| Maintenance Playbook (`PB-MAINTENANCE`) | ⬜ Planned |
+| [Maintenance Playbook (`PB-MAINTENANCE`)](../docs/03-engineering/02-playbooks/PB-MAINTENANCE.md) | 🟡 In Progress |
 
 ### Standards
 
@@ -223,11 +223,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 10 | 6 |
+| Playbooks | 1 | 11 | 5 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **23** | **21** |
+| **Total** | **13** | **24** | **20** |
 
 ## 8. Immediate Priorities
 
@@ -252,7 +252,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 19. Review and approve `PB-OBSERVABILITY` as the first Operations Engineering playbook.
 20. Review and approve `PB-INCIDENT-MANAGEMENT` as the coordinated operational-response and learning playbook.
 21. Review and approve `PB-CHANGE-MANAGEMENT` as the safe-change-enablement playbook.
-22. Author `PB-MAINTENANCE` as the final core lifecycle playbook.
+22. Review and approve `PB-MAINTENANCE` as the final core lifecycle playbook.
 
 ## 9. Dependencies
 

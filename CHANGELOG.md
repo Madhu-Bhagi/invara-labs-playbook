@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.31.0] — 30 July 2026
+
+### Added
+
+- Draft Maintenance Playbook (`PB-MAINTENANCE`) v1.0.0 as the governed long-term software stewardship SOP.
+- A ten-phase workflow covering need identification, health assessment, prioritisation, planning, implementation, validation, deployment, monitoring, knowledge updates, and closure.
+- Dependency, platform, debt, deprecation, EOL, security, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked Change Management, Incident Management, Observability, and AI Engineering to governed Maintenance.
+- Completed core lifecycle Draft coverage and moved Maintenance to In Progress pending formal review and approval.
+- Published ILOS control layer v1.26.0.
+
 ## [1.30.0] — 30 July 2026
 
 ### Added

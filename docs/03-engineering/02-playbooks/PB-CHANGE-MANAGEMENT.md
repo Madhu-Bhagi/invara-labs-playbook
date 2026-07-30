@@ -1,7 +1,7 @@
 ---
 title: Change Management Playbook
 id: PB-CHANGE-MANAGEMENT
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -22,6 +22,7 @@ related:
   - PB-DEPLOYMENT
   - PB-OBSERVABILITY
   - PB-INCIDENT-MANAGEMENT
+  - PB-MAINTENANCE
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -874,7 +875,7 @@ The Change Owner pauses. Because impact, evidence, recovery, and authority chang
 - [AI Engineering Playbook](PB-AI-ENGINEERING.md) governs AI-assisted change work.
 - [Testing Playbook](PB-TESTING.md) supplies verification evidence.
 - [Architecture Playbook](PB-ARCH.md) and [Technical Design Playbook](PB-TECH-DESIGN.md) supply approved intent.
-- Maintenance is planned as the final core playbook and will generate preventive, adaptive, corrective, and lifecycle changes.
+- [Maintenance Playbook](PB-MAINTENANCE.md) generates preventive, adaptive, corrective, perfective, and lifecycle changes governed here.
 
 ## 35. Metrics
 
@@ -1007,6 +1008,7 @@ Increase control for low detectability, irreversibility, sensitive data, wide de
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-MAINTENANCE` long-term stewardship flow |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Change Management Playbook with nine-phase safe-change workflow, classification, approval, risk, recovery, communication, security, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 38. Summary

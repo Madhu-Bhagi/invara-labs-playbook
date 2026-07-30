@@ -58,7 +58,7 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
-| ILOS control layer v1.25 | 🟢 Stable |
+| ILOS control layer v1.26 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
 | Engineering playbooks and standards | 🟡 In Progress |
 
@@ -67,6 +67,5 @@ The conversation is the workshop; the repository is the source of truth.
 ## Future Work
 
 - Complete Chapter 04 — Core Values.
-- Review and approve the authored Playbooks, including Change Management.
-- Author `PB-MAINTENANCE` as the final core lifecycle playbook.
+- Review and approve the authored core lifecycle Playbooks, including Maintenance.
 - Improve ILOS only when operating experience reveals a concrete need.
