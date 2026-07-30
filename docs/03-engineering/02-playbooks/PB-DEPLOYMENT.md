@@ -1,7 +1,7 @@
 ---
 title: Deployment Playbook
 id: PB-DEPLOYMENT
-version: 1.0.3
+version: 1.0.4
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -24,6 +24,7 @@ related:
   - PB-INCIDENT-MANAGEMENT
   - PB-CHANGE-MANAGEMENT
   - PB-AI-ENGINEERING
+  - PB-PLATFORM-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
   - STD-METADATA
@@ -869,6 +870,7 @@ A security exposure requires urgent configuration. The emergency authority appro
 - [`PB-INCIDENT-MANAGEMENT`](PB-INCIDENT-MANAGEMENT.md) governs production incident response.
 - [Security Playbook](09-security-playbook.md) will govern broader security activity.
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic diagnosis.
+- [`PB-PLATFORM-ENGINEERING`](PB-PLATFORM-ENGINEERING.md) supplies supported delivery capabilities and self-service interfaces.
 
 ## 33. Metrics
 
@@ -1000,6 +1002,7 @@ Do not use deployment count, frequency, speed, or automation percentage alone as
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.4 | 2026-07-30 | Invara Labs Engineering | Draft | Linked supported delivery capabilities to `PB-PLATFORM-ENGINEERING` |
 | 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` authorisation layer |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-INCIDENT-MANAGEMENT` recovery escalation |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` operational handoff |

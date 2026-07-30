@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.27.0] — 30 July 2026
+
+### Added
+
+- Platform Engineering Playbook (`PB-PLATFORM-ENGINEERING`) v1.0.0 as a governed Draft.
+- Ten-phase platform-product workflow, capability model, golden paths, self-service, developer experience, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Established Platform Engineering as the first Enterprise Engineering Capability.
+- Added Platform Engineering to In Progress in the ILOS Roadmap.
+
 ## [1.26.0] — 30 July 2026
 
 ### Added

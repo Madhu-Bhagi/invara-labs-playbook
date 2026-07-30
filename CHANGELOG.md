@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.32.0] — 30 July 2026
+
+### Added
+
+- Draft Platform Engineering Playbook (`PB-PLATFORM-ENGINEERING`) v1.0.0 as the first Enterprise Engineering Capability.
+- A ten-phase internal-platform product workflow from user discovery through operation, measurement, evolution, and retirement.
+- Platform capability model, golden paths, self-service, DevEx, governance, security, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked AI Engineering, Deployment, and Maintenance to governed Platform Engineering.
+- Added Platform Engineering to the Playbooks index and ILOS Roadmap as In Progress.
+- Published ILOS control layer v1.27.0.
+
 ## [1.31.0] — 30 July 2026
 
 ### Added

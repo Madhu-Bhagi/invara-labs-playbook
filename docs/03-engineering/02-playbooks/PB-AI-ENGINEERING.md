@@ -1,7 +1,7 @@
 ---
 title: AI Engineering Playbook
 id: PB-AI-ENGINEERING
-version: 1.3.8
+version: 1.3.9
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -40,6 +40,7 @@ related:
   - PB-INCIDENT-MANAGEMENT
   - PB-CHANGE-MANAGEMENT
   - PB-MAINTENANCE
+  - PB-PLATFORM-ENGINEERING
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1203,6 +1204,7 @@ The AI output remains analysis input. `PB-ARCH` governs the decision and approva
 - [`PB-INCIDENT-MANAGEMENT`](PB-INCIDENT-MANAGEMENT.md) governs AI-assisted incident work and human incident authority.
 - [`PB-CHANGE-MANAGEMENT`](PB-CHANGE-MANAGEMENT.md) governs AI-assisted change assessment and human approval authority.
 - [`PB-MAINTENANCE`](PB-MAINTENANCE.md) governs AI-assisted sustainment and human lifecycle authority.
+- [`PB-PLATFORM-ENGINEERING`](PB-PLATFORM-ENGINEERING.md) governs AI-assisted platform-product work and human platform authority.
 - [Documentation Playbook](14-documentation-playbook.md) will govern accepted documentation.
 
 ## 31. Metrics
@@ -1402,6 +1404,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.3.9 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted platform work to governed `PB-PLATFORM-ENGINEERING` human authority |
 | 1.3.8 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted sustainment to governed `PB-MAINTENANCE` human authority |
 | 1.3.7 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` operations-governance stage |
 | 1.3.6 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-INCIDENT-MANAGEMENT` response stage |

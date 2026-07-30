@@ -1,7 +1,7 @@
 ---
 title: Maintenance Playbook
 id: PB-MAINTENANCE
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -24,6 +24,7 @@ related:
   - PB-CHANGE-MANAGEMENT
   - PB-DEPLOYMENT
   - PB-AI-ENGINEERING
+  - PB-PLATFORM-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
   - STD-METADATA
@@ -894,6 +895,7 @@ The team verifies consumers, archives required data, removes credentials, schedu
 - [AI Engineering Playbook](PB-AI-ENGINEERING.md) governs AI-assisted maintenance.
 - [Requirements Playbook](PB-REQ.md), [Architecture Playbook](PB-ARCH.md), and [Technical Design Playbook](PB-TECH-DESIGN.md) govern material intent and design change.
 - [Coding Playbook](PB-CODING.md), [Code Review Playbook](PB-CODE-REVIEW.md), and [Testing Playbook](PB-TESTING.md) govern implementation and verification.
+- [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) governs platform-product sustainment, evolution, and retirement context.
 
 ## 34. Metrics
 
@@ -1025,6 +1027,7 @@ Track effectiveness, not only completion.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked platform sustainment and retirement to `PB-PLATFORM-ENGINEERING` |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Maintenance Playbook with ten-phase sustainment workflow, maintenance categories, dependency, debt, deprecation, EOL, security, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 37. Summary
