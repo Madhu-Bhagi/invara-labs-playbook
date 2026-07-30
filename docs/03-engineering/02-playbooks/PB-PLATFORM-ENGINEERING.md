@@ -1,7 +1,7 @@
 ---
 title: Platform Engineering Playbook
 id: PB-PLATFORM-ENGINEERING
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -28,6 +28,7 @@ related:
   - PB-INCIDENT-MANAGEMENT
   - PB-CHANGE-MANAGEMENT
   - PB-MAINTENANCE
+  - PB-SECURITY-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
   - STD-METADATA
@@ -933,6 +934,7 @@ IDP, golden-path, service-catalogue, platform-capability, and developer-experien
 - [Incident Management Playbook](PB-INCIDENT-MANAGEMENT.md) governs material platform impact.
 - [Change Management Playbook](PB-CHANGE-MANAGEMENT.md) governs production platform change.
 - [Maintenance Playbook](PB-MAINTENANCE.md) governs platform sustainment and retirement.
+- [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) governs secure platform design, defaults, verification, and operation.
 
 ## 35. Metrics
 
@@ -1090,6 +1092,7 @@ Record observed behaviour and verbatim themes without exposing personal or confi
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked secure platform products and controls to `PB-SECURITY-ENGINEERING` |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Platform Engineering Playbook with ten-phase product workflow, capability model, golden paths, self-service, DevEx, governance, security, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 38. Summary

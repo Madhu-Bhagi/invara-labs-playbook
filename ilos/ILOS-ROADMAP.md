@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.24.0
+version: 1.25.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -165,7 +165,7 @@ Introduce governed capabilities for:
 | [Code Review Playbook (`PB-CODE-REVIEW`)](../docs/03-engineering/02-playbooks/PB-CODE-REVIEW.md) | 🟡 In Progress |
 | [Testing Playbook (`PB-TESTING`)](../docs/03-engineering/02-playbooks/PB-TESTING.md) | 🟡 In Progress |
 | [Debugging Playbook](../docs/03-engineering/02-playbooks/08-debugging-playbook.md) | ⬜ Planned |
-| [Security Playbook](../docs/03-engineering/02-playbooks/09-security-playbook.md) | ⬜ Planned |
+| [Security Engineering Playbook (`PB-SECURITY-ENGINEERING`)](../docs/03-engineering/02-playbooks/PB-SECURITY-ENGINEERING.md) | 🟡 In Progress |
 | [Observability Playbook (`PB-OBSERVABILITY`)](../docs/03-engineering/02-playbooks/PB-OBSERVABILITY.md) | 🟡 In Progress |
 | [Performance Playbook](../docs/03-engineering/02-playbooks/11-performance-playbook.md) | ⬜ Planned |
 | [Deployment Playbook (`PB-DEPLOYMENT`)](../docs/03-engineering/02-playbooks/PB-DEPLOYMENT.md) | 🟡 In Progress |
@@ -224,11 +224,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 12 | 5 |
+| Playbooks | 1 | 13 | 4 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **25** | **20** |
+| **Total** | **13** | **26** | **19** |
 
 ## 8. Immediate Priorities
 
@@ -255,6 +255,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 21. Review and approve `PB-CHANGE-MANAGEMENT` as the safe-change-enablement playbook.
 22. Review and approve `PB-MAINTENANCE` as the final core lifecycle playbook.
 23. Review and approve `PB-PLATFORM-ENGINEERING` as the first Enterprise Engineering Capability.
+24. Review and approve `PB-SECURITY-ENGINEERING` as the cross-cutting Security Engineering capability.
 
 ## 9. Dependencies
 

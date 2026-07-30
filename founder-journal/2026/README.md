@@ -32,6 +32,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Change Management Playbook — 30 July](2026-07-30-change-management-playbook.md)
 - [Maintenance Playbook — 30 July](2026-07-30-maintenance-playbook.md)
 - [Platform Engineering Playbook — 30 July](2026-07-30-platform-engineering-playbook.md)
+- [Security Engineering Playbook — 30 July](2026-07-30-security-engineering-playbook.md)
 
 ---
 

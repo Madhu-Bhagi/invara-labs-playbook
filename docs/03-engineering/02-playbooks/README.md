@@ -124,7 +124,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 06 | [Code Review Playbook](PB-CODE-REVIEW.md) | Independently verify software changes and determine integration readiness. | 🟡 In Progress |
 | 07 | [Testing Playbook](PB-TESTING.md) | Verify requirements, quality attributes, risk, and release readiness through objective evidence. | 🟡 In Progress |
 | 08 | Debugging Playbook | Systematically investigate, diagnose, and resolve issues. | ⚪ Planned |
-| 09 | Security Playbook | Integrate security throughout the engineering lifecycle. | ⚪ Planned |
+| 09 | [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) | Engineer security continuously across software, platform, and operational lifecycles. | 🟡 In Progress |
 | 10 | [Observability Playbook](PB-OBSERVABILITY.md) | Continuously understand service health through governed, actionable operational evidence. | 🟡 In Progress |
 | 11 | Performance Playbook | Continuously optimise software performance and efficiency. | ⚪ Planned |
 | 12 | [Deployment Playbook](PB-DEPLOYMENT.md) | Promote verified software safely with explicit authority, evidence, and recovery. | 🟡 In Progress |

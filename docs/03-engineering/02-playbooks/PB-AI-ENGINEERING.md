@@ -1,7 +1,7 @@
 ---
 title: AI Engineering Playbook
 id: PB-AI-ENGINEERING
-version: 1.3.9
+version: 1.3.10
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -41,6 +41,7 @@ related:
   - PB-CHANGE-MANAGEMENT
   - PB-MAINTENANCE
   - PB-PLATFORM-ENGINEERING
+  - PB-SECURITY-ENGINEERING
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1198,7 +1199,7 @@ The AI output remains analysis input. `PB-ARCH` governs the decision and approva
 - [`PB-CODE-REVIEW`](PB-CODE-REVIEW.md) governs independent review and integration readiness for AI-assisted code.
 - [`PB-TESTING`](PB-TESTING.md) governs AI-assisted test design, execution, and verification evidence.
 - [Debugging Playbook](08-debugging-playbook.md) will govern AI-assisted diagnosis.
-- [Security Playbook](09-security-playbook.md) will govern security activities and risk treatment.
+- [`PB-SECURITY-ENGINEERING`](PB-SECURITY-ENGINEERING.md) governs AI-assisted security work and human security authority.
 - [`PB-DEPLOYMENT`](PB-DEPLOYMENT.md) governs AI-assisted release work and human release authority.
 - [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) governs AI-assisted operational analysis and human operational authority.
 - [`PB-INCIDENT-MANAGEMENT`](PB-INCIDENT-MANAGEMENT.md) governs AI-assisted incident work and human incident authority.
@@ -1404,6 +1405,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.3.10 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted security work to governed `PB-SECURITY-ENGINEERING` human authority |
 | 1.3.9 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted platform work to governed `PB-PLATFORM-ENGINEERING` human authority |
 | 1.3.8 | 2026-07-30 | Invara Labs Engineering | Draft | Linked AI-assisted sustainment to governed `PB-MAINTENANCE` human authority |
 | 1.3.7 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` operations-governance stage |

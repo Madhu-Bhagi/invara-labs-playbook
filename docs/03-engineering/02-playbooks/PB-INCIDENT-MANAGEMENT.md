@@ -1,7 +1,7 @@
 ---
 title: Incident Management Playbook
 id: PB-INCIDENT-MANAGEMENT
-version: 1.0.2
+version: 1.0.3
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -23,6 +23,7 @@ related:
   - PB-DEPLOYMENT
   - PB-CHANGE-MANAGEMENT
   - PB-MAINTENANCE
+  - PB-SECURITY-ENGINEERING
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -918,7 +919,7 @@ The team records a near miss, fixes routing and ownership, adds expiry SLOs and 
 - [Deployment Playbook](PB-DEPLOYMENT.md) governs rollback and recovery of released change.
 - [AI Engineering Playbook](PB-AI-ENGINEERING.md) governs AI-assisted incident work.
 - [Debugging Playbook](08-debugging-playbook.md) provides focused diagnosis.
-- [Security Playbook](09-security-playbook.md) will govern broader security response.
+- [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) supplies security investigation, containment, recovery, and improvement expertise.
 - [Testing Playbook](PB-TESTING.md) consumes escaped defects as regression learning.
 - [`PB-CHANGE-MANAGEMENT`](PB-CHANGE-MANAGEMENT.md) governs operational implementation of incident follow-up changes.
 - [`PB-MAINTENANCE`](PB-MAINTENANCE.md) governs long-term stewardship and lifecycle work arising from incidents.
@@ -1053,6 +1054,7 @@ Use one authoritative clock and distinguish observed time from recorded time.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked coordinated security incident response to `PB-SECURITY-ENGINEERING` |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-MAINTENANCE` long-term stewardship handoff |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` improvement handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Incident Management Playbook with ten-phase response workflow, incident command, classification, communication, RCA, CAPA, security, five quality gates, metrics, and twelve enterprise appendices |

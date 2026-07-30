@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.28.0] — 30 July 2026
+
+### Added
+
+- Security Engineering Playbook (`PB-SECURITY-ENGINEERING`) v1.0.0 as a governed Draft.
+- Nine-phase secure-lifecycle workflow, threat modelling, secure design, verification, supply chain, identity, vulnerability management, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Replaced the planned generic Security Playbook with the cross-cutting Security Engineering capability.
+- Moved Security Engineering to In Progress in the ILOS Roadmap.
+
 ## [1.27.0] — 30 July 2026
 
 ### Added

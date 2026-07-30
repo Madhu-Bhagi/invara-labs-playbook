@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.33.0] — 30 July 2026
+
+### Added
+
+- Draft Security Engineering Playbook (`PB-SECURITY-ENGINEERING`) v1.0.0 as the second Enterprise Engineering Capability.
+- A nine-phase secure-lifecycle workflow from asset context and threat modelling through secure release, monitoring, vulnerability treatment, and improvement.
+- Secure SDLC integration, supply-chain, identity, secrets, security monitoring, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Replaced the planned generic Security Playbook with the governed Security Engineering capability.
+- Linked AI Engineering, Platform Engineering, Incident Management, and Maintenance to Security Engineering.
+- Published ILOS control layer v1.28.0.
+
 ## [1.32.0] — 30 July 2026
 
 ### Added

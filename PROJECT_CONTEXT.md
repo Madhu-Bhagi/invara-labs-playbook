@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.32.0
-**ILOS Version:** 1.27.0
+**Repository Version:** 1.33.0
+**ILOS Version:** 1.28.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -74,17 +74,18 @@ Chapter 04 — Core Values
 - `PB-ARCH` v1.2.4 is the Draft reference implementation for future playbooks and is linked to governed operational assurance.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
 - `PB-TECH-DESIGN` v1.0.7 is the second Draft flagship playbook and connects implementation-ready design through delivery into operational evidence.
-- `PB-AI-ENGINEERING` v1.3.9 is the Draft enterprise Engineering AI Operating Procedure with governed human authority across Platform Engineering.
+- `PB-AI-ENGINEERING` v1.3.10 is the Draft enterprise Engineering AI Operating Procedure with governed human authority across Security Engineering.
 - `PB-CODING` v1.1.4 is the Draft first Execution Layer playbook linked through delivery to operational evidence.
 - `PB-CODE-REVIEW` v1.0.2 is the Draft independent verification SOP linked through Testing to governed Deployment.
 - `PB-TESTING` v1.0.2 is the Draft verification and validation SOP linked to production operational evidence.
 - `PB-DEPLOYMENT` v1.0.4 is the Draft release-engineering SOP integrated with governed Change Management and Platform Engineering.
 - `PB-OBSERVABILITY` v1.0.3 is the Draft first Operations Engineering SOP linked to incident response, maintenance, and governed improvement changes.
-- `PB-INCIDENT-MANAGEMENT` v1.0.2 is the Draft coordinated response SOP with governed Change Management and Maintenance handoffs.
+- `PB-INCIDENT-MANAGEMENT` v1.0.3 is the Draft coordinated response SOP linked to Security Engineering.
 - `PB-CHANGE-MANAGEMENT` v1.0.1 is the Draft safe-change-enablement SOP linked to long-term Maintenance.
-- `PB-MAINTENANCE` v1.0.1 is the Draft final core lifecycle SOP linked to platform sustainment and retirement.
+- `PB-MAINTENANCE` v1.0.2 is the Draft final core lifecycle SOP linked to security sustainment.
 - Core lifecycle Draft coverage is complete; formal review and approval remain required.
-- `PB-PLATFORM-ENGINEERING` v1.0.0 is the Draft first Enterprise Engineering Capability with ten product phases, five quality gates, and twelve enterprise appendices.
+- `PB-PLATFORM-ENGINEERING` v1.0.1 is the Draft first Enterprise Engineering Capability linked to secure platform defaults and controls.
+- `PB-SECURITY-ENGINEERING` v1.0.0 is the Draft second Enterprise Engineering Capability with nine phases, five quality gates, and twelve enterprise appendices.
 
 ## Open Work
 
@@ -107,6 +108,7 @@ Chapter 04 — Core Values
 - Review and approve `PB-CHANGE-MANAGEMENT`.
 - Review and approve `PB-MAINTENANCE` as the final core Engineering Operating System playbook.
 - Review and approve `PB-PLATFORM-ENGINEERING` as the first Enterprise Engineering Capability.
+- Review and approve `PB-SECURITY-ENGINEERING` as the second Enterprise Engineering Capability.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method
