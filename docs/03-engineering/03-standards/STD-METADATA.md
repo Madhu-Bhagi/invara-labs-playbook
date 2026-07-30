@@ -1,7 +1,7 @@
 ---
 title: Engineering Metadata Standard
 id: STD-METADATA
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs
 classification: Engineering Standard
@@ -21,6 +21,7 @@ related:
   - TERM-STANDARD
   - STD-REVIEW
   - STD-TRACEABILITY
+  - REF-IDENTIFIERS
 supersedes: null
 superseded_by: null
 ---
@@ -344,11 +345,11 @@ Exceptions shall be documented through ILOS Governance.
 - `TERM-STANDARD`
 - `STD-REVIEW`
 - `STD-TRACEABILITY`
-- `STD-VERSIONING` — Planned
+- `STD-VERSIONING` — Draft
 
 ### References
 
-- `REF-IDENTIFIERS` — Planned
+- `REF-IDENTIFIERS` — Draft
 - `REF-TERMINOLOGY` — Planned
 - `REF-METADATA` — Planned
 
@@ -365,6 +366,7 @@ These references inform the standard; ILOS governance remains authoritative for 
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the identifier registry and updated related artefact status |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial draft |
 
 ## 19. Summary

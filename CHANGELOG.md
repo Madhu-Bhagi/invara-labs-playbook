@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.12.0] — 30 July 2026
+
+### Added
+
+- Draft Engineering Identifier Reference v1.0.0.
+- Registry for established, compatibility, reserved, domain, and principle identifier families.
+
+### Changed
+
+- Linked the identifier registry from `STD-METADATA`, `STD-TRACEABILITY`, and `STD-VERSIONING`.
+- Updated the Engineering Reference index and ILOS Roadmap.
+- Published ILOS control layer v1.7.0.
+
 ## [1.11.0] — 30 July 2026
 
 ### Added

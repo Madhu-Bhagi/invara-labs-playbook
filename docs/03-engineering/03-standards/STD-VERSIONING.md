@@ -1,7 +1,7 @@
 ---
 title: Engineering Versioning Standard
 id: STD-VERSIONING
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs
 classification: Engineering Standard
@@ -21,6 +21,7 @@ related:
   - STD-TRACEABILITY
   - STD-REVIEW
   - DOC-STYLE
+  - REF-IDENTIFIERS
 supersedes: null
 superseded_by: null
 ---
@@ -295,7 +296,7 @@ Exceptions shall be documented through ILOS Governance.
 ### References
 
 - `REF-METADATA` — Planned
-- `REF-IDENTIFIERS` — Planned
+- `REF-IDENTIFIERS` — Draft
 
 ## 18. External References
 
@@ -309,6 +310,7 @@ These references inform the standard; ILOS governance remains authoritative for 
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the identifier registry |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial draft replacing the planned versioning placeholder |
 
 ## 20. Summary

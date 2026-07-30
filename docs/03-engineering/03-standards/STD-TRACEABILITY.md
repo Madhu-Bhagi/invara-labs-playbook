@@ -1,7 +1,7 @@
 ---
 title: Engineering Traceability Standard
 id: STD-TRACEABILITY
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs
 classification: Engineering Standard
@@ -22,6 +22,7 @@ related:
   - STD-REVIEW
   - PB-REQ
   - PB-AUTHORING
+  - REF-IDENTIFIERS
 supersedes: null
 superseded_by: null
 ---
@@ -313,11 +314,11 @@ Non-compliance shall be documented and addressed through the established governa
 - `DOC-STYLE`
 - `TERM-STANDARD`
 - `STD-REVIEW`
-- `STD-METADATA` — Planned
+- `STD-METADATA` — Draft
 
 ### References
 
-- `REF-IDENTIFIERS` — Planned
+- `REF-IDENTIFIERS` — Draft
 - `REF-TERMINOLOGY` — Planned
 
 ### Examples
@@ -339,6 +340,7 @@ These references inform the standard; repository governance remains authoritativ
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the identifier registry and updated related artefact status |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial draft |
 
 ## 21. Summary

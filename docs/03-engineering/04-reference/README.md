@@ -134,6 +134,16 @@ Together, these resources create a comprehensive engineering knowledge system th
 
 ---
 
+# Current Governance References
+
+| Reference | Status |
+|---|---|
+| [Engineering Identifier Reference](REF-IDENTIFIERS.md) | Draft |
+| Engineering Terminology Reference | Planned |
+| Engineering Acronym Reference | Planned |
+
+---
+
 # Navigation
 
 ← Previous: **Engineering Standards**

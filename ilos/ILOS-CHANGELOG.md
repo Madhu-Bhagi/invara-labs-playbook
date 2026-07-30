@@ -2,6 +2,19 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.7.0] — 30 July 2026
+
+### Added
+
+- Engineering Identifier Reference (`REF-IDENTIFIERS`) v1.0.0 as a governed Draft.
+- Authoritative registry for primary artefacts, principle families, compatibility IDs, reserved prefixes, and identifier lifecycle.
+
+### Changed
+
+- Linked the identifier registry from metadata, traceability, and versioning standards.
+- Updated the ILOS Roadmap and Reference index.
+- Reconciled the proposed universal `PR` prefix with established discipline-specific principle IDs.
+
 ## [1.6.0] — 30 July 2026
 
 ### Added
