@@ -2,6 +2,16 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.13.0] — 30 July 2026
+
+### Changed
+
+- Expanded `PB-ARCH` to v1.2.0 as the Draft reference implementation for future playbooks.
+- Added a phase governance matrix and traceability from business need through operational evidence.
+- Added reusable review, decision, quality, risk, technology-evaluation, approval, deliverables, and maturity controls.
+- Added a gold-standard review gate before approval.
+- Updated `PB-AUTHORING` to v1.1.0 so its mandatory coverage aligns with the phase-oriented reference implementation.
+
 ## [1.12.0] — 30 July 2026
 
 ### Changed

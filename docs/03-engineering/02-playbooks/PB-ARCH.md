@@ -1,7 +1,7 @@
 ---
 title: Architecture Playbook
 id: PB-ARCH
-version: 1.1.0
+version: 1.2.0
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -75,8 +75,9 @@ superseded_by: null
 24. Related References
 25. Related Playbooks
 26. Metrics
-27. Revision History
-28. Summary
+27. Reference Implementation and Enterprise Appendices
+28. Revision History
+29. Summary
 
 ## 1. Overview
 
@@ -896,14 +897,299 @@ Use metrics to improve the workflow, not to reward document volume.
 
 Interpret metrics with context. A healthy team may reopen decisions because new evidence emerged, not because the original process failed.
 
-## 27. Revision History
+## 27. Reference Implementation and Enterprise Appendices
+
+### 27.1 Reference Implementation for Future Playbooks
+
+`PB-ARCH` is the reference implementation for future ILOS playbooks.
+
+Future playbooks should reuse its operating model where the domain supports it:
+
+```text
+Purpose and Scope
+      │
+      ▼
+Roles, Inputs, and Entry Criteria
+      │
+      ▼
+Explicit Workflow Phases
+      │
+      ▼
+Activities, Outputs, and Exit Criteria
+      │
+      ▼
+Decision and Quality Gates
+      │
+      ▼
+AI Assistance with Human Accountability
+      │
+      ▼
+Templates, Metrics, and Traceability
+```
+
+`PB-AUTHORING` remains the governing standard. This playbook demonstrates how to implement that standard at enterprise depth without requiring every future playbook to copy architecture-specific content.
+
+### 27.2 Phase Governance Matrix
+
+| Phase | Accountable Role | Required Inputs | Required Outputs | Gate | Governing Artefacts |
+|---|---|---|---|---|---|
+| Understand Problem | Architecture Owner | Problem, objectives, requirements, current state | Architecture brief, context view | Context Ready | `PB-REQ`, `STD-TRACEABILITY` |
+| Define Drivers | Architecture Owner | Requirements, constraints, stakeholder concerns | Driver register, quality scenarios | Drivers Ready | Architecture Principles, `REF-TERMINOLOGY` |
+| Explore Options | Architecture Owner | Drivers, assumptions, current-state evidence | Option analysis | Decision Ready | `STD-REVIEW`, `TERM-STANDARD` |
+| Select Architecture | Decision Owner | Option analysis, evidence, cost and risk | Architecture vision, selected option | Decision Ready | Architecture Principles, `STD-TRACEABILITY` |
+| Validate Design | Engineering Lead | Critical assumptions, thresholds | Validation records, updated risks | Review Ready | Security, Testing, Performance, and Observability Principles |
+| Record Decisions | Architecture Owner | Selected choices and alternatives | ADRs and linked views | Review Ready | ADR template, `REF-IDENTIFIERS` |
+| Architecture Review | Lead Reviewer | Architecture package and evidence | Review report and findings | Review Ready | `STD-REVIEW` |
+| Approval | Authorised Approver | Review outcome and residual risks | Approval record | Delivery Ready | ILOS Lifecycle, `STD-VERSIONING` |
+| Handover | Engineering Lead | Approved baseline and conditions | Technical-design package | Delivery Ready | `STD-TRACEABILITY`, Technical Design Playbook |
+
+Where a governing artefact remains Draft, the team should follow its current guidance while recording any exception or ambiguity for formal review.
+
+### 27.3 Architecture Traceability Model
+
+```text
+Business Need
+      │ motivates
+      ▼
+Requirement
+      │ informs
+      ▼
+Architecture Driver
+      │ evaluated through
+      ▼
+Architecture Option
+      │ results in
+      ▼
+ADR
+      │ constrains
+      ▼
+Technical Design
+      │ guides
+      ▼
+Implementation
+      │ verified by
+      ▼
+Test Evidence
+      │ delivered through
+      ▼
+Deployment
+      │ observed through
+      ▼
+Operational Evidence
+```
+
+Minimum traceability record:
+
+| Artefact | Must Link To |
+|---|---|
+| Architecture brief | Business need and requirement source |
+| Driver register | Requirements, constraints, risks, or stakeholder concerns |
+| Option analysis | Drivers and evaluation evidence |
+| ADR | Drivers, alternatives, evidence, and affected architecture views |
+| Architecture review | Reviewed version, ADRs, findings, and owners |
+| Approval record | Reviewed version, conditions, residual risks, and approver |
+| Technical design | Governing architecture baseline and ADRs |
+| Test or operational evidence | Quality scenario, design, or risk being verified |
+
+Follow `STD-TRACEABILITY`; do not create a second source of truth solely to complete the chain.
+
+### 27.4 Architecture Review Checklist
+
+- [ ] Business outcomes and scope remain current.
+- [ ] System, ownership, data, and trust boundaries are explicit.
+- [ ] Critical requirements and quality attributes are addressed.
+- [ ] Constraints are real, sourced, and not disguised preferences.
+- [ ] The simplest viable option was considered.
+- [ ] Material alternatives and trade-offs are recorded.
+- [ ] Security, privacy, data, reliability, performance, operability, and cost were reviewed.
+- [ ] Critical assumptions have evidence or named treatment.
+- [ ] ADRs capture consequential decisions and review conditions.
+- [ ] Required views are internally consistent and understandable.
+- [ ] Risks, residual risks, and acceptance authorities are clear.
+- [ ] Traceability links resolve to authoritative artefacts.
+- [ ] Handover requirements and future review triggers are defined.
+
+### 27.5 Architecture Decision Checklist
+
+- [ ] The decision required now is stated.
+- [ ] The decision owner and affected stakeholders are named.
+- [ ] Drivers and constraints are linked.
+- [ ] At least two viable alternatives were assessed where the choice is consequential.
+- [ ] Benefits, costs, risks, reversibility, and operational consequences are visible.
+- [ ] Evidence is proportionate to uncertainty and impact.
+- [ ] The selected option and rejected alternatives have clear rationale.
+- [ ] Positive and negative consequences are accepted.
+- [ ] Review conditions and supersession rules are recorded.
+
+### 27.6 Quality-Attribute Checklist
+
+For each applicable quality, define the scenario, measure, owner, validation method, and evidence:
+
+- [ ] Availability and continuity
+- [ ] Reliability and fault tolerance
+- [ ] Recoverability and data-loss tolerance
+- [ ] Performance and capacity
+- [ ] Scalability and elasticity
+- [ ] Security and privacy
+- [ ] Maintainability and modifiability
+- [ ] Testability
+- [ ] Observability and diagnosability
+- [ ] Deployability and rollback
+- [ ] Interoperability and compatibility
+- [ ] Accessibility and usability
+- [ ] Data integrity, residency, retention, and auditability
+- [ ] Cost efficiency and sustainability
+
+Only applicable qualities require scenarios. Exclusions with material impact should include a rationale.
+
+### 27.7 Risk Assessment Template
+
+```text
+Risk ID:
+Title:
+Cause:
+Risk event:
+Business or technical impact:
+Affected requirement, driver, or decision:
+Likelihood:
+Severity:
+Prevention:
+Detection:
+Response and recovery:
+Validation evidence:
+Owner:
+Target date:
+Residual risk:
+Acceptance authority:
+Review trigger:
+Status:
+```
+
+### 27.8 Technology Evaluation Matrix
+
+Score only after defining evidence and scale. A score without evidence is an opinion disguised as measurement.
+
+| Criterion | Weight | Option A | Option B | Option C | Evidence |
+|---|---:|---:|---:|---:|---|
+| Functional fit |  |  |  |  |  |
+| Quality-attribute fit |  |  |  |  |  |
+| Security and compliance |  |  |  |  |  |
+| Operability and recovery |  |  |  |  |  |
+| Team skills and support |  |  |  |  |  |
+| Ecosystem and support horizon |  |  |  |  |  |
+| Delivery and migration risk |  |  |  |  |  |
+| Build and run cost |  |  |  |  |  |
+| Portability, lock-in, and exit cost |  |  |  |  |  |
+| Expected change and evolvability |  |  |  |  |  |
+
+Record disqualifying constraints separately. Do not allow a weighted total to override a mandatory legal, security, or operational requirement.
+
+### 27.9 Architecture Review Meeting Agenda
+
+```text
+1. Confirm decision scope, owner, approver, and required outcome.
+2. Restate business outcomes and architectural drivers.
+3. Review system context, boundaries, and selected architecture.
+4. Review material alternatives and trade-offs.
+5. Review validation evidence and unresolved assumptions.
+6. Review security, data, reliability, performance, and operations.
+7. Review ADRs, risks, and traceability.
+8. Classify findings and assign owners and dates.
+9. Confirm approval readiness and next action.
+```
+
+Send the architecture package before the meeting. Use meeting time for decisions and unresolved risks, not for reading documents aloud.
+
+### 27.10 Approval Workflow
+
+```text
+Review Package Submitted
+      │
+      ▼
+Completeness Check
+      │
+      ├── Incomplete ──► Return for Revision
+      │
+      ▼
+Multidisciplinary Review
+      │
+      ├── Blocking Findings ──► Revise and Re-review
+      │
+      ▼
+Risk and Condition Review
+      │
+      ▼
+Approval Decision
+      │
+      ├── Approved
+      │
+      ├── Approved with Conditions
+      │
+      ├── Revisions Required
+      │
+      ├── Rejected
+      │
+      └── Escalated
+      ▼
+Record Outcome and Notify Owners
+```
+
+Only an authorised person or body may approve the architecture or accept residual risk.
+
+### 27.11 Architecture Deliverables Checklist
+
+- [ ] Requirement specification or authoritative requirement links
+- [ ] Architecture brief
+- [ ] Context and boundary view
+- [ ] Driver register and measurable quality scenarios
+- [ ] Constraints and assumptions register
+- [ ] Option and trade-off analysis
+- [ ] Architecture vision and required views
+- [ ] Technology evaluation where applicable
+- [ ] ADRs
+- [ ] Risk register
+- [ ] Validation records
+- [ ] Review report and finding log
+- [ ] Approval record
+- [ ] Versioned handover package
+- [ ] Technical-design work and architecture review checkpoints
+
+### 27.12 Architecture Maturity Model
+
+| Level | Name | Observable State | Required Next Step |
+|---:|---|---|---|
+| 0 | Unmanaged | Architecture is implicit, undocumented, or person-dependent | Name an owner and establish context |
+| 1 | Described | Context and proposed structure exist, but drivers and decisions are incomplete | Define drivers, alternatives, and risks |
+| 2 | Evaluated | Options, trade-offs, quality scenarios, and risks are documented | Validate critical assumptions |
+| 3 | Reviewed | Multidisciplinary review is complete and findings are resolved or owned | Obtain formal approval |
+| 4 | Approved | The versioned architecture is the authorised delivery baseline | Verify alignment during delivery |
+| 5 | Evidence-Driven | Delivery and production evidence continuously inform architecture evolution | Maintain decisions and improve the process |
+
+Maturity describes evidence and governance, not document length. A small system can reach Level 5 with a proportionate architecture package.
+
+### 27.13 Gold-Standard Review Gate
+
+Before `PB-ARCH` becomes Approved and serves as the reusable playbook pattern, reviewers must confirm:
+
+- [ ] The nine-phase workflow is executable from its documented inputs.
+- [ ] Every phase identifies accountability, output, exit criteria, and applicable gate.
+- [ ] Traceability is continuous from business need through operational evidence.
+- [ ] Standards and References are linked rather than redefined.
+- [ ] AI assistance remains phase-specific and human-accountable.
+- [ ] Templates and checklists can be used without inventing missing fields.
+- [ ] The maturity model supports proportionate adoption.
+- [ ] Navigation, metadata, terminology, and identifiers pass validation.
+- [ ] `PB-AUTHORING` and this reference implementation do not conflict.
+
+## 28. Revision History
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.2.0 | 2026-07-30 | Invara Labs Engineering | Draft | Added reference-implementation controls, traceability, enterprise templates, and maturity model |
 | 1.1.0 | 2026-07-30 | Invara Labs Engineering | Draft | Reframed the playbook as a nine-phase architecture standard operating procedure |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Replaced the planned placeholder with the end-to-end architecture workflow |
 
-## 28. Summary
+## 29. Summary
 
 Architecture work turns requirements and constraints into explicit, evidence-backed decisions that delivery teams can execute.
 

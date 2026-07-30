@@ -15,6 +15,9 @@ Repository design is paused. Work now proceeds one playbook at a time, following
 - Referenced shared governance artefacts instead of duplicating their rules.
 - Refined `PB-ARCH` v1.1.0 into an explicit nine-phase standard operating procedure.
 - Preserved the established `PB-ARCH` identifier and canonical `PB-ARCH.md` filename.
+- Expanded `PB-ARCH` v1.2.0 as the Draft reference implementation for future playbooks.
+- Added phase governance, end-to-end traceability, enterprise review artefacts, and an evidence-based maturity model.
+- Updated `PB-AUTHORING` v1.1.0 so normative coverage and the phase-oriented reference implementation remain compatible.
 - Selected the Technical Design Playbook as the next playbook after `PB-ARCH` review.
 
 ## Files Updated

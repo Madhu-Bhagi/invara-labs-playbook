@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.17.0
-**ILOS Version:** 1.12.0
+**Repository Version:** 1.18.0
+**ILOS Version:** 1.13.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -71,7 +71,8 @@ Chapter 04 — Core Values
 - `STD-TRACEABILITY`, `STD-METADATA`, and `STD-VERSIONING` remain Draft and now reference the identifier registry.
 - `REF-IDENTIFIERS`, `REF-TERMINOLOGY`, and `REF-ACRONYMS` form the Draft engineering vocabulary foundation and require formal review before approval.
 - Repository design is paused; substantive work proceeds one playbook at a time.
-- `PB-ARCH` v1.1.0 defines the nine-phase architecture standard operating procedure and is awaiting review.
+- `PB-ARCH` v1.2.0 is the Draft reference implementation for future playbooks and is awaiting gold-standard review.
+- `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
 
 ## Open Work
 

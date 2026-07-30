@@ -2,6 +2,16 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.18.0] — 30 July 2026
+
+### Changed
+
+- Expanded the Draft Architecture Playbook to `PB-ARCH` v1.2.0.
+- Established it as the reference implementation for future playbooks while retaining `PB-AUTHORING` as the governing standard.
+- Added phase governance, end-to-end traceability, enterprise checklists and templates, an approval workflow, and an architecture maturity model.
+- Updated `PB-AUTHORING` to v1.1.0 with the reference implementation profile.
+- Published ILOS control layer v1.13.0.
+
 ## [1.17.0] — 30 July 2026
 
 ### Changed

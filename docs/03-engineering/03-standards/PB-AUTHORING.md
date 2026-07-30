@@ -1,6 +1,6 @@
 # Playbook Authoring Standard (PB-AUTHORING)
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Approved
 
@@ -188,7 +188,26 @@ Every Engineering Playbook shall follow the same structure.
 26. Summary
 ```
 
-This order shall remain consistent across every playbook.
+This coverage shall remain consistent across every playbook. Authors may split, combine, or reorder sections when the domain workflow becomes clearer, provided reviewers can map the result to every required concern.
+
+---
+
+# Reference Implementation Profile
+
+[`PB-ARCH`](../02-playbooks/PB-ARCH.md) is the reference implementation for applying this standard at enterprise depth.
+
+Future playbooks should follow its operating pattern where applicable:
+
+1. Define purpose, scope, roles, inputs, and entry criteria.
+2. Express the domain workflow as explicit phases.
+3. Give each phase an objective, activities, outputs, accountability, and exit criteria.
+4. Connect phases to decision points and quality gates.
+5. Maintain traceability to upstream and downstream artefacts.
+6. Reference shared Standards and References instead of duplicating them.
+7. Define phase-specific AI assistance and human accountability.
+8. Provide reusable checklists, templates, metrics, and maturity guidance where the domain needs them.
+
+The reference implementation governs presentation and completeness by example. This standard remains the normative authority for mandatory playbook requirements.
 
 ---
 
@@ -646,6 +665,15 @@ A playbook is considered complete when it:
 ✓ Passes engineering review
 
 ✓ Receives governance approval
+
+---
+
+# Revision History
+
+| Version | Date | Author | Summary |
+|---|---|---|---|
+| 1.1.0 | 2026-07-30 | Invara Labs Engineering | Added `PB-ARCH` reference implementation profile and allowed domain-appropriate section ordering |
+| 1.0.0 | 2026-07-30 | Engineering Governance | Initial approved authoring standard |
 
 ---
 
