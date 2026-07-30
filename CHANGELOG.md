@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.14.0] — 30 July 2026
+
+### Added
+
+- Draft Engineering Acronym Reference v1.0.0.
+- Governed expansions and meanings for shared engineering abbreviations.
+
+### Changed
+
+- Linked the acronym catalogue from related references and the terminology standard.
+- Updated the Engineering Reference index and ILOS Roadmap.
+- Published ILOS control layer v1.9.0.
+
 ## [1.13.0] — 30 July 2026
 
 ### Added

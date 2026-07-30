@@ -1,7 +1,7 @@
 ---
 title: Engineering Terminology Reference
 id: REF-TERMINOLOGY
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs
 classification: Engineering Reference
@@ -255,7 +255,7 @@ Draft definitions are not approved terminology until this reference reaches the 
 ### References
 
 - [`REF-IDENTIFIERS`](REF-IDENTIFIERS.md) — Defines identifier families.
-- `REF-ACRONYMS` — Planned acronym catalogue.
+- [`REF-ACRONYMS`](REF-ACRONYMS.md) — Draft acronym catalogue.
 
 ## 15. External References
 
@@ -269,6 +269,7 @@ These references inform this glossary; approved ILOS terminology remains authori
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the acronym reference and updated its status |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial terminology reference draft |
 
 ## 17. Summary

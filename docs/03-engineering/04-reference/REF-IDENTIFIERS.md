@@ -1,7 +1,7 @@
 ---
 title: Engineering Identifier Reference
 id: REF-IDENTIFIERS
-version: 1.0.1
+version: 1.0.2
 status: Draft
 owner: Invara Labs
 classification: Engineering Reference
@@ -21,6 +21,7 @@ related:
   - STD-METADATA
   - STD-TRACEABILITY
   - REF-TERMINOLOGY
+  - REF-ACRONYMS
 supersedes: null
 superseded_by: null
 ---
@@ -281,7 +282,7 @@ Automation shall use this registry rather than hard-coded undocumented assumptio
 ### References
 
 - [`REF-TERMINOLOGY`](REF-TERMINOLOGY.md) — Draft
-- `REF-ACRONYMS` — Planned
+- [`REF-ACRONYMS`](REF-ACRONYMS.md) — Draft
 
 ## 17. External References
 
@@ -294,6 +295,7 @@ These references inform the registry; ILOS governance remains authoritative for 
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.2 | 2026-07-30 | Invara Labs Engineering | Linked the acronym reference and updated its status |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the terminology reference and updated its status |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial draft reconciled with established repository identifiers |
 

@@ -19,6 +19,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Engineering Versioning Standard — 30 July](2026-07-30-versioning-standard.md)
 - [Engineering Identifier Reference — 30 July](2026-07-30-identifier-reference.md)
 - [Engineering Terminology Reference — 30 July](2026-07-30-terminology-reference.md)
+- [Engineering Acronym Reference — 30 July](2026-07-30-acronym-reference.md)
 
 ---
 

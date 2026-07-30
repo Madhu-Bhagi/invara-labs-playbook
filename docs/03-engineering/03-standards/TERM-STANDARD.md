@@ -1,7 +1,7 @@
 ---
 title: Engineering Terminology Standard
 id: TERM-STANDARD
-version: 1.0.1
+version: 1.0.2
 status: Draft
 owner: Invara Labs
 classification: Engineering Standard
@@ -21,6 +21,7 @@ related:
   - PB-AUTHORING
   - PB-REQ
   - REF-TERMINOLOGY
+  - REF-ACRONYMS
 supersedes: null
 superseded_by: null
 ---
@@ -3670,6 +3671,7 @@ Examples:
 
 | Version | Date | Author(s) | Approved By | Summary of Changes |
 |---------|------|-----------|-------------|--------------------|
+| 1.0.2 | 2026-07-30 | Invara Labs Engineering | TBD | Linked the authoritative Engineering Acronym Reference. |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | TBD | Linked the authoritative Engineering Terminology Reference. |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | TBD | Initial release of the Engineering Terminology Standard establishing terminology governance for the Engineering Operating System. |
 

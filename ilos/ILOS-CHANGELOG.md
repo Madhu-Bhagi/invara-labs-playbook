@@ -2,6 +2,19 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.9.0] — 30 July 2026
+
+### Added
+
+- Engineering Acronym Reference (`REF-ACRONYMS`) v1.0.0 as a governed Draft.
+- Shared acronym catalogue spanning engineering, architecture, development, testing, operations, governance, and AI.
+
+### Changed
+
+- Defined one ILOS meaning for ambiguous acronyms such as `CD` and `MTTR`.
+- Linked the acronym catalogue from terminology governance and the core references.
+- Updated the ILOS Roadmap and Engineering Reference index.
+
 ## [1.8.0] — 30 July 2026
 
 ### Added

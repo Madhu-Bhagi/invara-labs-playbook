@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.6.0
+version: 1.7.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -197,7 +197,7 @@ Introduce governed capabilities for:
 |---|---|---|
 | [REF-TERMINOLOGY](../docs/03-engineering/04-reference/REF-TERMINOLOGY.md) | Authoritative engineering vocabulary | 🟡 In Progress |
 | [REF-IDENTIFIERS](../docs/03-engineering/04-reference/REF-IDENTIFIERS.md) | Document and artefact identifier registry | 🟡 In Progress |
-| REF-ACRONYMS | Approved acronym catalogue | ⬜ Planned |
+| [REF-ACRONYMS](../docs/03-engineering/04-reference/REF-ACRONYMS.md) | Approved acronym catalogue | 🟡 In Progress |
 | REF-METADATA | Metadata field reference | ⬜ Planned |
 | REF-TEMPLATES | Approved template catalogue | ⬜ Planned |
 
@@ -221,9 +221,9 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 | Principles | 4 | 4 | 0 |
 | Playbooks | 1 | 0 | 14 |
 | Standards | 1 | 6 | 6 |
-| References | 0 | 2 | 3 |
+| References | 0 | 3 | 2 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **12** | **28** |
+| **Total** | **13** | **13** | **27** |
 
 ## 8. Immediate Priorities
 
@@ -235,7 +235,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 6. Review and approve `STD-VERSIONING`.
 7. Review and approve `REF-IDENTIFIERS`.
 8. Review and approve `REF-TERMINOLOGY`.
-9. Create `REF-ACRONYMS`.
+9. Review and approve `REF-ACRONYMS`.
 10. Add explicit metadata and status to Observability Principles.
 11. Review the draft Coding, Testing, and Security Principles.
 12. Begin the Architecture Playbook after governance prerequisites are stable.
