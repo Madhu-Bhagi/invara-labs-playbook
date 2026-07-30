@@ -2,6 +2,27 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.12.0] — 30 July 2026
+
+### Changed
+
+- Refined `PB-ARCH` to v1.1.0 as an explicit nine-phase architecture standard operating procedure.
+- Added phase outcomes, deliverables, approval flow, handover criteria, and phase-specific AI accountability.
+- Adopted the established `PB-ARCH.md` filename across repository navigation.
+
+## [1.11.0] — 30 July 2026
+
+### Added
+
+- Software Architecture Playbook (`PB-ARCH`) v1.0.0 as a governed Draft.
+- End-to-end architecture workflow covering drivers, options, decisions, validation, review, delivery, and evolution.
+
+### Changed
+
+- Moved the active repository phase from foundation design to playbook authoring.
+- Updated the Playbooks index, ILOS Roadmap, and progress dashboard.
+- Selected the Technical Design Playbook as the next playbook after architecture review.
+
 ## [1.10.0] — 30 July 2026
 
 ### Changed

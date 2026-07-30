@@ -20,6 +20,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Engineering Identifier Reference — 30 July](2026-07-30-identifier-reference.md)
 - [Engineering Terminology Reference — 30 July](2026-07-30-terminology-reference.md)
 - [Engineering Acronym Reference — 30 July](2026-07-30-acronym-reference.md)
+- [Architecture Playbook — 30 July](2026-07-30-architecture-playbook.md)
 
 ---
 

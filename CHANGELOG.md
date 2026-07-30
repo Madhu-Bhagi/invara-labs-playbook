@@ -2,6 +2,29 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.17.0] — 30 July 2026
+
+### Changed
+
+- Refined the Draft Architecture Playbook to `PB-ARCH` v1.1.0.
+- Made the nine-phase architecture standard operating procedure explicit from problem analysis through approval and handover.
+- Added phase deliverables and actionable AI-versus-human responsibility guidance.
+- Updated navigation to the canonical `PB-ARCH.md` filename.
+- Published ILOS control layer v1.12.0.
+
+## [1.16.0] — 30 July 2026
+
+### Added
+
+- Draft Software Architecture Playbook (`PB-ARCH`) v1.0.0.
+- A repeatable architecture process with roles, inputs, outputs, eleven workflow steps, five quality gates, templates, examples, AI boundaries, and metrics.
+
+### Changed
+
+- Replaced the Architecture Playbook placeholder.
+- Updated the Playbooks index, ILOS Roadmap, project phase, and founder journal.
+- Published ILOS control layer v1.11.0.
+
 ## [1.15.0] — 30 July 2026
 
 ### Changed

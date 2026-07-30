@@ -116,8 +116,8 @@ Following this sequence helps engineering teams move from understanding the prob
 
 | # | Playbook | Purpose | Status |
 |---|----------|---------|--------|
-| 01 | Requirements Playbook | Discover, validate, and document engineering requirements. | 🟡 In Progress |
-| 02 | Architecture Playbook | Design scalable, maintainable, and resilient system architectures. | ⚪ Planned |
+| 01 | [Requirements Playbook](PB-REQ.md) | Discover, validate, and document engineering requirements. | 🟢 Stable |
+| 02 | [Architecture Playbook](PB-ARCH.md) | Perform architecture work from problem analysis through approval and handover. | 🟡 In Progress |
 | 03 | Technical Design Playbook | Translate architecture into detailed implementation designs. | ⚪ Planned |
 | 04 | AI-Assisted Development Playbook | Effectively and responsibly use AI throughout software development. | ⚪ Planned |
 | 05 | Coding Playbook | Build high-quality software using consistent engineering practices. | ⚪ Planned |

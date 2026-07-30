@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.8.0
+version: 1.10.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -158,7 +158,7 @@ Introduce governed capabilities for:
 | Document | Status |
 |---|---|
 | [Requirements Playbook (`PB-REQ`)](../docs/03-engineering/02-playbooks/PB-REQ.md) | ✅ Complete |
-| [Architecture Playbook](../docs/03-engineering/02-playbooks/02-architecture-playbook.md) | ⬜ Planned |
+| [Architecture Playbook (`PB-ARCH`)](../docs/03-engineering/02-playbooks/PB-ARCH.md) | 🟡 In Progress |
 | [Technical Design Playbook](../docs/03-engineering/02-playbooks/03-technical-design-playbook.md) | ⬜ Planned |
 | [AI-Assisted Development Playbook](../docs/03-engineering/02-playbooks/04-ai-assisted-development-playbook.md) | ⬜ Planned |
 | [Coding Playbook](../docs/03-engineering/02-playbooks/05-coding-playbook.md) | ⬜ Planned |
@@ -219,11 +219,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 0 | 14 |
+| Playbooks | 1 | 1 | 13 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 2 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **13** | **27** |
+| **Total** | **13** | **14** | **26** |
 
 ## 8. Immediate Priorities
 
@@ -238,7 +238,8 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 9. Review and approve `REF-ACRONYMS`.
 10. Add explicit metadata and status to Observability Principles.
 11. Review the draft Coding, Testing, and Security Principles.
-12. Begin the Architecture Playbook after governance prerequisites are stable.
+12. Review and approve `PB-ARCH`.
+13. Author the Technical Design Playbook after `PB-ARCH` is stable.
 
 ## 9. Dependencies
 

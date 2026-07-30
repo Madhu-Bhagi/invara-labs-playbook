@@ -2,9 +2,9 @@
 
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
-**Current Phase:** Foundation  
-**Repository Version:** 1.15.0
-**ILOS Version:** 1.10.0
+**Current Phase:** Playbook Authoring
+**Repository Version:** 1.17.0
+**ILOS Version:** 1.12.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -70,6 +70,8 @@ Chapter 04 — Core Values
 - ILOS Roadmap is the master backlog and reports status from actual document metadata and content.
 - `STD-TRACEABILITY`, `STD-METADATA`, and `STD-VERSIONING` remain Draft and now reference the identifier registry.
 - `REF-IDENTIFIERS`, `REF-TERMINOLOGY`, and `REF-ACRONYMS` form the Draft engineering vocabulary foundation and require formal review before approval.
+- Repository design is paused; substantive work proceeds one playbook at a time.
+- `PB-ARCH` v1.1.0 defines the nine-phase architecture standard operating procedure and is awaiting review.
 
 ## Open Work
 
@@ -78,8 +80,9 @@ Chapter 04 — Core Values
 - Define Chapter 06 — Company Manifesto.
 - Define Chapter 07 — Founder Principles.
 - Refine market positioning and service packaging after the foundation phase.
-- Author the Requirements Playbook when engineering delivery content is prioritised.
-- Keep ILOS stable and return focus to substantive company and engineering content.
+- Review and approve `PB-ARCH`.
+- Author the Technical Design Playbook after `PB-ARCH` is stable.
+- Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method
 
