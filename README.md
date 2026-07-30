@@ -58,7 +58,7 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
-| ILOS control layer v1.3 | 🟢 Stable |
+| ILOS control layer v1.4 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
 | Engineering playbooks and standards | 🔴 Planned |
 

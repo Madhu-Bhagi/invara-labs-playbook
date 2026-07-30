@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.4.0] — 30 July 2026
+
+### Added
+
+- Engineering Traceability Standard (`STD-TRACEABILITY`) v1.0.0 as a governed Draft.
+- End-to-end traceability requirements covering documentation, decisions, implementation, testing, releases, and operations.
+
+### Changed
+
+- Updated the ILOS Roadmap catalogue and progress dashboard.
+- Added `STD-METADATA` as the next planned automation dependency.
+
 ## [1.3.0] — 30 July 2026
 
 ### Changed

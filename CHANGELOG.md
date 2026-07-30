@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.9.0] — 30 July 2026
+
+### Added
+
+- Draft Engineering Traceability Standard v1.0.0.
+- End-to-end traceability model, relationship rules, governance, review criteria, and AI-assisted traceability guidance.
+
+### Changed
+
+- Updated the Engineering Standards index and ILOS Roadmap.
+- Added `STD-METADATA` to the planned standards backlog.
+- Published ILOS control layer v1.4.0.
+
 ## [1.8.0] — 30 July 2026
 
 ### Changed

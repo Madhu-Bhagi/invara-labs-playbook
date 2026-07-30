@@ -165,6 +165,18 @@ Together, these resources establish a shared engineering culture built on consis
 
 ---
 
+# Current Governance Standards
+
+| Standard | Status |
+|---|---|
+| [Playbook Authoring Standard](PB-AUTHORING.md) | Approved |
+| [Documentation Style Guide](DOC-STYLE.md) | Draft |
+| [Terminology Standard](TERM-STANDARD.md) | Draft |
+| [Engineering Review Standard](STD-REVIEW.md) | Draft |
+| [Engineering Traceability Standard](STD-TRACEABILITY.md) | Draft |
+
+---
+
 # Navigation
 
 ← Previous: **Engineering Playbooks**

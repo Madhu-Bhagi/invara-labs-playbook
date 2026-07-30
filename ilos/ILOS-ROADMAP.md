@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.1.0
+version: 1.2.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -181,6 +181,8 @@ Introduce governed capabilities for:
 | [Documentation Style Guide (`DOC-STYLE`)](../docs/03-engineering/03-standards/DOC-STYLE.md) | 🟡 In Progress |
 | [Terminology Standard (`TERM-STANDARD`)](../docs/03-engineering/03-standards/TERM-STANDARD.md) | 🟡 In Progress |
 | [Engineering Review Standard (`STD-REVIEW`)](../docs/03-engineering/03-standards/STD-REVIEW.md) | 🟡 In Progress |
+| [Engineering Traceability Standard (`STD-TRACEABILITY`)](../docs/03-engineering/03-standards/STD-TRACEABILITY.md) | 🟡 In Progress |
+| Metadata Standard (`STD-METADATA`) | ⬜ Planned |
 | Documentation Governance (`DOC-GOVERNANCE`) | ⬜ Planned |
 | [Coding Standards](../docs/03-engineering/03-standards/coding-standards.md) | ⬜ Planned |
 | [API Standards](../docs/03-engineering/03-standards/api-standards.md) | ⬜ Planned |
@@ -218,19 +220,21 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
 | Playbooks | 1 | 0 | 14 |
-| Standards | 1 | 3 | 7 |
+| Standards | 1 | 4 | 8 |
 | References | 0 | 0 | 5 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **7** | **31** |
+| **Total** | **13** | **8** | **32** |
 
 ## 8. Immediate Priorities
 
 1. Review and approve `DOC-STYLE`.
 2. Review and approve `TERM-STANDARD`.
 3. Review and approve `STD-REVIEW`.
-4. Add explicit metadata and status to Observability Principles.
-5. Review the draft Coding, Testing, and Security Principles.
-6. Begin the Architecture Playbook after governance prerequisites are stable.
+4. Review and approve `STD-TRACEABILITY`.
+5. Draft `STD-METADATA` after traceability relationships are reviewed.
+6. Add explicit metadata and status to Observability Principles.
+7. Review the draft Coding, Testing, and Security Principles.
+8. Begin the Architecture Playbook after governance prerequisites are stable.
 
 ## 9. Dependencies
 
