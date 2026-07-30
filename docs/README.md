@@ -20,7 +20,7 @@ Start with [Company](00-company/README.md), then [Foundation](01-foundation/READ
 
 ## Relationships
 
-Governed by the repository root documents and supported by ADRs, journals, prompts, and templates.
+Governed by [ILOS](../ilos/README.md) and supported by repository context, ADRs, journals, prompts, and templates.
 
 ---
 
@@ -28,6 +28,7 @@ Governed by the repository root documents and supported by ADRs, journals, promp
 
 - [Documentation index](index.md)
 - [Knowledge map](knowledge-map.md)
+- [ILOS](../ilos/README.md)
 - [Repository home](../README.md)
 
 ---

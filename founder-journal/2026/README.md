@@ -10,6 +10,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 
 - [Foundation session — 27 July](2026-07-27-foundation-session.md)
 - [Information architecture — 29 July](2026-07-29-information-architecture.md)
+- [ILOS control layer — 30 July](2026-07-30-ilos-control-layer.md)
 
 ---
 

@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.5.0] — 30 July 2026
+
+### Added
+
+- Dedicated ILOS control layer v1.0.0.
+- ILOS architecture, roadmap, governance, lifecycle, and changelog.
+- ADR-008 — Dedicated ILOS Control Layer.
+
+### Changed
+
+- Separated repository governance from managed Engineering content.
+- Updated repository navigation, context, AI instructions, and Founder Journal.
+
 ## [1.4.0] — 29 July 2026
 
 ### Added

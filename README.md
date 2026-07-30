@@ -11,6 +11,7 @@ Invara Labs is an **engineering-first, AI-enabled, business-focused technology s
 ## Contents
 
 - Company and foundation
+- ILOS architecture, governance, roadmap, lifecycle, and change history
 - Business and functional domains
 - Engineering principles, playbooks, standards, references, and examples
 - Decisions, founder journals, meeting notes, prompts, and templates
@@ -21,10 +22,11 @@ Invara Labs is an **engineering-first, AI-enabled, business-focused technology s
 ## Reading Order
 
 1. Read [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
-2. Read [`AI_GUIDE.md`](AI_GUIDE.md).
-3. Open the [`Documentation index`](docs/index.md).
-4. Review relevant ADRs in [`decisions/adr/`](decisions/adr/).
-5. Continue from [`ROADMAP.md`](ROADMAP.md).
+2. Read the [`ILOS overview`](ilos/README.md).
+3. Read [`AI_GUIDE.md`](AI_GUIDE.md).
+4. Open the [`Documentation index`](docs/index.md).
+5. Review relevant ADRs in [`decisions/adr/`](decisions/adr/).
+6. Continue from [`ROADMAP.md`](ROADMAP.md).
 
 ---
 
@@ -39,6 +41,7 @@ The conversation is the workshop; the repository is the source of truth.
 ## Navigation
 
 - [Documentation](docs/README.md)
+- [ILOS](ilos/README.md)
 - [Decisions](decisions/README.md)
 - [Founder Journal](founder-journal/README.md)
 - [Meeting Notes](meeting-notes/README.md)
@@ -55,7 +58,7 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
-| Information architecture v1.0 | 🟢 Stable |
+| ILOS control layer v1.0 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
 | Engineering playbooks and standards | 🔴 Planned |
 
@@ -65,4 +68,4 @@ The conversation is the workshop; the repository is the source of truth.
 
 - Complete Chapter 04 — Core Values.
 - Author the Requirements Playbook when engineering delivery content is prioritised.
-- Avoid further restructuring unless a new ADR establishes a compelling reason.
+- Improve ILOS only when operating experience reveals a concrete need.

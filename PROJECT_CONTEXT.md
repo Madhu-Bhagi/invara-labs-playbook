@@ -3,8 +3,9 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Foundation  
-**Repository Version:** 1.4.0
-**Last Updated:** 29 July 2026
+**Repository Version:** 1.5.0
+**ILOS Version:** 1.0.0
+**Last Updated:** 30 July 2026
 
 ## Purpose
 
@@ -63,6 +64,7 @@ Chapter 04 — Core Values
 - The repository is the permanent source of truth.
 - Approved chapters, decisions, and session notes must be version-controlled.
 - Information architecture v1.0 is stable; future structural changes require an ADR.
+- The dedicated `ilos/` control layer governs repository architecture, governance, roadmap, and document lifecycle.
 
 ## Open Work
 
@@ -72,6 +74,7 @@ Chapter 04 — Core Values
 - Define Chapter 07 — Founder Principles.
 - Refine market positioning and service packaging after the foundation phase.
 - Author the Requirements Playbook when engineering delivery content is prioritised.
+- Keep ILOS stable and return focus to substantive company and engineering content.
 
 ## Working Method
 

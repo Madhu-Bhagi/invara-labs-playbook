@@ -1,6 +1,6 @@
 # Codex Workspace Instructions
 
-Read `AI_GUIDE.md` and `PROJECT_CONTEXT.md` before performing any task.
+Read `PROJECT_CONTEXT.md`, `ilos/README.md`, and `AI_GUIDE.md` before performing any task.
 
 ## Current Objective
 
@@ -14,7 +14,8 @@ Continue building the Invara Labs Playbook from Chapter 04 — Core Values.
 - Invara Labs exists to solve real business problems through technology.
 - Trust, credibility, quality delivery, client happiness, and long-term partnerships are central.
 - Record strategic decisions in `decisions/adr/`.
-- Preserve information architecture v1.0 unless a new ADR approves a structural change.
+- Preserve ILOS architecture unless a new ADR approves a structural change.
+- Keep ILOS controls separate from business and engineering content.
 - Record session outcomes in `founder-journal/`.
 - Keep all context in the repository, not only in chat.
 

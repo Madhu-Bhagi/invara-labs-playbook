@@ -1,15 +1,6 @@
 # Invara Labs Playbook Roadmap
 
-## Repository Architecture
-
-| Area | Status |
-|---|---|
-| Information architecture v1.0 | Stable |
-| Standard README structure | Stable |
-| Engineering principles | Stable |
-| Requirements Playbook | Planned |
-| Remaining engineering playbooks | Planned |
-| Engineering standards | Planned |
+Repository architecture and governance work is tracked separately in the [ILOS Roadmap](ilos/ILOS-ROADMAP.md).
 
 ## Phase 1 — Foundation
 
