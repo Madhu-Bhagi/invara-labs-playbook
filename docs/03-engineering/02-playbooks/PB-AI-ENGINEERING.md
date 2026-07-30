@@ -1,7 +1,7 @@
 ---
 title: AI Engineering Playbook
 id: PB-AI-ENGINEERING
-version: 1.3.5
+version: 1.3.6
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -37,6 +37,7 @@ related:
   - PB-TESTING
   - PB-DEPLOYMENT
   - PB-OBSERVABILITY
+  - PB-INCIDENT-MANAGEMENT
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1197,7 +1198,7 @@ The AI output remains analysis input. `PB-ARCH` governs the decision and approva
 - [Security Playbook](09-security-playbook.md) will govern security activities and risk treatment.
 - [`PB-DEPLOYMENT`](PB-DEPLOYMENT.md) governs AI-assisted release work and human release authority.
 - [`PB-OBSERVABILITY`](PB-OBSERVABILITY.md) governs AI-assisted operational analysis and human operational authority.
-- [Incident Response Playbook](13-incident-response-playbook.md) will govern AI-assisted incident work.
+- [`PB-INCIDENT-MANAGEMENT`](PB-INCIDENT-MANAGEMENT.md) governs AI-assisted incident work and human incident authority.
 - [Documentation Playbook](14-documentation-playbook.md) will govern accepted documentation.
 
 ## 31. Metrics
@@ -1397,6 +1398,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.3.6 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-INCIDENT-MANAGEMENT` response stage |
 | 1.3.5 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` operations stage |
 | 1.3.4 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-DEPLOYMENT` release stage |
 | 1.3.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-TESTING` verification stage |

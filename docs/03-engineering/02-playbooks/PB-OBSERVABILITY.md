@@ -1,7 +1,7 @@
 ---
 title: Observability Playbook
 id: PB-OBSERVABILITY
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -21,6 +21,7 @@ tags:
   - playbook
 related:
   - PB-DEPLOYMENT
+  - PB-INCIDENT-MANAGEMENT
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -848,7 +849,7 @@ The team moves per-user investigation to controlled logs and traces, retains bou
 - [Architecture Playbook](PB-ARCH.md) supplies boundaries, quality attributes, and failure models.
 - [Technical Design Playbook](PB-TECH-DESIGN.md) supplies instrumentation and operational design.
 - [Testing Playbook](PB-TESTING.md) verifies telemetry and operational requirements before release.
-- [Incident Response Playbook](13-incident-response-playbook.md) governs coordinated incident response.
+- [`PB-INCIDENT-MANAGEMENT`](PB-INCIDENT-MANAGEMENT.md) governs coordinated incident response.
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic technical diagnosis.
 - [Security Playbook](09-security-playbook.md) will govern broader security activity.
 
@@ -980,6 +981,7 @@ Organisation-specific thresholds remain subject to an approved future reference.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-INCIDENT-MANAGEMENT` escalation handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Observability Playbook with seven-phase operational workflow, telemetry, monitoring, alerting, signals, SLO, dashboard, security, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 37. Summary

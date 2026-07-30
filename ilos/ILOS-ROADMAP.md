@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.20.0
+version: 1.21.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -169,7 +169,7 @@ Introduce governed capabilities for:
 | [Observability Playbook (`PB-OBSERVABILITY`)](../docs/03-engineering/02-playbooks/PB-OBSERVABILITY.md) | 🟡 In Progress |
 | [Performance Playbook](../docs/03-engineering/02-playbooks/11-performance-playbook.md) | ⬜ Planned |
 | [Deployment Playbook (`PB-DEPLOYMENT`)](../docs/03-engineering/02-playbooks/PB-DEPLOYMENT.md) | 🟡 In Progress |
-| [Incident Response Playbook](../docs/03-engineering/02-playbooks/13-incident-response-playbook.md) | ⬜ Planned |
+| [Incident Management Playbook (`PB-INCIDENT-MANAGEMENT`)](../docs/03-engineering/02-playbooks/PB-INCIDENT-MANAGEMENT.md) | 🟡 In Progress |
 | [Documentation Playbook](../docs/03-engineering/02-playbooks/14-documentation-playbook.md) | ⬜ Planned |
 | [Technical Decision Playbook](../docs/03-engineering/02-playbooks/15-technical-decision-playbook.md) | ⬜ Planned |
 
@@ -221,11 +221,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 8 | 6 |
+| Playbooks | 1 | 9 | 5 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **21** | **21** |
+| **Total** | **13** | **22** | **20** |
 
 ## 8. Immediate Priorities
 
@@ -248,6 +248,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 17. Review and approve `PB-TESTING` as the risk-based verification, validation, and release-readiness playbook.
 18. Review and approve `PB-DEPLOYMENT` as the governed release-engineering and production-promotion playbook.
 19. Review and approve `PB-OBSERVABILITY` as the first Operations Engineering playbook.
+20. Review and approve `PB-INCIDENT-MANAGEMENT` as the coordinated operational-response and learning playbook.
 
 ## 9. Dependencies
 

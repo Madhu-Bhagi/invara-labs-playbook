@@ -128,7 +128,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 10 | [Observability Playbook](PB-OBSERVABILITY.md) | Continuously understand service health through governed, actionable operational evidence. | 🟡 In Progress |
 | 11 | Performance Playbook | Continuously optimise software performance and efficiency. | ⚪ Planned |
 | 12 | [Deployment Playbook](PB-DEPLOYMENT.md) | Promote verified software safely with explicit authority, evidence, and recovery. | 🟡 In Progress |
-| 13 | Incident Response Playbook | Respond to production incidents and continuously improve operations. | ⚪ Planned |
+| 13 | [Incident Management Playbook](PB-INCIDENT-MANAGEMENT.md) | Coordinate impact reduction, recovery, communication, learning, and resilience improvement. | 🟡 In Progress |
 | 14 | Documentation Playbook | Produce clear, maintainable, and valuable engineering documentation. | ⚪ Planned |
 | 15 | Technical Decision Playbook | Make, document, and communicate important engineering decisions. | ⚪ Planned |
 

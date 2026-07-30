@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.28.0
-**ILOS Version:** 1.23.0
+**Repository Version:** 1.29.0
+**ILOS Version:** 1.24.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -74,12 +74,13 @@ Chapter 04 — Core Values
 - `PB-ARCH` v1.2.4 is the Draft reference implementation for future playbooks and is linked to governed operational assurance.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
 - `PB-TECH-DESIGN` v1.0.7 is the second Draft flagship playbook and connects implementation-ready design through delivery into operational evidence.
-- `PB-AI-ENGINEERING` v1.3.5 is the Draft enterprise Engineering AI Operating Procedure with governed human authority through Observability.
+- `PB-AI-ENGINEERING` v1.3.6 is the Draft enterprise Engineering AI Operating Procedure with governed human authority through Incident Management.
 - `PB-CODING` v1.1.4 is the Draft first Execution Layer playbook linked through delivery to operational evidence.
 - `PB-CODE-REVIEW` v1.0.2 is the Draft independent verification SOP linked through Testing to governed Deployment.
 - `PB-TESTING` v1.0.2 is the Draft verification and validation SOP linked to production operational evidence.
-- `PB-DEPLOYMENT` v1.0.1 is the Draft release-engineering SOP with a governed Observability handoff.
-- `PB-OBSERVABILITY` v1.0.0 is the Draft first Operations Engineering SOP with seven operational phases, telemetry and SLO governance, five quality gates, and twelve enterprise appendices.
+- `PB-DEPLOYMENT` v1.0.2 is the Draft release-engineering SOP linked to governed operational assurance and incident recovery.
+- `PB-OBSERVABILITY` v1.0.1 is the Draft first Operations Engineering SOP with a governed Incident Management escalation.
+- `PB-INCIDENT-MANAGEMENT` v1.0.0 is the Draft coordinated response SOP with ten incident phases, command roles, RCA and CAPA governance, five quality gates, and twelve enterprise appendices.
 
 ## Open Work
 
@@ -98,7 +99,8 @@ Chapter 04 — Core Values
 - Review and approve `PB-TESTING`.
 - Review and approve `PB-DEPLOYMENT`.
 - Review and approve `PB-OBSERVABILITY`.
-- Author `PB-INCIDENT-MANAGEMENT` after the Observability workflow is stable.
+- Review and approve `PB-INCIDENT-MANAGEMENT`.
+- Author `PB-CHANGE-MANAGEMENT` after the Incident Management workflow is stable.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method

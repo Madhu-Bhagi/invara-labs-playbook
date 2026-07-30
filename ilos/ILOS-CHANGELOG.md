@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.24.0] — 30 July 2026
+
+### Added
+
+- Incident Management Playbook (`PB-INCIDENT-MANAGEMENT`) v1.0.0 as a governed Draft.
+- Ten-phase response workflow, incident command, classification, communication, RCA, CAPA, security, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Connected operational detection and deployment recovery to governed Incident Management.
+- Moved Incident Management from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.23.0] — 30 July 2026
 
 ### Added

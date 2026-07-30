@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.29.0] — 30 July 2026
+
+### Added
+
+- Draft Incident Management Playbook (`PB-INCIDENT-MANAGEMENT`) v1.0.0 as the governed coordinated operational-response SOP.
+- A ten-phase workflow covering detection, severity, declaration, containment, investigation, restoration, stability, causal analysis, CAPA, and closure.
+- Incident command, classification, communication, RCA, CAPA, security, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked Observability, Deployment, and AI Engineering to governed Incident Management.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.24.0.
+
 ## [1.28.0] — 30 July 2026
 
 ### Added
