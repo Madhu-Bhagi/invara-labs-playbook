@@ -2,6 +2,19 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.25.0] — 30 July 2026
+
+### Added
+
+- Change Management Playbook (`PB-CHANGE-MANAGEMENT`) v1.0.0 as a governed Draft.
+- Nine-phase safe-change workflow, classification, risk, approval, recovery, security, five quality gates, and twelve enterprise appendices.
+- `PB-MAINTENANCE` to the planned core playbook backlog.
+
+### Changed
+
+- Connected operational improvement, release, and incident work to governed Change Management.
+- Added Change Management to In Progress in the ILOS Roadmap.
+
 ## [1.24.0] — 30 July 2026
 
 ### Added

@@ -1,7 +1,7 @@
 ---
 title: Deployment Playbook
 id: PB-DEPLOYMENT
-version: 1.0.2
+version: 1.0.3
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -22,6 +22,7 @@ related:
   - PB-TESTING
   - PB-OBSERVABILITY
   - PB-INCIDENT-MANAGEMENT
+  - PB-CHANGE-MANAGEMENT
   - PB-AI-ENGINEERING
   - PB-AUTHORING
   - STD-TRACEABILITY
@@ -690,6 +691,8 @@ Configuration should be validated before execution. Secret values must never app
 
 ## 23. Change Management Integration
 
+Operational changes follow [`PB-CHANGE-MANAGEMENT`](PB-CHANGE-MANAGEMENT.md) for classification, risk, approval, scheduling, and closure.
+
 Where organisational change management applies, the deployment record must link:
 
 - Change scope, category, risk, owner, and schedule.
@@ -997,6 +1000,7 @@ Do not use deployment count, frequency, speed, or automation percentage alone as
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CHANGE-MANAGEMENT` authorisation layer |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-INCIDENT-MANAGEMENT` recovery escalation |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-OBSERVABILITY` operational handoff |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Deployment Playbook with seven-phase release workflow, deployment governance, strategy selection, recovery, environment, change, security, five quality gates, metrics, and twelve enterprise appendices |

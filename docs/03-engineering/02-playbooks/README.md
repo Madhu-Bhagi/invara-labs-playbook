@@ -131,6 +131,8 @@ Following this sequence helps engineering teams move from understanding the prob
 | 13 | [Incident Management Playbook](PB-INCIDENT-MANAGEMENT.md) | Coordinate impact reduction, recovery, communication, learning, and resilience improvement. | 🟡 In Progress |
 | 14 | Documentation Playbook | Produce clear, maintainable, and valuable engineering documentation. | ⚪ Planned |
 | 15 | Technical Decision Playbook | Make, document, and communicate important engineering decisions. | ⚪ Planned |
+| 16 | [Change Management Playbook](PB-CHANGE-MANAGEMENT.md) | Enable operational change through risk-proportionate assessment, approval, implementation, and learning. | 🟡 In Progress |
+| 17 | Maintenance Playbook (`PB-MAINTENANCE`) | Sustain software through preventive, corrective, adaptive, perfective, and lifecycle work. | ⚪ Planned |
 
 ---
 

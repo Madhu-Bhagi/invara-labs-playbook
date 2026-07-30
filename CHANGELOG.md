@@ -2,6 +2,21 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.30.0] — 30 July 2026
+
+### Added
+
+- Draft Change Management Playbook (`PB-CHANGE-MANAGEMENT`) v1.0.0 as the governed safe-change-enablement SOP.
+- A nine-phase workflow covering identification, classification, risk, approval, coordination, implementation, validation, review, and closure.
+- Change types, approval, rollback, communication, security, five quality gates, metrics, and twelve enterprise appendices.
+- Planned `PB-MAINTENANCE` as the final core lifecycle playbook.
+
+### Changed
+
+- Linked Incident Management, Deployment, Observability, and AI Engineering to governed Change Management.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.25.0.
+
 ## [1.29.0] — 30 July 2026
 
 ### Added
