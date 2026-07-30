@@ -204,13 +204,13 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 
 🟢 Stable
 
-**ILOS Version:** 1.19.0
+**ILOS Version:** 1.20.0
 
 ---
 
 ## Future Work
 
-- Review and approve the Architecture, Technical Design, and AI Engineering Playbooks.
+- Review and approve the Architecture, Technical Design, AI Engineering, Coding, and Code Review Playbooks.
 - Introduce automated metadata and link validation only when manual checks become burdensome.
 - Improve ILOS when operating experience reveals a concrete governance or navigation gap.
 

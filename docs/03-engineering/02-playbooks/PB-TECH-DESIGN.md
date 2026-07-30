@@ -1,7 +1,7 @@
 ---
 title: Technical Design Playbook
 id: PB-TECH-DESIGN
-version: 1.0.3
+version: 1.0.4
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -31,6 +31,7 @@ related:
   - PB-ARCH
   - PB-AI-ENGINEERING
   - PB-CODING
+  - PB-CODE-REVIEW
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1030,7 +1031,7 @@ This is not a local technical-design detail. It changes deployment, ownership, f
 - [Architecture Playbook](PB-ARCH.md) provides the approved architecture package and governs material deviations.
 - [`PB-AI-ENGINEERING`](PB-AI-ENGINEERING.md) governs responsible AI assistance across the engineering lifecycle.
 - [`PB-CODING`](PB-CODING.md) consumes the approved design and implementation plan.
-- [Code Review Playbook](06-code-review-playbook.md) will verify implementation against the design.
+- [`PB-CODE-REVIEW`](PB-CODE-REVIEW.md) verifies implementation against the approved design.
 - [Testing Playbook](07-testing-playbook.md) will produce verification evidence.
 - [Deployment Playbook](12-deployment-playbook.md) will execute rollout and rollback controls.
 - [Observability Playbook](10-observability-playbook.md) will operationalise the design signals.
@@ -1243,6 +1244,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.0.4 | 2026-07-30 | Invara Labs Engineering | Linked the governed `PB-CODE-REVIEW` verification stage |
 | 1.0.3 | 2026-07-30 | Invara Labs Engineering | Linked the downstream `PB-CODING` execution playbook |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Updated the AI control-layer identity to `PB-AI-ENGINEERING` |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the cross-lifecycle `PB-AI-DEVELOPMENT` control layer |

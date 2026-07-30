@@ -121,7 +121,7 @@ Following this sequence helps engineering teams move from understanding the prob
 | 03 | [Technical Design Playbook](PB-TECH-DESIGN.md) | Translate architecture into detailed implementation designs. | 🟡 In Progress |
 | 04 | [AI Engineering Playbook](PB-AI-ENGINEERING.md) | Responsibly and effectively govern AI across the engineering lifecycle. | 🟡 In Progress |
 | 05 | [Coding Playbook](PB-CODING.md) | Implement approved technical designs as review-ready software. | 🟡 In Progress |
-| 06 | Code Review Playbook | Improve quality through collaborative engineering reviews. | ⚪ Planned |
+| 06 | [Code Review Playbook](PB-CODE-REVIEW.md) | Independently verify software changes and determine integration readiness. | 🟡 In Progress |
 | 07 | Testing Playbook | Verify correctness, reliability, and confidence before release. | ⚪ Planned |
 | 08 | Debugging Playbook | Systematically investigate, diagnose, and resolve issues. | ⚪ Planned |
 | 09 | Security Playbook | Integrate security throughout the engineering lifecycle. | ⚪ Planned |

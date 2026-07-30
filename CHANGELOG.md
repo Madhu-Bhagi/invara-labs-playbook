@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.25.0] — 30 July 2026
+
+### Added
+
+- Draft Code Review Playbook (`PB-CODE-REVIEW`) v1.0.0 as the independent verification and integration-readiness SOP.
+- An eight-phase workflow covering preparation, functional verification, architecture, security and operations, maintainability, feedback, re-verification, and decision.
+- Findings classification, reviewer accountability, governance, risk, security, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked Technical Design, Coding, and AI Engineering directly to the governed Code Review stage.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.20.0.
+
 ## [1.24.0] — 30 July 2026
 
 ### Changed

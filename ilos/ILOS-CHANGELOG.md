@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.20.0] — 30 July 2026
+
+### Added
+
+- Code Review Playbook (`PB-CODE-REVIEW`) v1.0.0 as a governed Draft.
+- Eight-phase independent verification workflow, review decisions, findings classification, accountability controls, and twelve enterprise appendices.
+
+### Changed
+
+- Connected Technical Design, Coding, and AI Engineering to the governed Code Review stage.
+- Moved Code Review from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.19.0] — 30 July 2026
 
 ### Changed

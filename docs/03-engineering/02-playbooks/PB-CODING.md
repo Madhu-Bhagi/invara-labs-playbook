@@ -1,7 +1,7 @@
 ---
 title: Coding Playbook
 id: PB-CODING
-version: 1.1.0
+version: 1.1.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -29,6 +29,7 @@ related:
   - CP-007
   - PB-TECH-DESIGN
   - PB-AI-ENGINEERING
+  - PB-CODE-REVIEW
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1046,7 +1047,7 @@ The engineer separates the change into expand, backfill, switch, and contract st
 - [Architecture Playbook](PB-ARCH.md) supplies system boundaries and material decisions.
 - [Technical Design Playbook](PB-TECH-DESIGN.md) supplies the implementation-ready design.
 - [AI Engineering Playbook](PB-AI-ENGINEERING.md) governs AI-assisted coding.
-- [Code Review Playbook](06-code-review-playbook.md) consumes the review-ready package.
+- [`PB-CODE-REVIEW`](PB-CODE-REVIEW.md) consumes the review-ready package.
 - [Testing Playbook](07-testing-playbook.md) expands verification beyond implementation checks.
 - [Debugging Playbook](08-debugging-playbook.md) governs systematic diagnosis.
 - [Security Playbook](09-security-playbook.md) governs security activities.
@@ -1210,6 +1211,7 @@ Coding does not approve production deployment, but implementation must not block
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.1.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the governed `PB-CODE-REVIEW` handoff |
 | 1.1.0 | 2026-07-30 | Invara Labs Engineering | Draft | Added coding governance, risk management, secure coding, human accountability, Standards integration, explicit documentation phase, and twelve implementation-readiness appendices |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Coding Playbook with nine-phase implementation workflow, quality gates, executable deliverables, AI boundary, templates, examples, metrics, and enterprise appendices |
 

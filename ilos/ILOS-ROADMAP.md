@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.16.0
+version: 1.17.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -162,7 +162,7 @@ Introduce governed capabilities for:
 | [Technical Design Playbook (`PB-TECH-DESIGN`)](../docs/03-engineering/02-playbooks/PB-TECH-DESIGN.md) | 🟡 In Progress |
 | [AI Engineering Playbook (`PB-AI-ENGINEERING`)](../docs/03-engineering/02-playbooks/PB-AI-ENGINEERING.md) | 🟡 In Progress |
 | [Coding Playbook (`PB-CODING`)](../docs/03-engineering/02-playbooks/PB-CODING.md) | 🟡 In Progress |
-| [Code Review Playbook](../docs/03-engineering/02-playbooks/06-code-review-playbook.md) | ⬜ Planned |
+| [Code Review Playbook (`PB-CODE-REVIEW`)](../docs/03-engineering/02-playbooks/PB-CODE-REVIEW.md) | 🟡 In Progress |
 | [Testing Playbook](../docs/03-engineering/02-playbooks/07-testing-playbook.md) | ⬜ Planned |
 | [Debugging Playbook](../docs/03-engineering/02-playbooks/08-debugging-playbook.md) | ⬜ Planned |
 | [Security Playbook](../docs/03-engineering/02-playbooks/09-security-playbook.md) | ⬜ Planned |
@@ -221,11 +221,11 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
 | Principles | 4 | 4 | 0 |
-| Playbooks | 1 | 4 | 10 |
+| Playbooks | 1 | 5 | 9 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **17** | **25** |
+| **Total** | **13** | **18** | **24** |
 
 ## 8. Immediate Priorities
 
@@ -244,6 +244,7 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 13. Review and approve `PB-TECH-DESIGN` after `PB-ARCH` reaches a stable baseline.
 14. Review and approve `PB-AI-ENGINEERING` as the cross-lifecycle AI control layer.
 15. Review and approve `PB-CODING` as the first Execution Layer playbook.
+16. Review and approve `PB-CODE-REVIEW` as the independent verification and integration-readiness playbook.
 
 ## 9. Dependencies
 
