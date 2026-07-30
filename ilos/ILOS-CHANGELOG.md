@@ -2,6 +2,26 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.19.0] — 30 July 2026
+
+### Changed
+
+- Expanded `PB-CODING` to v1.1.0 as a 34-section enterprise execution SOP.
+- Added governance, risk, secure-coding, accountability, Standards-integration, documentation-phase, and production-readiness controls.
+- Aligned the twelve enterprise appendices with the implementation governance layer.
+
+## [1.18.0] — 30 July 2026
+
+### Added
+
+- Coding Playbook (`PB-CODING`) v1.0.0 as a governed Draft and the first Execution Layer playbook.
+- Implementation workflow, executable deliverables, coding gates, self-review, automated evidence, review-package controls, and enterprise appendices.
+
+### Changed
+
+- Connected Technical Design and AI Engineering to the Coding execution stage.
+- Moved Coding from Planned to In Progress in the ILOS Roadmap.
+
 ## [1.17.0] — 30 July 2026
 
 ### Changed

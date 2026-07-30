@@ -2,6 +2,30 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.24.0] — 30 July 2026
+
+### Changed
+
+- Expanded Draft `PB-CODING` to v1.1.0 and a 34-section enterprise execution SOP.
+- Added Coding Governance, implementation Risk Management, Secure Coding, Human Accountability, and Coding Standards Integration.
+- Made documentation an explicit implementation phase before review-package preparation.
+- Rebuilt the twelve appendices around implementation readiness, self-verification, coding risk, secure coding, pull-request preparation, commit guidance, traceability, maturity, review readiness, implementation decisions, deliverables, and production readiness.
+- Published ILOS control layer v1.19.0.
+
+## [1.23.0] — 30 July 2026
+
+### Added
+
+- Draft Coding Playbook (`PB-CODING`) v1.0.0 as the first Execution Layer playbook.
+- A nine-phase workflow from approved technical design through implementation, self-review, automated validation, review submission, and finding resolution.
+- Executable deliverables, five quality gates, implementation and review templates, traceability, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked `PB-TECH-DESIGN` v1.0.3 and `PB-AI-ENGINEERING` v1.3.1 to `PB-CODING`.
+- Updated the Playbooks index, ILOS Roadmap, project context, and Founder Journal.
+- Published ILOS control layer v1.18.0.
+
 ## [1.22.0] — 30 July 2026
 
 ### Changed

@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.22.0
-**ILOS Version:** 1.17.0
+**Repository Version:** 1.24.0
+**ILOS Version:** 1.19.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -73,8 +73,9 @@ Chapter 04 — Core Values
 - Repository design is paused; substantive work proceeds one playbook at a time.
 - `PB-ARCH` v1.2.3 is the Draft reference implementation for future playbooks and is awaiting gold-standard review.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
-- `PB-TECH-DESIGN` v1.0.2 is the second Draft flagship playbook; it directly consumes the `PB-ARCH` baseline and provides the reference pattern for execution-ready delivery guidance.
-- `PB-AI-ENGINEERING` v1.3.0 is the Draft enterprise Engineering AI Operating Procedure with SDLC-wide guidance, explicit risk management, human accountability, capability governance, and flagship appendices.
+- `PB-TECH-DESIGN` v1.0.3 is the second Draft flagship playbook; it directly consumes the `PB-ARCH` baseline and provides the reference pattern for execution-ready delivery guidance.
+- `PB-AI-ENGINEERING` v1.3.1 is the Draft enterprise Engineering AI Operating Procedure with SDLC-wide guidance, explicit risk management, human accountability, capability governance, and flagship appendices.
+- `PB-CODING` v1.1.0 is the Draft first Execution Layer playbook with explicit governance, risk, secure coding, accountability, Standards integration, and production-readiness controls.
 
 ## Open Work
 
@@ -88,7 +89,8 @@ Chapter 04 — Core Values
 - Review and approve `PB-AI-ENGINEERING`.
 - Establish ownership and approval authority before populating `REF-AI-TOOLS`.
 - Author `REF-PROMPT-PATTERNS` only from reviewed, reusable engineering practice.
-- Author the Coding Playbook after the three foundational Draft playbooks are stable.
+- Review and approve `PB-CODING`.
+- Author `PB-CODE-REVIEW` after the Coding workflow is stable.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method

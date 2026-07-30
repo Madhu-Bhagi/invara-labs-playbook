@@ -1,7 +1,7 @@
 ---
 title: AI Engineering Playbook
 id: PB-AI-ENGINEERING
-version: 1.3.0
+version: 1.3.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -32,6 +32,7 @@ related:
   - PB-REQ
   - PB-ARCH
   - PB-TECH-DESIGN
+  - PB-CODING
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -1185,7 +1186,7 @@ The AI output remains analysis input. `PB-ARCH` governs the decision and approva
 - [Requirements Playbook](PB-REQ.md) governs requirements refined with AI.
 - [Architecture Playbook](PB-ARCH.md) governs AI-assisted architecture decisions.
 - [Technical Design Playbook](PB-TECH-DESIGN.md) governs AI-assisted implementation design.
-- [Coding Playbook](05-coding-playbook.md) will govern accepted AI-assisted code.
+- [`PB-CODING`](PB-CODING.md) governs accepted AI-assisted code.
 - [Code Review Playbook](06-code-review-playbook.md) will govern review and merge readiness.
 - [Testing Playbook](07-testing-playbook.md) will govern verification evidence.
 - [Debugging Playbook](08-debugging-playbook.md) will govern AI-assisted diagnosis.
@@ -1391,6 +1392,7 @@ Failure of any item keeps the playbook in Draft.
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.3.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked the new `PB-CODING` execution playbook |
 | 1.3.0 | 2026-07-30 | Invara Labs Engineering | Draft | Elevated the document to an enterprise AI operating procedure with SDLC-wide guidance, dedicated risk management, IP controls, human accountability, capability governance, and twelve flagship appendices |
 | 1.2.0 | 2026-07-30 | Invara Labs Engineering | Draft | Refocused the playbook on SOP and governance, moved volatile tool and prompt detail to supporting References, aligned the 32-section structure, and corrected appendix numbering |
 | 1.1.0 | 2026-07-30 | Invara Labs Engineering | Draft | Renamed the artefact to `PB-AI-ENGINEERING` and added dedicated governance, security and privacy, approved-tools, prompt-engineering, and human-verification sections |

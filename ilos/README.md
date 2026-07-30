@@ -204,7 +204,7 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 
 🟢 Stable
 
-**ILOS Version:** 1.17.0
+**ILOS Version:** 1.19.0
 
 ---
 

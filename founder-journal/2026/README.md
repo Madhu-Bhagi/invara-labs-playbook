@@ -23,6 +23,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Architecture Playbook — 30 July](2026-07-30-architecture-playbook.md)
 - [Technical Design Playbook — 30 July](2026-07-30-technical-design-playbook.md)
 - [AI Engineering Playbook — 30 July](2026-07-30-ai-engineering-playbook.md)
+- [Coding Playbook — 30 July](2026-07-30-coding-playbook.md)
 
 ---
 
