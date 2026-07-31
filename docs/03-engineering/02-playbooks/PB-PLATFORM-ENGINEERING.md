@@ -1,7 +1,7 @@
 ---
 title: Platform Engineering Playbook
 id: PB-PLATFORM-ENGINEERING
-version: 1.0.3
+version: 1.0.4
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -31,6 +31,7 @@ related:
   - PB-SECURITY-ENGINEERING
   - PB-DATA-ENGINEERING
   - PB-API-MANAGEMENT
+  - PB-DEVELOPER-EXPERIENCE
   - PB-AUTHORING
   - STD-TRACEABILITY
   - STD-METADATA
@@ -939,6 +940,7 @@ IDP, golden-path, service-catalogue, platform-capability, and developer-experien
 - [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) governs secure platform design, defaults, verification, and operation.
 - [Data Engineering Playbook](PB-DATA-ENGINEERING.md) governs data products built on shared data-platform capabilities.
 - [API Management Playbook](PB-API-MANAGEMENT.md) governs API products built on shared API-platform capabilities.
+- [Developer Experience Playbook](PB-DEVELOPER-EXPERIENCE.md) defines developer journeys and outcomes served by platform products.
 
 ## 35. Metrics
 
@@ -1096,6 +1098,7 @@ Record observed behaviour and verbatim themes without exposing personal or confi
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.4 | 2026-07-30 | Invara Labs Engineering | Draft | Linked platform products to `PB-DEVELOPER-EXPERIENCE` journeys and outcomes |
 | 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked shared API-platform capabilities to `PB-API-MANAGEMENT` |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked shared data-platform capabilities to `PB-DATA-ENGINEERING` |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked secure platform products and controls to `PB-SECURITY-ENGINEERING` |

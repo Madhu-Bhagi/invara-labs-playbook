@@ -1,7 +1,7 @@
 ---
 title: API Management Playbook
 id: PB-API-MANAGEMENT
-version: 1.0.0
+version: 1.0.1
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -34,6 +34,7 @@ related:
   - PB-PLATFORM-ENGINEERING
   - PB-SECURITY-ENGINEERING
   - PB-DATA-ENGINEERING
+  - PB-DEVELOPER-EXPERIENCE
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -803,6 +804,7 @@ OpenAPI, API lifecycle, compatibility, error, pagination, security, and protocol
 - [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) supplies API platform capabilities.
 - [Security Engineering Playbook](PB-SECURITY-ENGINEERING.md) governs API security.
 - [Data Engineering Playbook](PB-DATA-ENGINEERING.md) governs data-product contracts and lifecycle.
+- [Developer Experience Playbook](PB-DEVELOPER-EXPERIENCE.md) governs developer-facing API discovery, onboarding, documentation, and support journeys.
 
 ## 33. Metrics
 
@@ -946,6 +948,7 @@ Actions, owners, dates, approval, and next review:
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked developer-facing API journeys to `PB-DEVELOPER-EXPERIENCE` |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial API Management Playbook with eight-phase API-product workflow, governance, design review, publication, security, consumers, compatibility, observability, retirement, five quality gates, metrics, and twelve enterprise appendices |
 
 ## 36. Summary

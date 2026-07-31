@@ -58,7 +58,7 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
-| ILOS control layer v1.30 | 🟢 Stable |
+| ILOS control layer v1.31 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
 | Engineering playbooks and standards | 🟡 In Progress |
 
@@ -72,4 +72,6 @@ The conversation is the workshop; the repository is the source of truth.
 - Review and approve `PB-SECURITY-ENGINEERING` as the second Enterprise Engineering Capability.
 - Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
 - Review and approve `PB-API-MANAGEMENT` as the fourth Enterprise Engineering Capability.
+- Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
+- Build supporting Standards, References, Templates, Examples, and a cross-reference matrix before declaring EEOS v1.0 complete.
 - Improve ILOS only when operating experience reveals a concrete need.

@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.36.0] — 30 July 2026
+
+### Added
+
+- Draft Developer Experience Playbook (`PB-DEVELOPER-EXPERIENCE`) v1.0.0 as the fifth Enterprise Engineering Capability.
+- An eight-phase DevEx workflow from developer research and journey mapping through pilot, measurement, operation, improvement, and retirement.
+- Enablement, productivity, tooling, documentation, self-service, privacy-aware measurement, five quality gates, metrics, and twelve enterprise appendices.
+
+### Changed
+
+- Linked AI Engineering, Platform Engineering, Security Engineering, API Management, and Maintenance to governed Developer Experience.
+- Completed the proposed Enterprise Engineering Capability Draft set without marking EEOS v1.0 Stable.
+- Published ILOS control layer v1.31.0.
+
 ## [1.35.0] — 30 July 2026
 
 ### Added

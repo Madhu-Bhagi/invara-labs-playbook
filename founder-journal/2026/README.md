@@ -35,6 +35,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Security Engineering Playbook — 30 July](2026-07-30-security-engineering-playbook.md)
 - [Data Engineering Playbook — 30 July](2026-07-30-data-engineering-playbook.md)
 - [API Management Playbook — 30 July](2026-07-30-api-management-playbook.md)
+- [Developer Experience Playbook — 30 July](2026-07-30-developer-experience-playbook.md)
 
 ---
 

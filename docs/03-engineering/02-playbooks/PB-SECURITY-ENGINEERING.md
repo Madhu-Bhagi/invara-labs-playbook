@@ -1,7 +1,7 @@
 ---
 title: Security Engineering Playbook
 id: PB-SECURITY-ENGINEERING
-version: 1.0.2
+version: 1.0.3
 status: Draft
 owner: Invara Labs Engineering
 classification: Engineering Playbook
@@ -33,6 +33,7 @@ related:
   - PB-PLATFORM-ENGINEERING
   - PB-DATA-ENGINEERING
   - PB-API-MANAGEMENT
+  - PB-DEVELOPER-EXPERIENCE
   - PB-AUTHORING
   - STD-REVIEW
   - STD-TRACEABILITY
@@ -976,6 +977,7 @@ Threat-modelling, security-testing, vulnerability, security-pattern, and OWASP r
 - [Platform Engineering Playbook](PB-PLATFORM-ENGINEERING.md) supplies secure defaults and platform controls.
 - [Data Engineering Playbook](PB-DATA-ENGINEERING.md) governs data-product context for security, privacy, access, and retention controls.
 - [API Management Playbook](PB-API-MANAGEMENT.md) governs API-product context for identity, access, abuse, data, and audit controls.
+- [Developer Experience Playbook](PB-DEVELOPER-EXPERIENCE.md) governs usable developer journeys for secure defaults, policy, and access.
 
 ## 36. Metrics
 
@@ -1135,6 +1137,7 @@ Reviewers, approval, date, and next trigger:
 
 | Version | Date | Author | Status | Summary |
 |---|---|---|---|---|
+| 1.0.3 | 2026-07-30 | Invara Labs Engineering | Draft | Linked usable security controls to `PB-DEVELOPER-EXPERIENCE` |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Draft | Linked API security context to `PB-API-MANAGEMENT` |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Draft | Linked data security and privacy context to `PB-DATA-ENGINEERING` |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Draft | Initial Security Engineering Playbook with nine-phase secure-lifecycle workflow, threat modelling, design review, secure development, verification, supply chain, identity, vulnerability, incident integration, five quality gates, metrics, and twelve enterprise appendices |

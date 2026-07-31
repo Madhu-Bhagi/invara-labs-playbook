@@ -3,8 +3,8 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.35.0
-**ILOS Version:** 1.30.0
+**Repository Version:** 1.36.0
+**ILOS Version:** 1.31.0
 **Last Updated:** 30 July 2026
 
 ## Purpose
@@ -74,7 +74,7 @@ Chapter 04 — Core Values
 - `PB-ARCH` v1.2.4 is the Draft reference implementation for future playbooks and is linked to governed operational assurance.
 - `PB-AUTHORING` v1.1.0 remains normative while allowing the phase-oriented reference implementation profile.
 - `PB-TECH-DESIGN` v1.0.7 is the second Draft flagship playbook and connects implementation-ready design through delivery into operational evidence.
-- `PB-AI-ENGINEERING` v1.3.12 is the Draft enterprise Engineering AI Operating Procedure with governed human authority across API Management.
+- `PB-AI-ENGINEERING` v1.3.13 is the Draft enterprise Engineering AI Operating Procedure with governed human authority across Developer Experience.
 - `PB-CODING` v1.1.4 is the Draft first Execution Layer playbook linked through delivery to operational evidence.
 - `PB-CODE-REVIEW` v1.0.2 is the Draft independent verification SOP linked through Testing to governed Deployment.
 - `PB-TESTING` v1.0.2 is the Draft verification and validation SOP linked to production operational evidence.
@@ -82,12 +82,14 @@ Chapter 04 — Core Values
 - `PB-OBSERVABILITY` v1.0.3 is the Draft first Operations Engineering SOP linked to incident response, maintenance, and governed improvement changes.
 - `PB-INCIDENT-MANAGEMENT` v1.0.3 is the Draft coordinated response SOP linked to Security Engineering.
 - `PB-CHANGE-MANAGEMENT` v1.0.1 is the Draft safe-change-enablement SOP linked to long-term Maintenance.
-- `PB-MAINTENANCE` v1.0.4 is the Draft final core lifecycle SOP linked to API-product sustainment and retirement.
+- `PB-MAINTENANCE` v1.0.5 is the Draft final core lifecycle SOP linked to DevEx tooling and workflow sustainment.
 - Core lifecycle Draft coverage is complete; formal review and approval remain required.
-- `PB-PLATFORM-ENGINEERING` v1.0.3 is the Draft first Enterprise Engineering Capability linked to API platform products.
-- `PB-SECURITY-ENGINEERING` v1.0.2 is the Draft second Enterprise Engineering Capability linked to API security.
+- `PB-PLATFORM-ENGINEERING` v1.0.4 is the Draft first Enterprise Engineering Capability linked to developer journeys and outcomes.
+- `PB-SECURITY-ENGINEERING` v1.0.3 is the Draft second Enterprise Engineering Capability linked to secure DevEx controls.
 - `PB-DATA-ENGINEERING` v1.0.1 is the Draft third Enterprise Engineering Capability linked to API data-product contracts.
-- `PB-API-MANAGEMENT` v1.0.0 is the Draft fourth Enterprise Engineering Capability with eight phases, five quality gates, and twelve enterprise appendices.
+- `PB-API-MANAGEMENT` v1.0.1 is the Draft fourth Enterprise Engineering Capability linked to developer-facing API experience.
+- `PB-DEVELOPER-EXPERIENCE` v1.0.0 is the Draft fifth Enterprise Engineering Capability with eight phases, five quality gates, and twelve enterprise appendices.
+- The proposed five-playbook Enterprise Engineering Capability Draft set is complete; EEOS v1.0 still requires approval and supporting artefacts.
 
 ## Open Work
 
@@ -113,6 +115,8 @@ Chapter 04 — Core Values
 - Review and approve `PB-SECURITY-ENGINEERING` as the second Enterprise Engineering Capability.
 - Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
 - Review and approve `PB-API-MANAGEMENT` as the fourth Enterprise Engineering Capability.
+- Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
+- Build the cross-reference matrix and prioritise supporting Standards, References, Templates, and Examples before adding more playbooks.
 - Keep ILOS structure stable and focus on substantive playbook content.
 
 ## Working Method

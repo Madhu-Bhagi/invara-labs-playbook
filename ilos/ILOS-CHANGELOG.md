@@ -2,6 +2,18 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.31.0] — 30 July 2026
+
+### Added
+
+- Developer Experience Playbook (`PB-DEVELOPER-EXPERIENCE`) v1.0.0 as a governed Draft.
+- Eight-phase DevEx workflow, journey design, enablement, productivity, tooling, documentation, self-service, five quality gates, and twelve enterprise appendices.
+
+### Changed
+
+- Completed the five-playbook Enterprise Engineering Capability Draft set.
+- Kept EEOS v1.0 incomplete pending review, approval, Standards, References, Templates, Examples, and cross-reference coverage.
+
 ## [1.30.0] — 30 July 2026
 
 ### Added
