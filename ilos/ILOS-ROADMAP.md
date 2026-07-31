@@ -1,6 +1,6 @@
 ---
 title: Invara Labs Engineering Operating System Roadmap
-version: 1.28.0
+version: 1.29.0
 status: Approved
 owner: Invara Labs
 classification: Roadmap
@@ -153,6 +153,12 @@ Introduce governed capabilities for:
 | [Observability Principles](../docs/03-engineering/01-principles/07-observability-principles.md) | 🟡 In Progress |
 | [Performance Principles](../docs/03-engineering/01-principles/08-performance-principles.md) | ✅ Complete |
 
+### Engineering Governance
+
+| Document | Status |
+|---|---|
+| [Engineering Governance Framework (`EGF-ENGINEERING-GOVERNANCE`)](../docs/03-engineering/EGF-ENGINEERING-GOVERNANCE.md) | 🟡 In Progress |
+
 ### Playbooks
 
 | Document | Status |
@@ -226,12 +232,13 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 | Category | Complete | In Progress | Planned |
 |---|---:|---:|---:|
 | ILOS Foundation | 7 | 0 | 0 |
+| Engineering Governance | 0 | 1 | 0 |
 | Principles | 4 | 4 | 0 |
 | Playbooks | 1 | 16 | 4 |
 | Standards | 1 | 6 | 6 |
 | References | 0 | 3 | 4 |
 | Examples | 0 | 0 | 5 |
-| **Total** | **13** | **29** | **19** |
+| **Total** | **13** | **30** | **19** |
 
 ## 8. Immediate Priorities
 
@@ -263,6 +270,8 @@ Existing placeholder files in [`04-reference/`](../docs/03-engineering/04-refere
 26. Review and approve `PB-API-MANAGEMENT` as the governed API-product capability.
 27. Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
 28. Build the cross-reference matrix and prioritise supporting Standards, References, Templates, and Examples before adding more playbooks.
+29. Review and approve `EGF-ENGINEERING-GOVERNANCE`, then assign named delegated authorities.
+30. Author the Engineering Maturity Model and Engineering Metrics Framework only after governance review establishes their owners and decision use.
 
 ## 9. Dependencies
 

@@ -204,7 +204,7 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 
 🟢 Stable
 
-**ILOS Version:** 1.31.0
+**ILOS Version:** 1.32.0
 
 ---
 
@@ -216,6 +216,7 @@ The root [`ROADMAP.md`](../ROADMAP.md) tracks company and playbook delivery. [`I
 - Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
 - Review and approve `PB-API-MANAGEMENT` as the fourth Enterprise Engineering Capability.
 - Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
+- Review and approve `EGF-ENGINEERING-GOVERNANCE` and assign named delegated authorities.
 - Build supporting artefacts and cross-reference coverage before declaring EEOS v1.0 complete.
 - Introduce automated metadata and link validation only when manual checks become burdensome.
 - Improve ILOS when operating experience reveals a concrete governance or navigation gap.

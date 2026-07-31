@@ -3,9 +3,9 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** Playbook Authoring
-**Repository Version:** 1.36.0
-**ILOS Version:** 1.31.0
-**Last Updated:** 30 July 2026
+**Repository Version:** 1.37.0
+**ILOS Version:** 1.32.0
+**Last Updated:** 31 July 2026
 
 ## Purpose
 
@@ -90,6 +90,8 @@ Chapter 04 — Core Values
 - `PB-API-MANAGEMENT` v1.0.1 is the Draft fourth Enterprise Engineering Capability linked to developer-facing API experience.
 - `PB-DEVELOPER-EXPERIENCE` v1.0.0 is the Draft fifth Enterprise Engineering Capability with eight phases, five quality gates, and twelve enterprise appendices.
 - The proposed five-playbook Enterprise Engineering Capability Draft set is complete; EEOS v1.0 still requires approval and supporting artefacts.
+- `EGF-ENGINEERING-GOVERNANCE` v1.0.0 is the Draft engineering constitution for decision rights, domain governance, exceptions, risk, assurance, cadence, and improvement.
+- ADR-009 establishes the `EGF` identifier family and places engineering governance at the Engineering domain root without restructuring the stable information architecture.
 
 ## Open Work
 
@@ -116,6 +118,7 @@ Chapter 04 — Core Values
 - Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
 - Review and approve `PB-API-MANAGEMENT` as the fourth Enterprise Engineering Capability.
 - Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
+- Review and approve `EGF-ENGINEERING-GOVERNANCE` and assign named delegated authorities.
 - Build the cross-reference matrix and prioritise supporting Standards, References, Templates, and Examples before adding more playbooks.
 - Keep ILOS structure stable and focus on substantive playbook content.
 

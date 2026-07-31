@@ -2,6 +2,20 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.37.0] — 31 July 2026
+
+### Added
+
+- Draft Engineering Governance Framework (`EGF-ENGINEERING-GOVERNANCE`) v1.0.0 above the engineering knowledge layers.
+- Decision rights, governance levels, roles, optional councils, domain governance, technical debt, exceptions, risk, assurance, metrics, cadence, and improvement controls.
+- ADR-009 establishing the `EGF` identifier family and its placement without restructuring stable repository domains.
+
+### Changed
+
+- Registered `EGF` in `REF-IDENTIFIERS` v1.1.0.
+- Updated Engineering navigation, ILOS Roadmap, project context, and governance priorities.
+- Published ILOS control layer v1.32.0.
+
 ## [1.36.0] — 30 July 2026
 
 ### Added

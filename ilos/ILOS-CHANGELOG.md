@@ -2,6 +2,19 @@
 
 All changes to the Invara Labs Operating System control layer are recorded here.
 
+## [1.32.0] — 31 July 2026
+
+### Added
+
+- Engineering Governance Framework (`EGF-ENGINEERING-GOVERNANCE`) v1.0.0 as a governed Draft.
+- ADR-009 establishing the `EGF` identifier family and Engineering-domain placement.
+
+### Changed
+
+- Added Engineering Governance to the ILOS Roadmap as In Progress.
+- Registered `EGF` in the authoritative identifier catalogue.
+- Preserved the stable information architecture instead of creating a conflicting `docs/01-governance/` domain.
+
 ## [1.31.0] — 30 July 2026
 
 ### Added

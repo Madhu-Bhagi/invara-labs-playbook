@@ -1,7 +1,7 @@
 ---
 title: Engineering Identifier Reference
 id: REF-IDENTIFIERS
-version: 1.0.2
+version: 1.1.0
 status: Draft
 owner: Invara Labs
 classification: Engineering Reference
@@ -101,6 +101,7 @@ An identifier should be:
 | Prefix | Artefact | Pattern | Example | Status |
 |---|---|---|---|---|
 | `PB` | Engineering Playbook | `PB-<NAME>` | `PB-REQ` | Established |
+| `EGF` | Engineering Governance Framework | `EGF-<NAME>` | `EGF-ENGINEERING-GOVERNANCE` | Established |
 | `STD` | Engineering Standard | `STD-<NAME>` | `STD-TRACEABILITY` | Established |
 | `REF` | Engineering Reference | `REF-<NAME>` | `REF-IDENTIFIERS` | Established |
 | `EX` | Engineering Example | `EX-<NAME>` | `EX-TRACEABILITY` | Reserved |
@@ -295,6 +296,7 @@ These references inform the registry; ILOS governance remains authoritative for 
 
 | Version | Date | Author | Summary |
 |---|---|---|---|
+| 1.1.0 | 2026-07-31 | Invara Labs Engineering | Registered the `EGF` family for Engineering Governance Frameworks under ADR-009 |
 | 1.0.2 | 2026-07-30 | Invara Labs Engineering | Linked the acronym reference and updated its status |
 | 1.0.1 | 2026-07-30 | Invara Labs Engineering | Linked the terminology reference and updated its status |
 | 1.0.0 | 2026-07-30 | Invara Labs Engineering | Initial draft reconciled with established repository identifiers |
