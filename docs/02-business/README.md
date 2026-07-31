@@ -9,12 +9,13 @@ Define how Invara Labs creates, delivers, and captures business value.
 ## Contents
 
 - [First Paying Client — 90-Day Execution Plan](01-first-client-plan.md)
+- [Company Strategy Pack](02-company-strategy-pack.md)
 
 ---
 
 ## Reading Order
 
-Begin with the 90-day execution plan. Add durable business guidance only when operating experience justifies it.
+Read the Company Strategy Pack for the market choices, then use the 90-day execution plan to run them.
 
 ---
 

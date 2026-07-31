@@ -3,7 +3,7 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.39.0
+**Repository Version:** 1.40.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 31 July 2026
 
@@ -100,11 +100,16 @@ Chapter 04 — Core Values
 - The EEOS is the universal product; technology reference implementations demonstrate its application without changing its core.
 - Angular is Enterprise Reference Implementation #1 because it offers the fastest credible route to revenue from current founder expertise, not because it defines the company's long-term market identity.
 - Additional reference implementations and accelerators require customer evidence; the proposed technology catalogue is a direction, not a committed backlog.
+- The Company Strategy Pack defines the approved initial value proposition, customer profile, five service lines, three launch offers, engagement models, founder-led GTM, and three-year direction.
+- The Engineering Excellence Assessment is the primary paid entry offer; Modernisation and AI Engineering Adoption are the other launch offers.
+- Outreach starts before the website and reference implementation are complete; those assets improve conversion but do not delay buyer learning.
+- Exact market segment and pricing remain evidence gaps to resolve through buyer conversations, not assumptions.
 
 ## Open Work
 
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
-- Define the ideal customer profile and three outcome-based consulting packages.
+- Validate the ideal customer profile and three approved launch offers through buyer conversations.
+- Select the initial geography, buyer segment, price floor, and currency from market evidence.
 - Launch the minimum credible website and begin qualified outreach immediately.
 - Publish weekly technical content and one reference implementation.
 - Release the minimum credible Enterprise Reference Implementation #1 — Angular after weekly revenue work is complete.

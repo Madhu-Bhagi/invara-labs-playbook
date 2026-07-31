@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.40.0] — 31 July 2026
+
+### Added
+
+- Approved Company Strategy Pack covering the value proposition, ideal customer profile, service catalogue, engagement models, founder-led go-to-market strategy, and three-year roadmap.
+- Three launch offers: Engineering Excellence Assessment, Modernisation Accelerator, and AI Engineering Adoption Sprint.
+
+### Changed
+
+- Established the Engineering Excellence Assessment as the primary paid entry offer.
+- Clarified that outreach begins before the website and reference implementation are complete.
+- Kept market segment, geography, and exact pricing as evidence gaps for buyer validation rather than invented assumptions.
+
 ## [1.39.0] — 31 July 2026
 
 ### Changed

@@ -22,11 +22,12 @@ Invara Labs is an **engineering-first, AI-enabled, business-focused technology s
 ## Reading Order
 
 1. Read [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md).
-2. Read the [`ILOS overview`](ilos/README.md).
-3. Read [`AI_GUIDE.md`](AI_GUIDE.md).
-4. Open the [`Documentation index`](docs/index.md).
-5. Review relevant ADRs in [`decisions/adr/`](decisions/adr/).
-6. Continue from [`ROADMAP.md`](ROADMAP.md).
+2. Read the active [`Company Strategy Pack`](docs/02-business/02-company-strategy-pack.md).
+3. Read the [`ILOS overview`](ilos/README.md).
+4. Read [`AI_GUIDE.md`](AI_GUIDE.md).
+5. Open the [`Documentation index`](docs/index.md).
+6. Review relevant ADRs in [`decisions/adr/`](decisions/adr/).
+7. Continue from [`ROADMAP.md`](ROADMAP.md).
 
 ---
 
@@ -58,6 +59,7 @@ The conversation is the workshop; the repository is the source of truth.
 |---|---|
 | Chapters 01–03 | 🟢 Stable |
 | Foundation phase | 🟡 In Progress |
+| First-client strategy | 🟡 In Progress |
 | ILOS control layer v1.32 | 🟢 Stable |
 | Engineering principles | 🟢 Stable |
 | Engineering playbooks and standards | 🟡 In Progress |
@@ -66,13 +68,8 @@ The conversation is the workshop; the repository is the source of truth.
 
 ## Future Work
 
-- Complete Chapter 04 — Core Values.
-- Review and approve the authored core lifecycle Playbooks, including Maintenance.
-- Review and approve `PB-PLATFORM-ENGINEERING` as the first Enterprise Engineering Capability.
-- Review and approve `PB-SECURITY-ENGINEERING` as the second Enterprise Engineering Capability.
-- Review and approve `PB-DATA-ENGINEERING` as the third Enterprise Engineering Capability.
-- Review and approve `PB-API-MANAGEMENT` as the fourth Enterprise Engineering Capability.
-- Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
-- Review and approve the [Engineering Governance Framework](docs/03-engineering/EGF-ENGINEERING-GOVERNANCE.md).
-- Build supporting Standards, References, Templates, Examples, and a cross-reference matrix before declaring EEOS v1.0 complete.
-- Improve ILOS only when operating experience reveals a concrete need.
+- Execute the [First Paying Client plan](docs/02-business/01-first-client-plan.md).
+- Validate the ideal customer profile and launch offers through buyer conversations.
+- Package the three launch offers, publish the website, and start founder-led outreach.
+- Build Enterprise Reference Implementation #1: Angular after weekly revenue work is complete.
+- Resume EEOS expansion only when public-release blockers or customer evidence require it.

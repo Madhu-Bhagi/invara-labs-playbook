@@ -20,7 +20,7 @@ Repository architecture and governance work is tracked separately in the [ILOS R
 
 **Goal:** Establish a credible market presence and win the first clients.
 
-**Current milestone:** [First Paying Client — 90-Day Execution Plan](docs/02-business/01-first-client-plan.md), targeting 29 October 2026.
+**Current milestone:** Execute the [Company Strategy Pack](docs/02-business/02-company-strategy-pack.md) through the [First Paying Client — 90-Day Execution Plan](docs/02-business/01-first-client-plan.md), targeting 29 October 2026.
 
 Execution priorities:
 
