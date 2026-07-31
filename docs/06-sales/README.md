@@ -11,6 +11,8 @@ Define an honest, repeatable sales system centred on client fit and trust.
 - [Launch Service Catalogue](01-launch-service-catalogue.md)
 - [Capability Statement](02-capability-statement.md)
 - [Client-ready Capability Statement PDF](../../output/pdf/Invara-Labs-Capability-Statement-v1.pdf)
+- [Editable Client Proposal Template](../../output/proposals/Invara-Labs-Client-Proposal-Template-v1.docx)
+- [Client Proposal Template PDF](../../output/proposals/Invara-Labs-Client-Proposal-Template-v1.pdf)
 - [Company Pitch Deck v2](../../assets/presentations/Invara-Labs-Pitch-Deck-v2.pptx)
 
 ---
@@ -43,4 +45,4 @@ Connects Company, Business, Marketing, and Operations.
 
 ## Future Work
 
-Launch the minimum credible website and test the Capability Statement, pitch, and three launch offers with qualified buyers before producing proposal templates from observed needs.
+Launch the minimum credible website and test the Capability Statement, proposal, pitch, and three launch offers with qualified buyers. Refine the proposal template from observed buyer, procurement, and legal feedback.
