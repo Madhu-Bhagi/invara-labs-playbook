@@ -3,7 +3,7 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.38.0
+**Repository Version:** 1.39.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 31 July 2026
 
@@ -96,6 +96,10 @@ Chapter 04 — Core Values
 - The approved identity remains engineering-first, AI-enabled, and business-focused; the proposed AI-first positioning is not adopted.
 - Consulting is the immediate revenue engine, supported by reusable products and public education; platform investment requires validated customer demand.
 - New playbooks and nonessential governance work are paused while the company packages services, builds proof, publishes, and conducts client outreach.
+- Invara Labs sells engineering capability and outcomes rather than allegiance to a framework or vendor.
+- The EEOS is the universal product; technology reference implementations demonstrate its application without changing its core.
+- Angular is Enterprise Reference Implementation #1 because it offers the fastest credible route to revenue from current founder expertise, not because it defines the company's long-term market identity.
+- Additional reference implementations and accelerators require customer evidence; the proposed technology catalogue is a direction, not a committed backlog.
 
 ## Open Work
 
@@ -103,7 +107,7 @@ Chapter 04 — Core Values
 - Define the ideal customer profile and three outcome-based consulting packages.
 - Launch the minimum credible website and begin qualified outreach immediately.
 - Publish weekly technical content and one reference implementation.
-- Release the minimum credible Angular Enterprise Starter Kit after weekly revenue work is complete.
+- Release the minimum credible Enterprise Reference Implementation #1 — Angular after weekly revenue work is complete.
 - Define Chapter 04 — Core Values.
 - Define Chapter 05 — Engineering Philosophy.
 - Define Chapter 06 — Company Manifesto.

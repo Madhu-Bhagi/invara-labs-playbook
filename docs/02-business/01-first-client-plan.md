@@ -1,6 +1,6 @@
 # First Paying Client — 90-Day Execution Plan
 
-**Version:** 1.0.0  
+**Version:** 1.1.0<br>
 **Status:** Approved  
 **Owner:** Madhukumar Rajanala  
 **Start Date:** 31 July 2026  
@@ -30,7 +30,7 @@ The goal is achieved when Invara Labs has a signed, paid client engagement. The 
 - Three consulting packages have a defined buyer, outcome, scope, duration, and price model.
 - The EEOS repository is publishable and supports sales conversations.
 - One reference implementation demonstrates delivery capability.
-- One flagship reusable accelerator has a credible first release.
+- One enterprise reference implementation has a credible first release.
 - A qualified prospect list and active outreach cadence exist.
 
 ## Business Pillars
@@ -38,11 +38,13 @@ The goal is achieved when Invara Labs has a signed, paid client engagement. The 
 | Pillar | Current role | Near-term focus |
 |---|---|---|
 | Consulting | Revenue engine | Architecture reviews, Angular and Nx modernisation, AI adoption, EEOS implementation, and engineering governance |
-| Products | Reusable delivery leverage | Angular Enterprise Starter Kit and reusable delivery assets |
+| Products | Reusable delivery leverage | Enterprise Reference Implementation #1 — Angular, followed only by market-validated implementations and accelerators |
 | Education | Trust and demand generation | Weekly technical content and public engineering knowledge |
 | Platform | Long-term proprietary capability | Validate demand before building AI-powered engineering tools |
 
 Consulting is the immediate priority. Products and education support consulting. Platform investment begins only after customer evidence justifies it.
+
+The EEOS remains universal and technology-agnostic. Technology-specific reference implementations demonstrate how to apply it. Angular is first because it is the founder's strongest current route to credible proof and revenue—not because Invara Labs is an Angular-only company.
 
 ## 90-Day Outcomes
 
@@ -68,7 +70,7 @@ Consulting is the immediate priority. Products and education support consulting.
 
 ### Days 61–90 — Convert interest into revenue
 
-- Release the minimum credible Angular Enterprise Starter Kit.
+- Release the minimum credible Enterprise Reference Implementation #1 — Angular.
 - Continue targeted outreach and follow-up.
 - Run architecture or AI-adoption discovery sessions with qualified prospects.
 - Issue proposals with explicit outcomes, scope, timeline, and commercial terms.
@@ -91,7 +93,8 @@ Consulting is the immediate priority. Products and education support consulting.
 
 - Start outreach before every supporting asset is perfect.
 - Prefer a paid diagnostic or focused engagement over a broad custom proposal.
-- Build reusable assets from observed client needs, not speculation.
+- Build technology blueprints and reusable accelerators from observed client needs, not speculation.
+- Sell engineering outcomes and capability; treat frameworks as implementation choices.
 - Treat the EEOS as commercial proof; do not add more playbooks during this plan.
 - Do not build the long-term platform until repeated customer demand is demonstrated.
 - The founder remains accountable for company decisions; AI provides analysis and recommendations, not authority.
@@ -100,7 +103,7 @@ Consulting is the immediate priority. Products and education support consulting.
 
 - Additional playbooks or governance frameworks.
 - A comprehensive engineering maturity model.
-- Multiple accelerators at the same time.
+- Additional technology reference implementations or accelerators before the first one and its demand are validated.
 - A proprietary AI platform without validated demand.
 - Documentation work that does not remove a publication or sales blocker.
 
@@ -120,4 +123,5 @@ Progress is reviewed weekly against leading indicators—outreach, conversations
 
 | Version | Date | Change | Status |
 |---|---|---|---|
+| 1.1.0 | 31 July 2026 | Positioned Angular as the first technology-specific implementation of a universal EEOS rather than the company identity | Approved |
 | 1.0.0 | 31 July 2026 | Established the first-client goal and 90-day company execution plan | Approved |

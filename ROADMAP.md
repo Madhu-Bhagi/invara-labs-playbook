@@ -36,9 +36,11 @@ Execution priorities:
 - Sales Pipeline
 - Client Qualification
 - Weekly technical content
-- Angular Enterprise Starter Kit
+- Enterprise Reference Implementation #1 — Angular
 
 Additional playbooks and governance documents are deferred until the first-client milestone is achieved or a customer need makes them necessary.
+
+Future technology reference implementations and business accelerators will be prioritised from customer evidence. The roadmap does not assume Angular exclusivity or pre-commit to React, backend, mobile, cloud, or AI implementations.
 
 ## Phase 3 — Delivery
 

@@ -12,12 +12,19 @@ The existing **engineering-first, AI-enabled, business-focused** positioning rem
 
 Consulting is the immediate revenue engine. Products and education support delivery leverage and demand generation. Proprietary platform investment waits for repeated customer evidence.
 
+## Technology Positioning
+
+Invara Labs will not position itself as “the Angular company.” It sells engineering capability and business outcomes. The EEOS is universal; technology-specific implementations are evidence that the system works in practice.
+
+The planned Angular starter kit is therefore renamed **Enterprise Reference Implementation #1 — Angular**. Angular remains first because it uses current founder expertise to reach the market quickly. Further frontend, backend, mobile, cloud, data, or AI implementations will be selected from customer evidence rather than built as a speculative catalogue.
+
 ## Consequences
 
 - No additional playbooks or governance frameworks during the 90-day plan unless required to remove a commercial blocker.
 - Outreach begins before the website, repository, and accelerator are perfect.
 - Weekly priorities are tested against client acquisition, reputation, or reusable commercial value.
 - The founder retains decision authority; AI acts as a strategic and technical adviser.
+- The stable repository hierarchy will not be expanded for hypothetical technology families at this stage.
 
 ## Related Artefact
 

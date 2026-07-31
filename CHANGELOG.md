@@ -2,6 +2,14 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.39.0] — 31 July 2026
+
+### Changed
+
+- Reframed the Angular Enterprise Starter Kit as Enterprise Reference Implementation #1 — Angular.
+- Established the EEOS as the universal, technology-agnostic product and technology implementations as supporting proof.
+- Clarified that Invara Labs sells engineering capability and outcomes, while future blueprints and accelerators require customer validation.
+
 ## [1.38.0] — 31 July 2026
 
 ### Added
