@@ -2,6 +2,18 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.42.0] — 31 July 2026
+
+### Added
+
+- Intended company impact and explicit refusal boundaries to the approved Company Vision v1.1.0.
+- A working portfolio architecture for Invara Advisory, Invara Framework, and Invara Accelerators.
+
+### Changed
+
+- Kept the approved engineering-first Vision and Mission authoritative instead of replacing them with duplicate company documents.
+- Restricted the proposed portfolio names from public trademark use until buyer, availability, and professional legal validation are complete.
+
 ## [1.41.0] — 31 July 2026
 
 ### Changed

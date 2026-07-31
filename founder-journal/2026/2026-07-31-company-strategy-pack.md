@@ -22,6 +22,12 @@ Sprint 0 begins with Company Foundation, but it will not recreate the approved s
 
 The company vision task is therefore complete after connecting those sources through the Company domain. Brand Identity is next.
 
+## Vision and Portfolio Refinement
+
+The approved Vision was strengthened with two missing tests: the impact Invara Labs intends to create and the types of company it refuses to become. Its engineering-first positioning remains unchanged, and the approved Mission remains authoritative.
+
+Invara Advisory, Invara Framework, and Invara Accelerators are accepted as working portfolio names. They must not carry trademark symbols or be treated as final public brands until buyer-language, domain, handle, and professional trademark checks are complete.
+
 ## Related Artefact
 
 - [Company Strategy Pack](../../docs/02-business/02-company-strategy-pack.md)

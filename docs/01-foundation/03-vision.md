@@ -2,12 +2,12 @@
 
 **Document ID:** ILP-FOUNDATION-003  
 **Part:** Foundation  
-**Version:** 1.0.0  
+**Version:** 1.1.0<br>
 **Status:** Approved  
 **Classification:** Internal  
 **Owner:** Founder  
 **Created:** 27 July 2026  
-**Last Updated:** 27 July 2026
+**Last Updated:** 31 July 2026
 
 ---
 
@@ -48,6 +48,38 @@ The vision is realised when clients describe Invara Labs as:
 - A team recognised for exceptional engineering quality.
 - A company that creates measurable business impact rather than simply delivering software.
 - A trusted long-term technology partner.
+
+---
+
+# The Impact We Seek
+
+Invara Labs exists to improve both the software clients depend on and the engineering capability of the teams that own it.
+
+Our work should help organisations:
+
+- Make better technical decisions with clearer evidence.
+- Deliver dependable software with greater confidence.
+- Reduce avoidable complexity and repeated work.
+- Apply AI responsibly without surrendering human accountability.
+- Build engineering systems that outlast individual projects and people.
+- Strengthen developers through better tools, practices, and shared knowledge.
+
+The lasting result of an engagement should be better outcomes, stronger teams, and reusable capability.
+
+---
+
+# What We Refuse to Become
+
+As Invara Labs grows, it will not become:
+
+- A body-shopping or lowest-cost staffing business.
+- A company defined by one framework, vendor, or technology trend.
+- A project factory that values output volume above client outcomes.
+- A business that sacrifices trust, security, or maintainability for short-term revenue.
+- An organisation dependent on undocumented heroics.
+- An AI-first company that uses automation without purpose, governance, or accountable engineering judgement.
+
+Growth that requires abandoning these boundaries is not success.
 
 ---
 
@@ -134,6 +166,7 @@ If a decision moves the company away from these principles, it should be challen
 
 | Version | Date | Description | Author |
 |----------|------|-------------|--------|
+| 1.1.0 | 31 July 2026 | Added the intended long-term impact and explicit boundaries on what Invara Labs refuses to become | Founder |
 | 1.0.0 | 27 July 2026 | Initial approved version | Founder |
 
 ---

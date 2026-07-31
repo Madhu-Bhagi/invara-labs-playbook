@@ -1,6 +1,6 @@
 # Company Strategy Pack
 
-**Version:** 1.0.0<br>
+**Version:** 1.1.0<br>
 **Status:** Approved<br>
 **Owner:** Madhukumar Rajanala<br>
 **Created:** 31 July 2026<br>
@@ -11,6 +11,20 @@
 Invara Labs will compete as an **engineering excellence company**. It will sell measurable engineering outcomes, not access to a particular framework, a generic pool of developers, or documentation by itself.
 
 The Engineering Operating System (EEOS) is reusable intellectual property and proof of how Invara Labs works. The commercial product is the expertise, delivery system, and accountable service that improve a client's software and engineering capability.
+
+## Working Portfolio Architecture
+
+The company will test a three-part portfolio that explains how clients engage with Invara Labs:
+
+| Working name | Role | Current evidence |
+|---|---|---|
+| Invara Advisory | Consulting services and accountable client outcomes | Three approved launch offers |
+| Invara Framework | The universal EEOS, including principles, playbooks, standards, references, and templates | Existing repository |
+| Invara Accelerators | Reference implementations and reusable delivery assets | Enterprise Reference Implementation #1: Angular planned |
+
+These are **working brand names**, not registered marks or final public names. Do not use trademark symbols or publish the names as protected brands until buyer-language testing, domain and handle checks, and professional trademark screening are complete.
+
+The portfolio does not change the commercial priority: Advisory generates near-term revenue, the Framework establishes trust and delivery consistency, and Accelerators provide proof and reusable leverage.
 
 ## Vision and Mission
 
@@ -271,4 +285,5 @@ Activity without qualified conversations or proposals is not treated as market p
 
 | Version | Date | Change | Status |
 |---|---|---|---|
+| 1.1.0 | 31 July 2026 | Added the working Advisory, Framework, and Accelerators portfolio architecture with validation constraints | Approved |
 | 1.0.0 | 31 July 2026 | Established the initial value proposition, customer profile, offers, commercial models, GTM, and three-year roadmap | Approved |
