@@ -28,6 +28,12 @@ The approved Vision was strengthened with two missing tests: the impact Invara L
 
 Invara Advisory, Invara Framework, and Invara Accelerators are accepted as working portfolio names. They must not carry trademark symbols or be treated as final public brands until buyer-language, domain, handle, and professional trademark checks are complete.
 
+## Mission Execution Refinement
+
+The approved Mission remains the single source of truth. It was strengthened with daily commitments, a decision test, portfolio execution paths, and an expectation that outcomes are supported by engagement-specific evidence.
+
+The proposed standalone UVP document is unnecessary because the approved Company Strategy Pack already contains the UVP, differentiation, customer profile, offers, and proof constraints. The next useful company task is translating that material into brand identity and website messaging.
+
 ## Related Artefact
 
 - [Company Strategy Pack](../../docs/02-business/02-company-strategy-pack.md)

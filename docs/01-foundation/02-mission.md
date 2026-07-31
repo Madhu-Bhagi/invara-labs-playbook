@@ -2,12 +2,12 @@
 
 **Document ID:** ILP-FOUNDATION-002  
 **Part:** Foundation  
-**Version:** 1.0.0  
+**Version:** 1.1.0<br>
 **Status:** Approved  
 **Classification:** Internal  
 **Owner:** Founder  
 **Created:** 27 July 2026  
-**Last Updated:** 27 July 2026
+**Last Updated:** 31 July 2026
 
 ---
 
@@ -37,6 +37,38 @@ It explains what the company does every day, who it serves, how it delivers valu
 
 ---
 
+## Daily Mission
+
+Every day, Invara Labs works to:
+
+- Understand the business outcome before proposing technology.
+- Improve software quality, delivery confidence, security, and maintainability.
+- Reduce avoidable engineering risk and complexity.
+- Help engineering teams make clearer, evidence-based decisions.
+- Apply AI where it creates validated value while preserving human accountability.
+- Transfer knowledge so the client is stronger after the engagement.
+- Turn repeated, proven solutions into reusable intellectual property when doing so benefits future clients.
+
+These commitments guide client selection, hiring, product investment, delivery choices, and internal priorities.
+
+---
+
+## Mission Decision Test
+
+Before approving a project, product, partnership, or major investment, ask:
+
+1. Does it solve a meaningful customer or business problem?
+2. Can we define the outcome and how evidence will be collected?
+3. Does it strengthen or weaken client trust?
+4. Are we qualified to deliver it with accountable engineering judgement?
+5. Will the client retain stronger software, practices, knowledge, or capability?
+6. Can any repeated learning become responsible reusable value?
+7. Does it support revenue, reputation, or reusable intellectual property without compromising our principles?
+
+If the answer to the first four questions is not clearly yes, the work should not proceed in its current form.
+
+---
+
 ## Customer Promise
 
 Every engagement with Invara Labs will leave our clients in a better position than before we started through:
@@ -47,6 +79,8 @@ Every engagement with Invara Labs will leave our clients in a better position th
 - Better automation.
 - Better knowledge.
 - Better long-term maintainability.
+
+The promise is evidenced through agreed outcomes and deliverables, not unsupported claims.
 
 ---
 
@@ -136,6 +170,20 @@ We build long-term relationships based on trust, transparency, and consistent de
 
 ---
 
+## How the Mission Reaches the Market
+
+The current working portfolio translates this mission into three connected paths:
+
+| Working portfolio | Mission role |
+|---|---|
+| Invara Advisory | Delivers accountable consulting outcomes and transfers capability |
+| Invara Framework | Captures the reusable Engineering Operating System behind consistent delivery |
+| Invara Accelerators | Applies proven patterns through reference implementations and reusable assets |
+
+These names remain subject to buyer and trademark validation. Current offers, customer profile, and commercial boundaries are governed by the [Company Strategy Pack](../02-business/02-company-strategy-pack.md).
+
+---
+
 ## Mission Success Metrics
 
 We know we are fulfilling our mission when:
@@ -145,6 +193,8 @@ We know we are fulfilling our mission when:
 - Teams trust our engineering recommendations.
 - Delivery quality improves through reusable systems and AI-assisted workflows.
 - Invara Labs is recognised as a trusted long-term engineering partner.
+
+For each engagement, the team must define a small set of relevant baseline and outcome measures. Possible measures include defect escape rate, lead time, deployment confidence, availability, remediation time, developer effort, adoption, or documented risk reduction. Measures must fit the client problem; universal improvement claims are not acceptable.
 
 ---
 
@@ -173,6 +223,7 @@ We know we are fulfilling our mission when:
 
 | Version | Date | Description | Author |
 |---|---|---|---|
+| 1.1.0 | 31 July 2026 | Added daily commitments, a mission decision test, market execution paths, and evidence expectations | Founder |
 | 1.0.0 | 27 July 2026 | Initial approved version | Founder |
 
 ---

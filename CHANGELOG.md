@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.43.0] — 31 July 2026
+
+### Added
+
+- Daily mission commitments and a seven-question decision test to the approved Mission v1.1.0.
+- Clear links between the Mission and the working Advisory, Framework, and Accelerators portfolio.
+- Engagement-level evidence expectations for mission outcomes.
+
+### Changed
+
+- Kept the approved engineering-first Mission authoritative rather than replacing it with a duplicate AI-led statement.
+- Marked the UVP task complete through the existing Company Strategy Pack; brand and website messaging remain next.
+
 ## [1.42.0] — 31 July 2026
 
 ### Added
