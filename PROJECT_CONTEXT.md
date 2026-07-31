@@ -3,7 +3,7 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.46.0
+**Repository Version:** 1.47.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 1 August 2026
 
@@ -118,6 +118,9 @@ Chapter 04 — Core Values
 - ICP qualification requires six gates and uses a 14-point scorecard; prioritised accounts score at least 11 with no disqualifier.
 - `docs/06-sales/01-launch-service-catalogue.md` is the approved buyer-facing package for the three launch offers, with scope, process, deliverables, client inputs, exclusions, commercial models, and calls to action.
 - Platform Engineering, EEOS Implementation, low-cost products, courses, fractional CTO services, platform ownership, and broad transformations remain uncommitted expansion hypotheses pending repeated demand.
+- `docs/08-marketing/01-company-website-content.md` is the approved V1 source for Home, Services, Framework, About, and Contact.
+- Solutions, Industries, Accelerators, Insights, and Case Studies are deferred until credible content or evidence exists.
+- Website copy must not use AI-native language, unverified technology breadth, free-assessment offers, or invented proof.
 
 ## Open Work
 
@@ -127,6 +130,7 @@ Chapter 04 — Core Values
 - Apply the approved message hierarchy to brand identity and minimum website copy.
 - Test the Launch Service Catalogue in ten qualified buyer conversations before publishing fixed prices or adding services.
 - Create minimum website content using the approved UVP, ICP, and three launch offers.
+- Build and publish the five-route website from the approved content and acceptance criteria.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.
 - Record ICP evidence consistently and review the beachhead after 10 conversations, then approve or revise it after 20.

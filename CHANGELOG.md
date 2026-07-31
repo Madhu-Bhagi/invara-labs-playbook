@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.47.0] — 1 August 2026
+
+### Added
+
+- Approved Website V1 content for Home, Services, Framework, About, and Contact.
+- SEO metadata, calls to action, contact-form content, voice rules, proof boundaries, and build acceptance criteria.
+
+### Changed
+
+- Moved Marketing from Planned to In Progress.
+- Deferred empty Solutions, Industries, Accelerators, Insights, and Case Studies pages until real content or evidence exists.
+- Rejected AI-native positioning, unverified technology breadth, free consulting, and invented proof from the website proposal.
+
 ## [1.46.0] — 1 August 2026
 
 ### Added

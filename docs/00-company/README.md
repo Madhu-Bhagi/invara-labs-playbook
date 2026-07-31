@@ -15,6 +15,7 @@ Provide a high-level understanding of Invara Labs, its organisation, and shared 
 - [Core Values](../01-foundation/04-core-values.md)
 - [Company Strategy Pack](../02-business/02-company-strategy-pack.md)
 - [First Paying Client Plan](../02-business/01-first-client-plan.md)
+- [Website V1 Content](../08-marketing/01-company-website-content.md)
 
 ---
 

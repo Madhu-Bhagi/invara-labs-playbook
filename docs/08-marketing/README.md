@@ -8,13 +8,13 @@ Define credible market communication grounded in real capabilities and outcomes.
 
 ## Contents
 
-Marketing principles, playbooks, standards, references, and examples.
+- [Website V1 Content](01-company-website-content.md)
 
 ---
 
 ## Reading Order
 
-Begin with positioning, audiences, and evidence before channels and campaigns.
+Use the approved Website V1 Content, which derives positioning, audience, offers, and proof boundaries from the Company Strategy Pack.
 
 ---
 
@@ -34,10 +34,10 @@ Connects Company, Business, Sales, and Products.
 
 ## Status
 
-🔴 Planned
+🟡 In Progress
 
 ---
 
 ## Future Work
 
-Define positioning and proof standards before publishing market content.
+Build and publish the five-route website, then revise its message from qualified buyer evidence.
