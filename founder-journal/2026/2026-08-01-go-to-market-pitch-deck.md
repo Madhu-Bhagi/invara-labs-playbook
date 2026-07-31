@@ -20,6 +20,16 @@ The approved Vision, Strategy Pack, ICP, Launch Service Catalogue, and Website c
 - No AI-first or AI-native positioning.
 - Exact pricing remains evidence-led and is not asserted in the deck.
 
+## Founder Review and Version 2
+
+The founder review approved the positioning and story while identifying four client-readiness gaps: explicit business-risk framing, supported founder credibility, a memorable engineering-system visual, and visible implementation proof. Version 2 addresses those gaps without adding unsupported biography, social proof, client claims, or release dates.
+
+The deck now contains 16 slides. The engagement flow remains the buying timeline; a separate week-by-week implementation promise was not added because timing depends on the selected offer and confirmed scope.
+
+## Market Validation Decision
+
+The company is no longer prioritising internal planning or another sales document as the immediate next task. The next 30-day milestone is to launch the minimum credible website, start qualified conversations, build the first Angular reference implementation, prepare the Capability Statement, and pursue the first paid Engineering Excellence Assessment.
+
 ## Next Action
 
-Create a concise Capability Statement derived from the same approved sources, then test both assets in qualified buyer conversations.
+Launch the approved five-route website, then use Pitch Deck v2 in qualified buyer conversations and record objections, language, and offer resonance.

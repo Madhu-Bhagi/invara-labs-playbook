@@ -2,6 +2,18 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.49.0] — 1 August 2026
+
+### Added
+
+- Company Pitch Deck v2 with business-risk framing, an engineering-system flow, a planned Angular reference implementation, and evidence-safe founder credibility.
+
+### Changed
+
+- Moved the active phase from client preparation to Market Validation.
+- Made the minimum credible website the immediate priority, followed by reference implementation, Capability Statement, proposal template, and weekly founder-led outreach.
+- Kept unsupported founder tenure, titles, sector claims, release dates, testimonials, and client outcomes out of the deck.
+
 ## [1.48.0] — 1 August 2026
 
 ### Added

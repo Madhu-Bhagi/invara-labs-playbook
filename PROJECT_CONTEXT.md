@@ -2,8 +2,8 @@
 
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
-**Current Phase:** Go-to-Market — Client Ready
-**Repository Version:** 1.48.0
+**Current Phase:** Market Validation
+**Repository Version:** 1.49.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 1 August 2026
 
@@ -122,18 +122,20 @@ Chapter 04 — Core Values
 - Solutions, Industries, Accelerators, Insights, and Case Studies are deferred until credible content or evidence exists.
 - Website copy must not use AI-native language, unverified technology breadth, free-assessment offers, or invented proof.
 - The client-ready Company Pitch Deck is the first Go-to-Market sales asset and the approved foundation for external company presentations.
-- Sales assets now take priority over additional internal strategy documents; the Capability Statement is next.
+- Company Pitch Deck v2 leads with business-risk reduction and adds supported founder credibility, a buyer-safe system visual, and the planned Angular reference implementation without inventing proof.
+- Market validation now takes priority over further planning: launch the minimum credible website, build the first reference implementation, prepare the Capability Statement, and begin buyer conversations.
 
 ## Open Work
 
-- Validate the pitch deck in qualified buyer conversations and refine it from observed questions and objections.
-- Create the concise Capability Statement as the next client-facing asset.
+- Launch the approved five-route website as the immediate delivery priority.
+- Validate Pitch Deck v2 in qualified buyer conversations and refine it from observed questions and objections.
+- Create the concise Capability Statement after the minimum website launch is underway.
 - Define the remaining brand identity: visual direction and production website treatment.
 - Validate the three working portfolio names with target buyers and complete domain, handle, and trademark screening before public use.
 - Test the approved UVP in ten qualified buyer conversations and record the language, objections, and offer resonance.
 - Apply the approved message hierarchy to brand identity and minimum website copy.
 - Test the Launch Service Catalogue in ten qualified buyer conversations before publishing fixed prices or adding services.
-- Build and publish the five-route website from the approved content and acceptance criteria.
+- Build and publish the five-route website from the approved content and acceptance criteria within the current 30-day validation window.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.
 - Record ICP evidence consistently and review the beachhead after 10 conversations, then approve or revise it after 20.
@@ -141,6 +143,7 @@ Chapter 04 — Core Values
 - Launch the minimum credible website and begin qualified outreach immediately.
 - Publish weekly technical content and one reference implementation.
 - Release the minimum credible Enterprise Reference Implementation #1 — Angular after weekly revenue work is complete.
+- Conduct 10 qualified discovery conversations and convert the first paid Engineering Excellence Assessment.
 - Define Chapter 04 — Core Values.
 - Define Chapter 05 — Engineering Philosophy.
 - Define Chapter 06 — Company Manifesto.
