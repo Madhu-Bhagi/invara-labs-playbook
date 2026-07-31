@@ -10,12 +10,13 @@ Define how Invara Labs creates, delivers, and captures business value.
 
 - [First Paying Client — 90-Day Execution Plan](01-first-client-plan.md)
 - [Company Strategy Pack](02-company-strategy-pack.md)
+- [Buyer-Facing Launch Service Catalogue](../06-sales/01-launch-service-catalogue.md)
 
 ---
 
 ## Reading Order
 
-Read the Company Strategy Pack for the market choices, then use the 90-day execution plan to run them.
+Read the Company Strategy Pack for market choices, use the Launch Service Catalogue in buyer conversations, then run the 90-day execution plan.
 
 ---
 
@@ -41,4 +42,4 @@ Builds on Foundation and connects Sales, Operations, Finance, and Products.
 
 ## Future Work
 
-Add service packaging and market-positioning artefacts required by the first-client plan.
+Validate the approved strategy and service packaging through buyer conversations.

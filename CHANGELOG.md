@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.46.0] — 1 August 2026
+
+### Added
+
+- An approved buyer-facing Launch Service Catalogue for the Engineering Excellence Assessment, Modernisation Accelerator, and AI Engineering Adoption Sprint.
+- Buyer problems, intended outcomes, fit criteria, delivery steps, deliverables, client responsibilities, exclusions, commercial models, and calls to action for each offer.
+
+### Changed
+
+- Moved Sales from Planned to In Progress and connected it to the approved Strategy Pack and first-client plan.
+- Kept Platform Engineering, EEOS Implementation, low-cost products, courses, strategic retainers, and broad transformations as demand-gated expansion hypotheses.
+- Made minimum website content the next commercial asset.
+
 ## [1.45.0] — 1 August 2026
 
 ### Added

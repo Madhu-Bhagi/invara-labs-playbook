@@ -41,6 +41,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Company Strategy Pack decision — 31 July](2026-07-31-company-strategy-pack.md)
 - [UVP refinement — 1 August](2026-08-01-uvp-refinement.md)
 - [ICP refinement — 1 August](2026-08-01-icp-refinement.md)
+- [Launch Service Catalogue — 1 August](2026-08-01-launch-service-catalogue.md)
 
 ---
 

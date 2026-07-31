@@ -8,13 +8,13 @@ Define an honest, repeatable sales system centred on client fit and trust.
 
 ## Contents
 
-Sales principles, playbooks, standards, references, and examples.
+- [Launch Service Catalogue](01-launch-service-catalogue.md)
 
 ---
 
 ## Reading Order
 
-Begin with positioning and qualification before proposals and pipeline operations.
+Read the Company Strategy Pack for positioning and qualification, then use the Launch Service Catalogue in buyer conversations.
 
 ---
 
@@ -34,10 +34,10 @@ Connects Company, Business, Marketing, and Operations.
 
 ## Status
 
-🔴 Planned
+🟡 In Progress
 
 ---
 
 ## Future Work
 
-Define the ideal customer profile and first service package.
+Test the three launch offers with qualified buyers, then create minimum proposal and discovery-call templates from observed needs.

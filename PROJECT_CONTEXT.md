@@ -3,7 +3,7 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.45.0
+**Repository Version:** 1.46.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 1 August 2026
 
@@ -116,6 +116,8 @@ Chapter 04 — Core Values
 - The Company Strategy Pack v1.3.0 defines a beachhead ICP of software-intensive B2B product companies with roughly 20–150 engineers, an accountable technical buyer, and an urgent problem suited to a paid entry offer.
 - Large enterprises, broad industry lists, and preselected geographic regions are not part of the initial ICP without market evidence.
 - ICP qualification requires six gates and uses a 14-point scorecard; prioritised accounts score at least 11 with no disqualifier.
+- `docs/06-sales/01-launch-service-catalogue.md` is the approved buyer-facing package for the three launch offers, with scope, process, deliverables, client inputs, exclusions, commercial models, and calls to action.
+- Platform Engineering, EEOS Implementation, low-cost products, courses, fractional CTO services, platform ownership, and broad transformations remain uncommitted expansion hypotheses pending repeated demand.
 
 ## Open Work
 
@@ -123,6 +125,8 @@ Chapter 04 — Core Values
 - Validate the three working portfolio names with target buyers and complete domain, handle, and trademark screening before public use.
 - Test the approved UVP in ten qualified buyer conversations and record the language, objections, and offer resonance.
 - Apply the approved message hierarchy to brand identity and minimum website copy.
+- Test the Launch Service Catalogue in ten qualified buyer conversations before publishing fixed prices or adding services.
+- Create minimum website content using the approved UVP, ICP, and three launch offers.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.
 - Record ICP evidence consistently and review the beachhead after 10 conversations, then approve or revise it after 20.
