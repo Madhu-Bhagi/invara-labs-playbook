@@ -1,9 +1,9 @@
 # Invara Labs — Company Overview
 
-**Version:** 0.1.0  
+**Version:** 0.2.0<br>
 **Status:** Approved  
 **Owner:** Founder  
-**Updated:** 27 July 2026
+**Updated:** 31 July 2026
 
 ## Overview
 
@@ -23,6 +23,12 @@ The company combines:
 ## Positioning
 
 > Engineering First. AI Enabled. Business Focused.
+
+## Vision
+
+> To become one of the world's most trusted engineering and technology solutions companies, helping organisations solve meaningful business problems through exceptional engineering, thoughtful innovation, and long-term partnerships.
+
+The complete, approved statement is maintained in the [Company Vision](../01-foundation/03-vision.md). It is not duplicated within the Company domain.
 
 ## What We Are Not
 
@@ -45,3 +51,7 @@ Invara Labs aims to become a trusted global technology solutions company known f
 - Strong engineering systems
 - Long-term partnerships
 - Thoughtful innovation
+
+## Current Company Milestone
+
+Win the first paying B2B client by executing the [Company Strategy Pack](../02-business/02-company-strategy-pack.md) and [90-Day Plan](../02-business/01-first-client-plan.md).

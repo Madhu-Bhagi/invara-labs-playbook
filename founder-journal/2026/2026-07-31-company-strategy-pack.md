@@ -16,6 +16,12 @@ Outreach begins immediately. The website, public EEOS material, and Enterprise R
 
 The founder must validate the primary geography, company-size band, buyer segment, price floor, and strongest pain trigger through market conversations. The strategy deliberately does not invent these answers.
 
+## Sprint 0 Consolidation
+
+Sprint 0 begins with Company Foundation, but it will not recreate the approved strategy as ten separate documents. The existing Foundation Vision remains the authoritative company vision, while the Company Strategy Pack remains the source for UVP, ICP, services, engagement models, pricing, GTM, and the three-year roadmap.
+
+The company vision task is therefore complete after connecting those sources through the Company domain. Brand Identity is next.
+
 ## Related Artefact
 
 - [Company Strategy Pack](../../docs/02-business/02-company-strategy-pack.md)

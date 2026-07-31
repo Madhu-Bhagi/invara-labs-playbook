@@ -2,6 +2,14 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.41.0] — 31 July 2026
+
+### Changed
+
+- Made the approved Foundation Vision the single source of truth for the Company domain.
+- Connected the Company overview to the approved identity, Company Strategy Pack, and first-client plan.
+- Started Sprint 0 without creating ten duplicate company-strategy documents; Brand Identity is the next company task.
+
 ## [1.40.0] — 31 July 2026
 
 ### Added

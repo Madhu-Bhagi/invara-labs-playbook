@@ -3,7 +3,7 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.40.0
+**Repository Version:** 1.41.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 31 July 2026
 
@@ -104,9 +104,13 @@ Chapter 04 — Core Values
 - The Engineering Excellence Assessment is the primary paid entry offer; Modernisation and AI Engineering Adoption are the other launch offers.
 - Outreach starts before the website and reference implementation are complete; those assets improve conversion but do not delay buyer learning.
 - Exact market segment and pricing remain evidence gaps to resolve through buyer conversations, not assumptions.
+- Sprint 0 is the Company Foundation sprint, measured by revenue, reputation, or reusable intellectual property.
+- The company vision task is complete: `docs/01-foundation/03-vision.md` remains the single approved source and is surfaced through the Company domain.
+- The proposed ten-file Company Strategy Pack is not created because Vision, Mission, Core Values, UVP, ICP, services, engagement models, pricing, GTM, and roadmap already have authoritative homes.
 
 ## Open Work
 
+- Define the brand identity: tagline, elevator pitch, voice, visual direction, and website message hierarchy.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.
 - Select the initial geography, buyer segment, price floor, and currency from market evidence.
