@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.38.0] — 31 July 2026
+
+### Added
+
+- Approved First Paying Client 90-Day Execution Plan with measurable 30-, 60-, and 90-day outcomes.
+- A weekly operating cadence for outreach, discovery, publishing, pipeline review, and reusable asset work.
+
+### Changed
+
+- Shifted the active company phase from playbook authoring to first-client execution.
+- Preserved the approved engineering-first, AI-enabled positioning while adopting consulting, products, education, and validated platform investment as the business model.
+- Deferred additional playbooks and nonessential governance work until commercial evidence requires them.
+
 ## [1.37.0] — 31 July 2026
 
 ### Added

@@ -2,8 +2,8 @@
 
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
-**Current Phase:** Playbook Authoring
-**Repository Version:** 1.37.0
+**Current Phase:** First-Client Execution
+**Repository Version:** 1.38.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 31 July 2026
 
@@ -92,9 +92,18 @@ Chapter 04 — Core Values
 - The proposed five-playbook Enterprise Engineering Capability Draft set is complete; EEOS v1.0 still requires approval and supporting artefacts.
 - `EGF-ENGINEERING-GOVERNANCE` v1.0.0 is the Draft engineering constitution for decision rights, domain governance, exceptions, risk, assurance, cadence, and improvement.
 - ADR-009 establishes the `EGF` identifier family and places engineering governance at the Engineering domain root without restructuring the stable information architecture.
+- The first paying client is the active company milestone, governed by a 90-day execution plan ending 29 October 2026.
+- The approved identity remains engineering-first, AI-enabled, and business-focused; the proposed AI-first positioning is not adopted.
+- Consulting is the immediate revenue engine, supported by reusable products and public education; platform investment requires validated customer demand.
+- New playbooks and nonessential governance work are paused while the company packages services, builds proof, publishes, and conducts client outreach.
 
 ## Open Work
 
+- Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
+- Define the ideal customer profile and three outcome-based consulting packages.
+- Launch the minimum credible website and begin qualified outreach immediately.
+- Publish weekly technical content and one reference implementation.
+- Release the minimum credible Angular Enterprise Starter Kit after weekly revenue work is complete.
 - Define Chapter 04 — Core Values.
 - Define Chapter 05 — Engineering Philosophy.
 - Define Chapter 06 — Company Manifesto.
@@ -119,8 +128,8 @@ Chapter 04 — Core Values
 - Review and approve `PB-API-MANAGEMENT` as the fourth Enterprise Engineering Capability.
 - Review and approve `PB-DEVELOPER-EXPERIENCE` as the fifth Enterprise Engineering Capability.
 - Review and approve `EGF-ENGINEERING-GOVERNANCE` and assign named delegated authorities.
-- Build the cross-reference matrix and prioritise supporting Standards, References, Templates, and Examples before adding more playbooks.
-- Keep ILOS structure stable and focus on substantive playbook content.
+- Build the cross-reference matrix only when it removes a public-release or sales blocker.
+- Keep ILOS structure stable and resume substantive playbook work only after the first-client milestone or a demonstrated customer need.
 
 ## Working Method
 

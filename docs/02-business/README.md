@@ -8,13 +8,13 @@ Define how Invara Labs creates, delivers, and captures business value.
 
 ## Contents
 
-Business principles, playbooks, standards, references, and examples.
+- [First Paying Client — 90-Day Execution Plan](01-first-client-plan.md)
 
 ---
 
 ## Reading Order
 
-Begin with principles, then use playbooks and standards as they become available.
+Begin with the 90-day execution plan. Add durable business guidance only when operating experience justifies it.
 
 ---
 
@@ -34,10 +34,10 @@ Builds on Foundation and connects Sales, Operations, Finance, and Products.
 
 ## Status
 
-🔴 Planned
+🟡 In Progress
 
 ---
 
 ## Future Work
 
-Create domain folders when the first business content is approved.
+Add service packaging and market-positioning artefacts required by the first-client plan.
