@@ -2,6 +2,18 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.44.0] — 1 August 2026
+
+### Added
+
+- A public-ready UVP system with customer problem, outcomes, positioning statement, homepage copy, pitch variants, message pillars, and validation plan.
+- Proof requirements and messaging boundaries for claims about AI, delivery performance, expertise, and market position.
+
+### Changed
+
+- Expanded the Company Strategy Pack to v1.2.0 as the single authoritative UVP source instead of creating a duplicate company document.
+- Kept the public position engineering-first and AI-enabled rather than adopting AI-native or AI-first language.
+
 ## [1.43.0] — 31 July 2026
 
 ### Added

@@ -1,6 +1,6 @@
 # Company Strategy Pack
 
-**Version:** 1.1.0<br>
+**Version:** 1.2.0<br>
 **Status:** Approved<br>
 **Owner:** Madhukumar Rajanala<br>
 **Created:** 31 July 2026<br>
@@ -32,7 +32,28 @@ The approved [Vision](../01-foundation/03-vision.md) and [Mission](../01-foundat
 
 ## Unique Value Proposition
 
-> **Invara Labs helps technology leaders turn complex software and delivery problems into dependable engineering systems. We combine senior architecture judgement, an evidence-based Engineering Operating System, and responsibly applied AI to improve both the product and the team that owns it.**
+### Master UVP
+
+> **Invara Labs helps technology leaders turn complex software and delivery problems into dependable engineering systems. We combine senior architecture judgement, a reusable Engineering Operating System, and responsibly applied AI to improve both the software and the team that owns it.**
+
+### The customer problem
+
+As products and engineering teams grow, delivery often becomes slower and less predictable. Architecture decisions diverge, technical debt compounds, operational risk rises, AI adoption becomes inconsistent, and important knowledge remains scattered across people and tools.
+
+Hiring more developers does not fix a weak engineering system. Clients need focused senior judgement, a practical improvement path, and capability their teams can continue using after the engagement.
+
+### The outcome
+
+Invara Labs helps clients:
+
+- Make clearer architecture and engineering decisions.
+- Reduce material delivery, quality, security, and operational risks.
+- Establish repeatable practices without unnecessary bureaucracy.
+- Adopt AI with human accountability and evidence.
+- Improve the maintainability of the software they depend on.
+- Leave teams with reusable knowledge and stronger delivery capability.
+
+The exact outcomes and measures are agreed for each engagement. Faster delivery, lower cost, and productivity improvements are not claimed without evidence.
 
 ### Why a client should choose Invara Labs
 
@@ -44,6 +65,64 @@ The approved [Vision](../01-foundation/03-vision.md) and [Mission](../01-foundat
 - **Founder-level attention:** early clients work directly with the founder and receive senior technical judgement throughout the engagement.
 
 Claims must be supported by artefacts, demonstrations, references, or measured client outcomes. Invara Labs will not claim scale, certifications, or delivery history it has not earned.
+
+### Positioning statement
+
+> **For technology leaders whose software complexity is outgrowing their engineering systems, Invara Labs is an engineering excellence company that improves architecture, delivery practices, AI adoption, and long-term technical capability. Unlike capacity-led consulting, our engagements combine senior hands-on engineering, a reusable operating framework, and deliberate knowledge transfer so clients retain capability rather than dependency.**
+
+### Public message hierarchy
+
+**Homepage headline**
+
+> Build better software. Build stronger engineering capability.
+
+**Homepage supporting line**
+
+> Invara Labs helps technology leaders improve architecture, modernise critical systems, adopt AI responsibly, and build engineering practices that continue delivering value.
+
+**One-sentence pitch**
+
+> We turn complex software and delivery problems into dependable engineering systems through senior technical advisory, reusable methods, and accountable AI-assisted engineering.
+
+**30-second pitch**
+
+> Invara Labs is an engineering excellence company for technology leaders facing growing software complexity, delivery risk, or inconsistent engineering practices. We combine senior architecture and hands-on engineering with a reusable Engineering Operating System and responsibly applied AI. The result is not just a delivered artefact: clients retain better software, clearer decisions, and stronger engineering capability.
+
+**Proposal introduction**
+
+> Invara Labs partners with technology leaders to solve material engineering problems and leave lasting capability behind. We begin with the business outcome and available evidence, apply senior engineering judgement, and use reusable methods to improve the software, delivery system, and team knowledge relevant to the engagement.
+
+### Message pillars
+
+| Pillar | Customer meaning | Evidence required |
+|---|---|---|
+| Engineering excellence | Decisions balance business value, reliability, security, maintainability, and simplicity | Assessment method, engineering artefacts, or measured client result |
+| Capability without dependency | The client can operate and improve the result after handover | Documentation, knowledge transfer, ownership, and adoption evidence |
+| Responsible AI | AI accelerates suitable work while engineers retain authority | Approved workflow, validation record, security controls, and outcome measure |
+| Reusable systems | Proven methods reduce reinvention and improve consistency | EEOS material, reference implementation, or repeated delivery evidence |
+| Long-term partnership | Advice protects the client's lasting interests, not short-term utilisation | Transparent trade-offs, follow-through, and client reference when earned |
+
+### Messaging boundaries
+
+Do not describe Invara Labs as:
+
+- AI-native or AI-first.
+- A generic software development or staff-augmentation company.
+- A global benchmark, market leader, or proven transformation partner before evidence supports the claim.
+- Able to guarantee faster delivery, lower costs, or productivity gains without an agreed baseline and measurement method.
+- Technology-agnostic when the required expertise has not been verified for the engagement.
+
+### Validation plan
+
+Test the headline, master UVP, and 30-second pitch in the first 10 qualified buyer conversations. Record:
+
+- Whether the buyer understands the offer without explanation.
+- Which problem phrase earns recognition.
+- Which terms cause confusion or scepticism.
+- Whether the message leads naturally to one of the three launch offers.
+- The buyer's own language for the problem and desired outcome.
+
+Revise public messaging from recorded buyer language, while keeping the approved engineering-first position and evidence boundaries intact.
 
 ## Ideal Customer Profile
 
@@ -285,5 +364,6 @@ Activity without qualified conversations or proposals is not treated as market p
 
 | Version | Date | Change | Status |
 |---|---|---|---|
+| 1.2.0 | 1 August 2026 | Expanded the UVP into the authoritative public messaging source with positioning, pitch variants, proof requirements, and validation | Approved |
 | 1.1.0 | 31 July 2026 | Added the working Advisory, Framework, and Accelerators portfolio architecture with validation constraints | Approved |
 | 1.0.0 | 31 July 2026 | Established the initial value proposition, customer profile, offers, commercial models, GTM, and three-year roadmap | Approved |

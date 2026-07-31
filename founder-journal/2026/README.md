@@ -39,6 +39,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [Engineering Governance Framework — 31 July](2026-07-31-engineering-governance-framework.md)
 - [First-client execution decision — 31 July](2026-07-31-first-client-plan.md)
 - [Company Strategy Pack decision — 31 July](2026-07-31-company-strategy-pack.md)
+- [UVP refinement — 1 August](2026-08-01-uvp-refinement.md)
 
 ---
 

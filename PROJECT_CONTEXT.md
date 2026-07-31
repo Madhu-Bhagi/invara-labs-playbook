@@ -3,9 +3,9 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.43.0
+**Repository Version:** 1.44.0
 **ILOS Version:** 1.32.0
-**Last Updated:** 31 July 2026
+**Last Updated:** 1 August 2026
 
 ## Purpose
 
@@ -111,12 +111,15 @@ Chapter 04 — Core Values
 - Invara Advisory, Invara Framework, and Invara Accelerators are working portfolio names only; public brand use requires buyer-language, availability, and professional trademark validation.
 - The approved Mission v1.1.0 is the daily execution filter for client selection, hiring, products, delivery, and investment, with explicit evidence expectations.
 - The UVP is already approved in the Company Strategy Pack; a duplicate `03-unique-value-proposition.md` is not required.
+- The Company Strategy Pack v1.2.0 is the authoritative UVP and public-message source, including headline, positioning statement, pitch variants, proof requirements, and claim boundaries.
+- AI-native, unevidenced performance guarantees, and unearned market-leadership claims are prohibited in public positioning.
 
 ## Open Work
 
 - Define the brand identity: tagline, elevator pitch, voice, visual direction, and website message hierarchy.
 - Validate the three working portfolio names with target buyers and complete domain, handle, and trademark screening before public use.
-- Translate the approved UVP into brand identity and website messaging instead of creating a duplicate UVP document.
+- Test the approved UVP in ten qualified buyer conversations and record the language, objections, and offer resonance.
+- Apply the approved message hierarchy to brand identity and minimum website copy.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.
 - Select the initial geography, buyer segment, price floor, and currency from market evidence.
