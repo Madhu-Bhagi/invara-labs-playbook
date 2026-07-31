@@ -1,6 +1,6 @@
 # First Paying Client — 90-Day Execution Plan
 
-**Version:** 1.1.0<br>
+**Version:** 1.2.0<br>
 **Status:** Approved  
 **Owner:** Madhukumar Rajanala  
 **Start Date:** 31 July 2026  
@@ -29,7 +29,6 @@ The goal is achieved when Invara Labs has a signed, paid client engagement. The 
 - A professional website is live.
 - Three consulting packages have a defined buyer, outcome, scope, duration, and price model.
 - The EEOS repository is publishable and supports sales conversations.
-- One reference implementation demonstrates delivery capability.
 - One enterprise reference implementation has a credible first release.
 - A qualified prospect list and active outreach cadence exist.
 
@@ -50,7 +49,7 @@ The EEOS remains universal and technology-agnostic. Technology-specific referenc
 
 ### Days 1–30 — Make the offer sellable
 
-- Select an ideal customer profile and a primary buyer.
+- Validate the beachhead ICP and primary buyer through qualified conversations.
 - Define three outcome-based consulting packages.
 - Create the website's positioning, services, proof, and contact content.
 - Audit the EEOS repository for public-release blockers; fix only material credibility issues.
@@ -123,5 +122,6 @@ Progress is reviewed weekly against leading indicators—outreach, conversations
 
 | Version | Date | Change | Status |
 |---|---|---|---|
+| 1.2.0 | 1 August 2026 | Linked first-client execution to ICP validation and removed a duplicate reference-implementation success criterion | Approved |
 | 1.1.0 | 31 July 2026 | Positioned Angular as the first technology-specific implementation of a universal EEOS rather than the company identity | Approved |
 | 1.0.0 | 31 July 2026 | Established the first-client goal and 90-day company execution plan | Approved |

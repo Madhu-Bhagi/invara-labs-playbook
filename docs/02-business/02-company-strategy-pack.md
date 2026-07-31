@@ -1,6 +1,6 @@
 # Company Strategy Pack
 
-**Version:** 1.2.0<br>
+**Version:** 1.3.0<br>
 **Status:** Approved<br>
 **Owner:** Madhukumar Rajanala<br>
 **Created:** 31 July 2026<br>
@@ -126,34 +126,111 @@ Revise public messaging from recorded buyer language, while keeping the approved
 
 ## Ideal Customer Profile
 
-### Primary customer
+### Beachhead hypothesis
 
-A product-led or digitally dependent B2B company that:
+> **Our initial ideal customer is a software-intensive B2B product company with roughly 20–150 engineers, an accountable CTO or VP Engineering, and an urgent architecture, modernisation, delivery-system, or responsible-AI problem that can begin with a paid assessment or focused sprint.**
 
-- Has a CTO, VP Engineering, Head of Engineering, or technical founder as an accountable buyer.
-- Has a working product and an engineering team, but delivery risk or system complexity is increasing.
-- Needs senior engineering guidance without making an immediate executive hire.
-- Values maintainability, security, delivery confidence, and knowledge transfer.
-- Can act on recommendations and fund a focused B2B engagement.
+This is a market hypothesis for the first-client motion, not a permanent restriction. The first 20 qualified conversations will test it.
 
-### High-signal triggers
+### Why this segment first
 
-- A major platform, architecture, or cloud decision is approaching.
+- Software performance and engineering capability directly affect the business.
+- The team is large enough to experience coordination, architecture, quality, and platform problems.
+- A technology executive can often sponsor a focused engagement without a long transformation programme.
+- The company can benefit from senior expertise without buying commodity capacity.
+- The segment fits the current assessment, modernisation, and AI-adoption offers.
+
+Large enterprises may become valuable clients later, but they are not the default beachhead because procurement cycles, proof requirements, and stakeholder complexity can delay first revenue.
+
+### Account characteristics
+
+Prioritise organisations that:
+
+- Operate an existing revenue-generating or mission-critical software product.
+- Have an established engineering team and named technical leadership.
+- Are experiencing complexity or risk that internal delivery alone has not resolved.
+- Value maintainability, security, delivery confidence, and capability transfer.
+- Can fund and act on a focused B2B engagement.
+- Are willing to provide the people, system access, and evidence required for useful work.
+
+### Primary buyers
+
+| Buyer | Accountable concern | Relevant entry offer |
+|---|---|---|
+| CTO or technical founder | Technical risk, product scale, investment decisions, and engineering capability | Engineering Excellence Assessment |
+| VP or Head of Engineering | Delivery predictability, team effectiveness, architecture, and quality | Assessment or Modernisation Accelerator |
+| Chief Architect or senior architecture leader | Cross-system decisions, modernisation, standards, and risk | Assessment or Modernisation Accelerator |
+| Platform or Developer Experience leader | Delivery friction, self-service, governance, and adoption | Assessment; Platform Enablement only after qualification |
+| AI or engineering transformation leader | Safe, useful, measurable AI-assisted engineering | AI Engineering Adoption Sprint |
+
+Engineering managers and principal engineers can champion an engagement, but a buyer with budget and decision authority must sponsor it.
+
+### Priority triggers
+
+Pursue an account when at least one material trigger exists:
+
+- A major architecture, platform, cloud, or investment decision is due within 90 days.
 - Delivery has slowed as the product and team have grown.
-- A framework, platform, or legacy application requires modernisation.
-- AI tools are being adopted without consistent security, quality, or review controls.
-- CI/CD, developer experience, reliability, or engineering governance is limiting growth.
-- Leadership needs independent technical evidence before investment or transformation.
+- A supported framework, platform, or legacy application needs a bounded modernisation path.
+- Reliability, security, quality, or technical debt is creating visible business risk.
+- AI tools are being adopted without consistent controls, validation, or outcome measurement.
+- Engineering leaders need independent evidence before committing to a larger change.
 
-### Poor fit
+### Required qualification gates
 
-- Buyers seeking the lowest-cost staff augmentation.
-- Projects with no accountable sponsor or access to technical stakeholders.
-- Fixed outcomes that depend on undisclosed systems or unavailable client teams.
-- Requests to bypass security, quality, legal, or ethical obligations.
-- Large transformation promises before a paid discovery and evidence phase.
+An opportunity is not qualified unless all of the following are true:
 
-The first 20 discovery conversations will test and narrow this profile.
+- A material business or engineering problem is acknowledged.
+- A named sponsor has decision influence and access to budget.
+- The client is willing to begin with paid discovery, an assessment, or a focused sprint.
+- Relevant technical stakeholders and evidence will be available.
+- A useful outcome can be defined for the next 30–90 days.
+- The work fits verified Invara Labs capability and ethical boundaries.
+
+### Qualification scorecard
+
+Score each factor from 0 to 2: `0` absent, `1` uncertain, `2` strong.
+
+| Factor | Question |
+|---|---|
+| Strategic importance | Does software materially affect revenue, operations, risk, or customer value? |
+| Urgency | Is there a decision, deadline, or visible consequence within 90 days? |
+| Executive sponsorship | Is a budget-owning or influential technical leader engaged? |
+| Problem evidence | Can the buyer point to incidents, delays, cost, debt, risk, or adoption gaps? |
+| Access and readiness | Will the team provide people, systems, and evidence needed for the work? |
+| Offer fit | Can one approved launch offer create a bounded, valuable first outcome? |
+| Partnership fit | Does the buyer value transparent advice and capability transfer over cheap capacity? |
+
+Prioritise accounts scoring at least 11 of 14 with every required gate satisfied. Scores guide focus; they do not override disqualifiers.
+
+### Poor fit and disqualifiers
+
+- Lowest-cost staff augmentation or body-shopping requests.
+- No accountable sponsor, budget path, urgency, or access to technical stakeholders.
+- Very small one-off build requests with no strategic engineering problem.
+- Broad transformation expectations without paid discovery and phased decisions.
+- Procurement timelines incompatible with the first-client milestone.
+- Requests to bypass security, quality, legal, privacy, or ethical obligations.
+- Technology work outside verified capability without an approved specialist delivery model.
+
+### Initial industry and geography stance
+
+Begin with software-intensive B2B product companies reachable through the founder's trusted network and focused outbound. Prefer B2B SaaS and digital product businesses before regulated or public-sector segments with heavier entry requirements.
+
+Do not declare India, the Middle East, Singapore, or another region as the primary market until conversations show access, urgency, budget, and workable buying cycles. Record geography in every conversation and choose the first geographic focus from evidence.
+
+### ICP validation measures
+
+For the first 20 qualified conversations, record:
+
+- Company type, engineering-team range, geography, and buyer role.
+- Trigger, urgency, current consequence, and existing attempts.
+- Which launch offer fits and why.
+- Budget path, buying process, and expected decision time.
+- Exact language used to describe the problem and desired outcome.
+- Qualification score, next step, loss reason, or conversion result.
+
+Review the hypothesis after 10 conversations and approve or revise it after 20. A profile is validated by qualified opportunities and paid work, not agreement with the document.
 
 ## Service Catalogue
 
@@ -364,6 +441,7 @@ Activity without qualified conversations or proposals is not treated as market p
 
 | Version | Date | Change | Status |
 |---|---|---|---|
+| 1.3.0 | 1 August 2026 | Narrowed the first-client ICP into a testable beachhead with buyers, triggers, gates, scorecard, exclusions, and validation evidence | Approved |
 | 1.2.0 | 1 August 2026 | Expanded the UVP into the authoritative public messaging source with positioning, pitch variants, proof requirements, and validation | Approved |
 | 1.1.0 | 31 July 2026 | Added the working Advisory, Framework, and Accelerators portfolio architecture with validation constraints | Approved |
 | 1.0.0 | 31 July 2026 | Established the initial value proposition, customer profile, offers, commercial models, GTM, and three-year roadmap | Approved |

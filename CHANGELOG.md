@@ -2,6 +2,19 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.45.0] — 1 August 2026
+
+### Added
+
+- A narrow first-client ICP hypothesis with priority buyers, urgent triggers, qualification gates, a 14-point scorecard, disqualifiers, and evidence requirements.
+- A review checkpoint after 10 qualified conversations and an approval-or-revision gate after 20.
+
+### Changed
+
+- Rejected the proposed Series A-to-large-enterprise, 20–500-engineer, multi-industry, multi-region profile as too broad for a first-client motion.
+- Updated the 90-day plan to validate the ICP through conversations and removed a duplicate reference-implementation criterion.
+- Kept geographic focus open until buyer access, urgency, budget, and sales-cycle evidence identify a viable market.
+
 ## [1.44.0] — 1 August 2026
 
 ### Added

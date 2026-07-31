@@ -3,7 +3,7 @@
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
 **Current Phase:** First-Client Execution
-**Repository Version:** 1.44.0
+**Repository Version:** 1.45.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 1 August 2026
 
@@ -111,8 +111,11 @@ Chapter 04 — Core Values
 - Invara Advisory, Invara Framework, and Invara Accelerators are working portfolio names only; public brand use requires buyer-language, availability, and professional trademark validation.
 - The approved Mission v1.1.0 is the daily execution filter for client selection, hiring, products, delivery, and investment, with explicit evidence expectations.
 - The UVP is already approved in the Company Strategy Pack; a duplicate `03-unique-value-proposition.md` is not required.
-- The Company Strategy Pack v1.2.0 is the authoritative UVP and public-message source, including headline, positioning statement, pitch variants, proof requirements, and claim boundaries.
+- The Company Strategy Pack v1.3.0 is the authoritative UVP, ICP, and public-message source, including pitch variants, proof requirements, qualification gates, and claim boundaries.
 - AI-native, unevidenced performance guarantees, and unearned market-leadership claims are prohibited in public positioning.
+- The Company Strategy Pack v1.3.0 defines a beachhead ICP of software-intensive B2B product companies with roughly 20–150 engineers, an accountable technical buyer, and an urgent problem suited to a paid entry offer.
+- Large enterprises, broad industry lists, and preselected geographic regions are not part of the initial ICP without market evidence.
+- ICP qualification requires six gates and uses a 14-point scorecard; prioritised accounts score at least 11 with no disqualifier.
 
 ## Open Work
 
@@ -122,6 +125,7 @@ Chapter 04 — Core Values
 - Apply the approved message hierarchy to brand identity and minimum website copy.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.
+- Record ICP evidence consistently and review the beachhead after 10 conversations, then approve or revise it after 20.
 - Select the initial geography, buyer segment, price floor, and currency from market evidence.
 - Launch the minimum credible website and begin qualified outreach immediately.
 - Publish weekly technical content and one reference implementation.
