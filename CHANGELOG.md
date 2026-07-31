@@ -2,6 +2,18 @@
 
 All notable changes to the Invara Labs Playbook are recorded here.
 
+## [1.48.0] — 1 August 2026
+
+### Added
+
+- A verified 12-slide Company Pitch Deck for client, partner, and investor conversations.
+- Speaker-note citations connecting external claims to the approved Strategy Pack, Launch Service Catalogue, Vision, and Website content.
+
+### Changed
+
+- Moved the active company phase to Go-to-Market — Client Ready.
+- Prioritised sales assets over additional internal strategy documents; the Capability Statement is next.
+
 ## [1.47.0] — 1 August 2026
 
 ### Added

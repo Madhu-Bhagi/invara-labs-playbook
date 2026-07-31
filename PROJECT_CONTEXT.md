@@ -2,8 +2,8 @@
 
 **Company:** Invara Labs  
 **Repository:** Invara Labs Playbook  
-**Current Phase:** First-Client Execution
-**Repository Version:** 1.47.0
+**Current Phase:** Go-to-Market — Client Ready
+**Repository Version:** 1.48.0
 **ILOS Version:** 1.32.0
 **Last Updated:** 1 August 2026
 
@@ -121,15 +121,18 @@ Chapter 04 — Core Values
 - `docs/08-marketing/01-company-website-content.md` is the approved V1 source for Home, Services, Framework, About, and Contact.
 - Solutions, Industries, Accelerators, Insights, and Case Studies are deferred until credible content or evidence exists.
 - Website copy must not use AI-native language, unverified technology breadth, free-assessment offers, or invented proof.
+- The client-ready Company Pitch Deck is the first Go-to-Market sales asset and the approved foundation for external company presentations.
+- Sales assets now take priority over additional internal strategy documents; the Capability Statement is next.
 
 ## Open Work
 
-- Define the brand identity: tagline, elevator pitch, voice, visual direction, and website message hierarchy.
+- Validate the pitch deck in qualified buyer conversations and refine it from observed questions and objections.
+- Create the concise Capability Statement as the next client-facing asset.
+- Define the remaining brand identity: visual direction and production website treatment.
 - Validate the three working portfolio names with target buyers and complete domain, handle, and trademark screening before public use.
 - Test the approved UVP in ten qualified buyer conversations and record the language, objections, and offer resonance.
 - Apply the approved message hierarchy to brand identity and minimum website copy.
 - Test the Launch Service Catalogue in ten qualified buyer conversations before publishing fixed prices or adding services.
-- Create minimum website content using the approved UVP, ICP, and three launch offers.
 - Build and publish the five-route website from the approved content and acceptance criteria.
 - Execute `docs/02-business/01-first-client-plan.md` and review progress weekly.
 - Validate the ideal customer profile and three approved launch offers through buyer conversations.

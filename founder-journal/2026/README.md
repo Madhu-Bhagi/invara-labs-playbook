@@ -43,6 +43,7 @@ Index founder discussions, trade-offs, and session outcomes recorded during 2026
 - [ICP refinement — 1 August](2026-08-01-icp-refinement.md)
 - [Launch Service Catalogue — 1 August](2026-08-01-launch-service-catalogue.md)
 - [Website V1 Content — 1 August](2026-08-01-website-content.md)
+- [Go-to-Market Pitch Deck — 1 August](2026-08-01-go-to-market-pitch-deck.md)
 
 ---
 
